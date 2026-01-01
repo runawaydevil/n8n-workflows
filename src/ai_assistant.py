@@ -51,6 +51,9 @@ class WorkflowAssistant:
 
         where_clause = " OR ".join(search_terms) if search_terms else "1=1"
 
+        # Initialize params list for SQL parameterized queries
+        params = []
+
         # Add intent-based filtering
         if intent == "automation":
             where_clause += (
@@ -71,7 +74,10 @@ class WorkflowAssistant:
             LIMIT ?
         """
 
-        cursor = conn.execute(query_sql)
+        # Add limit to params
+        params.append(limit)
+
+        cursor = conn.execute(query_sql, params)
         workflows = []
         for row in cursor.fetchall():
             workflow = dict(row)
