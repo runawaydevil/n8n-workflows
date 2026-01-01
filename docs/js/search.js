@@ -42,7 +42,7 @@ class WorkflowSearch {
     async loadSearchIndex() {
         this.showLoading(true);
         try {
-            const response = await fetch('/docs/api/search-index.json');
+            const response = await fetch('api/search-index.json');
             if (!response.ok) {
                 throw new Error('Falha ao carregar índice de busca');
             }
