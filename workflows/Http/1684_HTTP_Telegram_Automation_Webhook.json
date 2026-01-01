@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "NeurochainAI Basic API Integration",
+  "name": "Integração básica da API da NeurochainAI",
   "tags": [
     "automation",
     "n8n",
@@ -1162,6 +1162,6 @@
       ]
     }
   },
-  "description": "Automated workflow: NeurochainAI Basic API Integration. This workflow integrates 7 different services: telegramTrigger, httpRequest, stickyNote, telegram, code. It contains 47 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Integração básica da API da NeurochainAI. Este fluxo de trabalho integra 7 serviços diferentes: telegrama Trigger, httpRequest, pegajosoNota, telegrama, código. Ele contém 47 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: NeurochainAI Basic API Integration. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

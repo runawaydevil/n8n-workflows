@@ -93,7 +93,7 @@
     }
   ],
   "connections": {},
-  "description": "Automated workflow: Workflow. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -118,7 +118,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Unnamed Workflow",
+  "name": "Fluxo de trabalho desconhecido",
   "tags": [
     "automation",
     "n8n",

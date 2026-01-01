@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Notify_user_in_Slack_of_quarantined_email_and_create_Jira_ticket_if_opened",
+  "name": "Notifiquem o usuário em Slack de e-mail e criem o bilhete de identidade aberto",
   "tags": [
     "automation",
     "n8n",
@@ -588,6 +588,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Notify_user_in_Slack_of_quarantined_email_and_create_Jira_ticket_if_opened. This workflow integrates 9 different services: webhook, stickyNote, httpRequest, code, noOp. It contains 20 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Notifique o usuário em \"Slack\" de \"Quarentened\" de \"email\" e \"crie\" de \"Jira\" de \"se\" aberto. Este fluxo de trabalho integra 9 serviços diferentes: webhook, pegajosoNota, httpRequest, código, noOp. Contém 20 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "notes": "Excellent quality workflow: Notify_user_in_Slack_of_quarantined_email_and_create_Jira_ticket_if_opened. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

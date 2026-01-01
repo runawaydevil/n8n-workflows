@@ -599,7 +599,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Webhook Workflow. This workflow integrates 6 different services: webhook, stickyNote, switch, set, stopAndError. It contains 16 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Fluxo de trabalho Webhook. Este fluxo de trabalho integra 6 serviços diferentes: webhook, pegajosoNota, interruptor, conjunto, paradaError. Contém 16 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "tags": [
     "automation",
     "n8n",

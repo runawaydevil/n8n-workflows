@@ -1,5 +1,5 @@
 {
-  "name": "DSP Agent",
+  "name": "DSP Agente",
   "nodes": [
     {
       "parameters": {
@@ -575,6 +575,6 @@
     "excellent",
     "optimized"
   ],
-  "description": "Automated workflow: DSP Agent. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Agente DSP. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "notes": "Excellent quality workflow: DSP Agent. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

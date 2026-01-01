@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "⚡AI-Powered YouTube Playlist & Video Summarization and Analysis v2",
+  "name": "Tradução e Sincronia:",
   "tags": [
     "automation",
     "n8n",
@@ -1923,6 +1923,6 @@
       ]
     }
   },
-  "description": "Automated workflow: ⚡AI-Powered YouTube Playlist & Video Summarization and Analysis v2. This workflow integrates 24 different services: stickyNote, vectorStoreQdrant, textSplitterRecursiveCharacterTextSplitter, merge, switch. It contains 89 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Playlist e Video Summarização e Análise V2. Este fluxo de trabalho integra 24 serviços diferentes: pegajosoNota, vetorStoreQdrant, textSplitterRecursivoCharacterTextSplitter, merge, switch. Contém 89 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: ⚡AI-Powered YouTube Playlist & Video Summarization and Analysis v2. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

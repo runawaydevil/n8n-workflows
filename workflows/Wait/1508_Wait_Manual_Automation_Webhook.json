@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Indeed Company Data Scraper & Summarization with Airtable, Bright Data and Google Gemini",
+  "name": "Na verdade, o Scraper de Dados da Empresa e a Resumição com Airtable, Bright Data e Google Gemini",
   "tags": [
     "automation",
     "n8n",
@@ -691,6 +691,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Indeed Company Data Scraper & Summarization with Airtable, Bright Data and Google Gemini. This workflow integrates 15 different services: stickyNote, httpRequest, markdown, wait, airtable. It contains 28 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Na verdade, raspador de dados da empresa e sumarização com Airtable, Bright Data e Google Gemini. Este fluxo de trabalho integra 15 serviços diferentes: pegajosoNota, httpPedido, marcação, espera, ar-condicionado. Contém 28 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Indeed Company Data Scraper & Summarization with Airtable, Bright Data and Google Gemini. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

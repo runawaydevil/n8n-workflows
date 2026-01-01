@@ -1,6 +1,6 @@
 {
   "id": "167",
-  "name": "Create a short URL and get the statistics of the URL",
+  "name": "Criar um URL curto e obter as estatísticas do URL",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -81,7 +81,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Create a short URL and get the statistics of the URL. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Crie uma URL curta e obtenha as estatísticas da URL. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-f4ba9ce0",
     "versionId": "1.0.0",

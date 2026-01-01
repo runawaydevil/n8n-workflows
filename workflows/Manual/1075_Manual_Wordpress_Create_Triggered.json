@@ -1,6 +1,6 @@
 {
   "id": "60",
-  "name": "Create a post and update the post in WordPress",
+  "name": "Criar um post e atualizar o post no WordPress",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -82,7 +82,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Create a post and update the post in WordPress. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Criar um post e atualizar o post no WordPress. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-17275d25",
     "versionId": "1.0.0",

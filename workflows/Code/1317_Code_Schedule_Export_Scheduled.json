@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "🧹 Archive (delete) duplicate items from a Notion database",
+  "name": "Arquivo (delete) duplicar itens de um banco de dados Notion",
   "tags": [
     "automation",
     "n8n",
@@ -263,6 +263,6 @@
   },
   "versionId": "fdd2e5ad-4ff5-4432-a5f9-ebbeb1a1a6cb",
   "connections": {},
-  "description": "Automated workflow: 🧹 Archive (delete) duplicate items from a Notion database. This workflow integrates 7 different services: notionTrigger, stickyNote, code, scheduleTrigger, set. It contains 11 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Arquivo (delete) duplicar itens de um banco de dados Notion. Este fluxo de trabalho integra 7 serviços diferentes: noçãoTrigger, pegajosoNota, código, programação Trigger, pronto. Ele contém 11 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: 🧹 Archive (delete) duplicate items from a Notion database. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

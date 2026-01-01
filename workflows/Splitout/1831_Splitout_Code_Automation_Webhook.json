@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "🎦🚀 YouTube Video Comment Analysis Agent",
+  "name": "YouTube Video Comentar Analysis Agent",
   "tags": [
     "automation",
     "n8n",
@@ -660,6 +660,6 @@
       ]
     }
   },
-  "description": "Automated workflow: 🎦🚀 YouTube Video Comment Analysis Agent. This workflow integrates 16 different services: stickyNote, httpRequest, markdown, code, agent. It contains 31 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: YouTube Video Comentar Analysis Agent. Este fluxo de trabalho integra 16 serviços diferentes: pegajosoNota, httpRequest, markdown, código, agente. Contém 31 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: 🎦🚀 YouTube Video Comment Analysis Agent. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

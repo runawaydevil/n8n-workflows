@@ -1,5 +1,5 @@
 {
-  "name": "Prevent concurrent workflow runs using Redis",
+  "name": "Evitar fluxos de trabalho simultâneos usando Redis",
   "nodes": [
     {
       "id": "e0729c93-e192-42fb-9ba0-c465d5a38089",
@@ -1612,7 +1612,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Prevent concurrent workflow runs using Redis. This workflow integrates 11 different services: stickyNote, wait, switch, redis, set. It contains 43 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Evitar fluxos de trabalho simultâneos usando Redis. Este fluxo de trabalho integra 11 serviços diferentes: pegajosoNota, espera, interruptor, redis, conjunto. Contém 43 nós e segue as melhores práticas para lidar com erros e segurança.",
   "meta": {
     "instanceId": "workflow-13231180",
     "versionId": "1.0.0",

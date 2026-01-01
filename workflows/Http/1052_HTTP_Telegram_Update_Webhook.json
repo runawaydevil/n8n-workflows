@@ -1,6 +1,6 @@
 {
   "id": "58",
-  "name": "Receive updates from Telegram and send an image of a cocktail",
+  "name": "Receba atualizações do Telegram e envie uma imagem de um coquetel",
   "nodes": [
     {
       "name": "Telegram Trigger",
@@ -105,5 +105,5 @@
     "excellent",
     "optimized"
   ],
-  "description": "Production-ready workflow: Receive updates from Telegram and send an image of a cocktail. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
+  "description": "Fluxo de trabalho pronto para produção: Receba atualizações do Telegram e envie uma imagem de um coquetel. Este fluxo de trabalho foi otimizado para uso de produção com manipulação de erros abrangente, segurança e documentação."
 }

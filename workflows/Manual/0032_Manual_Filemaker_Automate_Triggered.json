@@ -134,8 +134,8 @@
     }
   ],
   "connections": {},
-  "name": "Filemaker Workflow",
-  "description": "Automated workflow: Filemaker Workflow. This workflow processes data and performs automated tasks.",
+  "name": "Arquiveiro Workflow",
+  "description": "Fluxo de trabalho automatizado: Fluxo de trabalho do fabricante de arquivos. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,

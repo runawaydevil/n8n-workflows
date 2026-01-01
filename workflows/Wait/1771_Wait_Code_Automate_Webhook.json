@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Automated Content Generation & Publishing - Wordpress",
+  "name": "Geração e publicação automáticas de conteúdo - Wordpress",
   "tags": [
     "automation",
     "n8n",
@@ -514,6 +514,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Automated Content Generation & Publishing - Wordpress. This workflow integrates 10 different services: stickyNote, wordpress, httpRequest, wait, code. It contains 21 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Geração e Publicação Automatizadas - Wordpress. Este fluxo de trabalho integra 10 serviços diferentes: pegajosoNota, wordpress, httpPedido, espera, código. Contém 21 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Automated Content Generation & Publishing - Wordpress. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Automate PDF Image Extraction & Analysis with GPT-4o and Google Drive",
+  "name": "Automatizar PDF Extração e análise de imagens com GPT-4o e Google Drive",
   "tags": [
     "automation",
     "n8n",
@@ -403,6 +403,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Automate PDF Image Extraction & Analysis with GPT-4o and Google Drive. This workflow integrates 10 different services: convertToFile, stickyNote, httpRequest, code, splitOut. It contains 17 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Automatize extração e análise de imagens PDF com GPT-4o e Google Drive. Este fluxo de trabalho integra 10 serviços diferentes: converter ToFile, pegajosoNota, httpPedido, código, separado. Contém 17 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "notes": "Excellent quality workflow: Automate PDF Image Extraction & Analysis with GPT-4o and Google Drive. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Academic Assistant Chatbot (Telegram + OpenAI)",
+  "name": "Chatbot Assistente Acadêmico (Telegram + OpenAI)",
   "nodes": [
     {
       "parameters": {
@@ -167,6 +167,6 @@
     "excellent",
     "optimized"
   ],
-  "description": "Automated workflow: Academic Assistant Chatbot (Telegram + OpenAI). This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Chatbot Assistente Acadêmico (Telegram + OpenAI). Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "notes": "Excellent quality workflow: Academic Assistant Chatbot (Telegram + OpenAI). This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

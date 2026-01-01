@@ -411,44 +411,46 @@ class WorkflowDatabase:
         name = workflow["name"]
         node_count = workflow["node_count"]
 
-        # Start with trigger description
+        # Start with trigger description (em português)
         trigger_descriptions = {
-            "Webhook": "Webhook-triggered automation that",
-            "Scheduled": "Scheduled automation that",
-            "Complex": "Complex multi-step automation that",
+            "Webhook": "Automação acionada por webhook que",
+            "Scheduled": "Automação agendada que",
+            "Complex": "Automação complexa de múltiplas etapas que",
         }
-        desc = trigger_descriptions.get(trigger_type, "Manual workflow that")
+        desc = trigger_descriptions.get(trigger_type, "Fluxo de trabalho manual que")
 
         # Add functionality based on name and integrations
         if integrations:
             main_services = list(integrations)[:3]
             if len(main_services) == 1:
-                desc += f" integrates with {main_services[0]}"
+                desc += f" integra com {main_services[0]}"
             elif len(main_services) == 2:
-                desc += f" connects {main_services[0]} and {main_services[1]}"
+                desc += f" conecta {main_services[0]} e {main_services[1]}"
             else:
-                desc += f" orchestrates {', '.join(main_services[:-1])}, and {main_services[-1]}"
+                desc += f" orquestra {', '.join(main_services[:-1])} e {main_services[-1]}"
 
         # Add workflow purpose hints from name
         name_lower = name.lower()
-        if "create" in name_lower:
-            desc += " to create new records"
-        elif "update" in name_lower:
-            desc += " to update existing data"
-        elif "sync" in name_lower:
-            desc += " to synchronize data"
-        elif "notification" in name_lower or "alert" in name_lower:
-            desc += " for notifications and alerts"
-        elif "backup" in name_lower:
-            desc += " for data backup operations"
-        elif "monitor" in name_lower:
-            desc += " for monitoring and reporting"
+        if "create" in name_lower or "criar" in name_lower:
+            desc += " para criar novos registros"
+        elif "update" in name_lower or "atualizar" in name_lower:
+            desc += " para atualizar dados existentes"
+        elif "sync" in name_lower or "sincronizar" in name_lower:
+            desc += " para sincronizar dados"
+        elif "notification" in name_lower or "alert" in name_lower or "notificação" in name_lower or "alerta" in name_lower:
+            desc += " para notificações e alertas"
+        elif "backup" in name_lower or "backup" in name_lower:
+            desc += " para operações de backup de dados"
+        elif "monitor" in name_lower or "monitorar" in name_lower:
+            desc += " para monitoramento e relatórios"
         else:
-            desc += " for data processing"
+            desc += " para processamento de dados"
 
-        desc += f". Uses {node_count} nodes"
+        desc += f". Usa {node_count} nó"
+        if node_count != 1:
+            desc += "s"
         if len(integrations) > 3:
-            desc += f" and integrates with {len(integrations)} services"
+            desc += f" e integra com {len(integrations)} serviços"
 
         return desc + "."
 

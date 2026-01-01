@@ -352,7 +352,7 @@
       ]
     }
   },
-  "name": "Scheduletrigger Workflow",
+  "name": "Agendador Fluxo de trabalho",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -365,7 +365,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Scheduletrigger Workflow. This workflow integrates 9 different services: stickyNote, code, scheduleTrigger, graphql, splitOut. It contains 15 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Fluxo de trabalho programado. Este fluxo de trabalho integra 9 serviços diferentes: Gatilho, grafo, separado. Contém 15 nós e segue as melhores práticas para lidar com erros e segurança.",
   "meta": {
     "instanceId": "workflow-853db16b",
     "versionId": "1.0.0",

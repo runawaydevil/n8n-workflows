@@ -1,6 +1,6 @@
 {
   "id": "55",
-  "name": "Expense Tracker App",
+  "name": "Aplicativo de Rastreador de Despesas",
   "nodes": [
     {
       "name": "Get Receipt",
@@ -158,5 +158,5 @@
     "excellent",
     "optimized"
   ],
-  "description": "Production-ready workflow: Expense Tracker App. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
+  "description": "Fluxo de trabalho pronto para produção: Aplicativo de Rastreador de Despesas. Este fluxo de trabalho foi otimizado para uso de produção com manipulação de erros abrangente, segurança e documentação."
 }

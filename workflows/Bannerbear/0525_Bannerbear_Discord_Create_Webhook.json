@@ -609,7 +609,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Formtrigger Workflow. This workflow integrates 8 different services: stickyNote, httpRequest, formTrigger, set, discord. It contains 22 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Formtrigger Workflow. Este fluxo de trabalho integra 8 serviços diferentes: pegajosoNota, httpPedido, formulárioTrigger, conjunto, discórdia. Contém 22 nós e segue as melhores práticas para lidar com erros e segurança.",
   "tags": [
     "automation",
     "n8n",

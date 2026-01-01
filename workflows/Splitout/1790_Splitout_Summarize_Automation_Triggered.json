@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Easily Compare LLMs Using OpenAI and Google Sheets",
+  "name": "Compare facilmente LLMs usando folhas OpenAI e Google",
   "tags": [
     "automation",
     "n8n",
@@ -656,6 +656,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Easily Compare LLMs Using OpenAI and Google Sheets. This workflow integrates 13 different services: stickyNote, agent, splitOut, summarize, set. It contains 22 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Compare facilmente LLMs usando OpenAI e folhas do Google. Este fluxo de trabalho integra 13 serviços diferentes: pegajosoNota, agente, dividido, resume, conjunto. Contém 22 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Easily Compare LLMs Using OpenAI and Google Sheets. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

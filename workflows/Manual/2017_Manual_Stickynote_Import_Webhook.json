@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Import CSV from URL to Excel",
+  "name": "Importar CSV de URL para Excel",
   "tags": [
     "automation",
     "n8n",
@@ -206,6 +206,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Import CSV from URL to Excel. This workflow integrates 5 different services: stickyNote, httpRequest, spreadsheetFile, stopAndError, manualTrigger. It contains 9 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Importar CSV da URL para o Excel. Este fluxo de trabalho integra 5 serviços diferentes: pegajosoNota, httpRequest, planilhaArquivo, paradaError, manualTrigger. Contém 9 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Import CSV from URL to Excel. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

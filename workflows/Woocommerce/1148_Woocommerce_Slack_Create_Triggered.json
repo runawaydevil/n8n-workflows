@@ -1,6 +1,6 @@
 {
   "id": 80,
-  "name": "New WooCommerce product to Slack",
+  "name": "Novo produto WooCommerce para Slack",
   "nodes": [
     {
       "name": "Product Created",
@@ -107,7 +107,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: New WooCommerce product to Slack. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Novo produto WooCommerce para Slack. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-5255107d",
     "versionId": "1.0.0",

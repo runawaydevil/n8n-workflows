@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Notion to Clockify Sync Template",
+  "name": "Noção para o Template de Sincronização",
   "tags": [
     "automation",
     "n8n",
@@ -1919,6 +1919,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Notion to Clockify Sync Template. This workflow integrates 13 different services: webhook, stickyNote, httpRequest, scheduleTrigger, merge. It contains 71 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Noção para Template de Sincronização. Este fluxo de trabalho integra 13 serviços diferentes: webhook, pegajosoNota, httpRequest, agendaTrigger, mesclar. Contém 71 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Notion to Clockify Sync Template. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

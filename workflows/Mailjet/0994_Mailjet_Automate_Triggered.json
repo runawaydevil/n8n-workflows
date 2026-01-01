@@ -33,8 +33,8 @@
     }
   ],
   "connections": {},
-  "name": "Mailjettrigger Workflow",
-  "description": "Automated workflow: Mailjettrigger Workflow. This workflow processes data and performs automated tasks.",
+  "name": "Fluxo de trabalho do jato de correio",
+  "description": "Fluxo de trabalho automatizado: Fluxo de trabalho do jato de correio. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,

@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Email form",
+  "name": "E-mail",
   "tags": [
     "automation",
     "n8n",
@@ -207,6 +207,6 @@
   },
   "versionId": "1df322f8-6d69-4ae7-b094-3f0dec019d3b",
   "connections": {},
-  "description": "Automated workflow: Email form. This workflow integrates 6 different services: stickyNote, hunter, formTrigger, if, noOp. It contains 7 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Formulário de e-mail. Este fluxo de trabalho integra 6 serviços diferentes: pegajoso Nota, caçador, formulárioTrigger, se, noOp. Contém 7 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Email form. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

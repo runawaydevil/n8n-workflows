@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "💥AI Social Video Generator with GPT-4, Kling & Blotato —Auto-Post to Instagram, Facebook,, TikTok...",
+  "name": "Gerador de vídeo social com GPT-4, Kling & Blotato - Postagem automática para Instagram, Facebook, TikTok...",
   "tags": [
     "automation",
     "n8n",
@@ -2242,6 +2242,6 @@
       ]
     }
   },
-  "description": "Automated workflow: 💥AI Social Video Generator with GPT-4, Kling & Blotato —Auto-Post to Instagram, Facebook,, TikTok, Twitter & Pinterest - vide. This workflow integrates 12 different services: telegramTrigger, stickyNote, httpRequest, wait, telegram. It contains 81 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Gerador de Vídeo Social da AI com GPT-4, Kling & Blotato - Postagem automática para Instagram, Facebook, TikTok, Twitter & Pinterest - vide. Este fluxo de trabalho integra 12 serviços diferentes: telegrama Trigger, pegajosoNota, httpPedido, espera, telegrama. Contém 81 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: 💥AI Social Video Generator with GPT-4, Kling & Blotato —Auto-Post to Instagram, Facebook,, TikTok.... This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

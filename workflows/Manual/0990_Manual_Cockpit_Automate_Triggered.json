@@ -46,8 +46,8 @@
     }
   ],
   "connections": {},
-  "name": "Manualtrigger Workflow",
-  "description": "Automated workflow: Manualtrigger Workflow. This workflow processes data and performs automated tasks.",
+  "name": "Fluxo de trabalho manual",
+  "description": "Fluxo de trabalho automatizado: Fluxo de trabalho manual. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,

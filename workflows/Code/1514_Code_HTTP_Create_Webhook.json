@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Dynamically create tables in Airtable for your Webflow form submissions",
+  "name": "Crie dinamicamente tabelas no Airtable para suas submissões de formulários Webflow",
   "tags": [
     "automation",
     "n8n",
@@ -694,6 +694,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Dynamically create tables in Airtable for your Webflow form submissions. This workflow integrates 8 different services: stickyNote, httpRequest, airtable, code, set. It contains 21 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Crie dinamicamente tabelas no Airtable para suas submissões de formulários. Este fluxo de trabalho integra 8 serviços diferentes: pegajoso Nota, httpRequest, airtable, código, conjunto. Contém 21 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Dynamically create tables in Airtable for your Webflow form submissions. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

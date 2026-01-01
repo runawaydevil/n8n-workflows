@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "n8n Graphic Design Team",
+  "name": "equipe de Design Gráfico",
   "tags": [
     "automation",
     "n8n",
@@ -2125,6 +2125,6 @@
       ]
     }
   },
-  "description": "Automated workflow: n8n Graphic Design Team. This workflow integrates 14 different services: convertToFile, stickyNote, httpRequest, formTrigger, chainLlm. It contains 58 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Equipe de Design Gráfico n8n. Este fluxo de trabalho integra 14 serviços diferentes: ConvertToFile, pegajosoNota, httpRequest, formTrigger, chainLlm. Contém 58 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: n8n Graphic Design Team. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

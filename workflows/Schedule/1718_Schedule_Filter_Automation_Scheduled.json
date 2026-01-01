@@ -309,7 +309,7 @@
       ]
     }
   },
-  "name": "Todoist Workflow",
+  "name": "Fluxo de Trabalho Todoista",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -322,7 +322,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Todoist Workflow. This workflow integrates 7 different services: stickyNote, filter, scheduleTrigger, set, stopAndError. It contains 13 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automático: Este fluxo de trabalho integra 7 serviços diferentes: Trigger, preparar, parar Error. Contém 13 nós e segue as melhores práticas para lidar com erros e segurança.",
   "meta": {
     "instanceId": "workflow-0bfecae8",
     "versionId": "1.0.0",

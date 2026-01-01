@@ -1,6 +1,6 @@
 {
   "id": "193",
-  "name": "Create, add an attachment, and send a draft using the Microsoft Outlook node",
+  "name": "Criar, adicionar um anexo, e enviar um rascunho usando o nó Microsoft Outlook",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -137,5 +137,5 @@
     "excellent",
     "optimized"
   ],
-  "description": "Production-ready workflow: Create, add an attachment, and send a draft using the Microsoft Outlook node. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
+  "description": "Criar, adicionar um anexo e enviar um rascunho usando o nó do Microsoft Outlook. Este fluxo de trabalho foi otimizado para uso de produção com manipulação de erros abrangente, segurança e documentação."
 }

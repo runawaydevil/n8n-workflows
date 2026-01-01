@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Send TTS (Text-to-speech) voice calls",
+  "name": "Envie chamadas de voz para TTS",
   "tags": [
     "automation",
     "n8n",
@@ -283,6 +283,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Send TTS (Text-to-speech) voice calls. This workflow integrates 4 different services: stickyNote, httpRequest, formTrigger, stopAndError. It contains 7 nodes and follows best practices for error handling and security.",
+  "description": "Envie chamadas de voz para TTS. Este fluxo de trabalho integra 4 serviços diferentes: pegajosoNota, httpRequest, formulárioTrigger, stopAndError. Contém 7 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Send TTS (Text-to-speech) voice calls. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

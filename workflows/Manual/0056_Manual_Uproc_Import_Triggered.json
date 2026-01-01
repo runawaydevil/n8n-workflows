@@ -1,6 +1,6 @@
 {
   "id": "112",
-  "name": "Get Company by Name",
+  "name": "Obter Companhia pelo Nome",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -101,7 +101,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Get Company by Name. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Obter Companhia pelo Nome. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-9ed25e1f",
     "versionId": "1.0.0",

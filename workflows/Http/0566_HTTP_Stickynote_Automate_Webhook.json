@@ -227,7 +227,7 @@
       ]
     }
   },
-  "name": "Executeworkflowtrigger Workflow",
+  "name": "Executar fluxo de trabalho fluxo de trabalho",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -240,7 +240,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Executeworkflowtrigger Workflow. This workflow integrates 5 different services: stickyNote, httpRequest, set, stopAndError, executeWorkflowTrigger. It contains 9 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Executar fluxo de trabalho fluxo de trabalho. Este fluxo de trabalho integra 5 serviços diferentes: pegajoso Nota, httpRequest, set, stopAndError, execute WorkflowTrigger. Contém 9 nós e segue as melhores práticas para lidar com erros e segurança.",
   "tags": [
     "automation",
     "n8n",

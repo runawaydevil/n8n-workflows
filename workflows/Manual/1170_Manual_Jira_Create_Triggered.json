@@ -1,6 +1,6 @@
 {
   "id": "87",
-  "name": "Create a new issue in Jira",
+  "name": "Criar uma nova edição em Jira",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -63,7 +63,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Create a new issue in Jira. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Criar uma nova edição em Jira. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-d165de1a",
     "versionId": "1.0.0",

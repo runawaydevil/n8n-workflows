@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "My workflow 4",
+  "name": "Meu fluxo de trabalho 4",
   "tags": [
     "automation",
     "n8n",
@@ -181,6 +181,6 @@
   },
   "versionId": "550f65e6-68ec-449a-9fb5-241acba42455",
   "connections": {},
-  "description": "Automated workflow: My workflow 4. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Meu fluxo de trabalho 4. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "notes": "Excellent quality workflow: My workflow 4. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

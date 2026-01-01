@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Convert Parquet, Avro, ORC & Feather via ParquetReader to JSON",
+  "name": "Converta Parquet, Avro, ORC e Pena via ParquetReader para JSON",
   "tags": [
     "automation",
     "n8n",
@@ -190,6 +190,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Convert Parquet, Avro, ORC & Feather via ParquetReader to JSON. This workflow integrates 5 different services: webhook, stickyNote, httpRequest, code, stopAndError. It contains 8 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Converta Parquet, Avro, ORC & Feather via ParquetReader para JSON. Este fluxo de trabalho integra 5 serviços diferentes: webhook, pegajosoNota, httpRequest, código, stopAndError. Ele contém 8 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Convert Parquet, Avro, ORC & Feather via ParquetReader to JSON. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

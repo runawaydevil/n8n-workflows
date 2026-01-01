@@ -1,6 +1,6 @@
 {
   "id": "2",
-  "name": "post to mattermost v2",
+  "name": "publique para mais importante v2",
   "nodes": [
     {
       "name": "RSS Feed Read",
@@ -152,5 +152,5 @@
     "excellent",
     "optimized"
   ],
-  "description": "Production-ready workflow: post to mattermost v2. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
+  "description": "Fluxo de trabalho pronto para produção: postar na matéria V2. Este fluxo de trabalho foi otimizado para uso de produção com manipulação de erros abrangente, segurança e documentação."
 }

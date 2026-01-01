@@ -277,8 +277,8 @@
     }
   ],
   "connections": {},
-  "name": "Googlecalendar Workflow",
-  "description": "Automated workflow: Googlecalendar Workflow. This workflow processes data and performs automated tasks.",
+  "name": "Google Calendar Workflow",
+  "description": "Fluxo de trabalho automatizado: Google Calendar Workflow. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,

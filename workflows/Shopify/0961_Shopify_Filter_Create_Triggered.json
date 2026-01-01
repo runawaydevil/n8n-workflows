@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Sync New Shopify Products to Odoo Product",
+  "name": "Tradução e Sincronia:",
   "tags": [
     "automation",
     "n8n",
@@ -184,6 +184,6 @@
   },
   "versionId": "5dc6f917-daa8-4819-b8ff-1c46ab75b680",
   "connections": {},
-  "description": "Automated workflow: Sync New Shopify Products to Odoo Product. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Sincronize Novos Produtos Shopify para Produto Odoo. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "notes": "Excellent quality workflow: Sync New Shopify Products to Odoo Product. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

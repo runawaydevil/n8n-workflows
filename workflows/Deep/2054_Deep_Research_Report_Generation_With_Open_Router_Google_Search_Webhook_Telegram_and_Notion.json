@@ -1,5 +1,5 @@
 {
-  "name": "Deep Research Report Generation Using Open Router, Google Search, Webhook/Telegram and Notion",
+  "name": "Geração de relatórios de pesquisa usando roteador aberto, Google Search, Webhook/Telegram e Notion",
   "nodes": [
     {
       "parameters": {
@@ -1409,6 +1409,6 @@
     "excellent",
     "optimized"
   ],
-  "description": "Automated workflow: Deep Research Report Generation Using Open Router, Google Search, Webhook/Telegram and Notion. This workflow integrates 22 different services: stickyNote, switch, splitInBatches, chainLlm, set. It contains 56 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Geração de relatórios de pesquisa usando roteador aberto, Google Search, Webhook/Telegram e Notion. Este fluxo de trabalho integra 22 serviços diferentes: pegajosoNota, interruptor, splitInBatches, chainLlm, conjunto. Contém 56 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Deep Research Report Generation Using Open Router, Google Search, Webhook/Telegram and Notion. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

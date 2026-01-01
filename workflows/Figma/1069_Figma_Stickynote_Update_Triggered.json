@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Automate Figma Versioning and Jira Updates with n8n Webhook Integration",
+  "name": "Automatize a versão da Figma e as atualizações da Jira com integração da N8n Webhook",
   "tags": [
     "automation",
     "n8n",
@@ -147,6 +147,6 @@
   },
   "versionId": "9525049e-7fca-4f83-bf6a-069d477f669e",
   "connections": {},
-  "description": "Automated workflow: Automate Figma Versioning and Jira Updates with n8n Webhook Integration. This workflow integrates 3 different services: stickyNote, figmaTrigger, jira. It contains 4 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Automatize a versão Figma e as atualizações Jira com integração N8n Webhook. Este fluxo de trabalho integra 3 serviços diferentes: Trigger, jira. Contém 4 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "notes": "Excellent quality workflow: Automate Figma Versioning and Jira Updates with n8n Webhook Integration. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

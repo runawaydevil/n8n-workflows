@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "🤖 On-Page SEO Audit",
+  "name": "Auditoria de SEO on-Page",
   "tags": [
     "automation",
     "n8n",
@@ -361,6 +361,6 @@
       ]
     }
   },
-  "description": "Automated workflow: 🤖 On-Page SEO Audit. This workflow integrates 10 different services: stickyNote, httpRequest, formTrigger, markdown, agent. It contains 16 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Auditoria SEO On-Page. Este fluxo de trabalho integra 10 serviços diferentes: pegajosoNota, httpRequest, formTrigger, markdown, agente. Contém 16 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "notes": "Excellent quality workflow: 🤖 On-Page SEO Audit. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

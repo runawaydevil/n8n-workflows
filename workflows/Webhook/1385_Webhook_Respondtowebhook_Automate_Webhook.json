@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Business WhatsApp AI RAG Chatbot",
+  "name": "WhatsApp AI RAG Chatbot",
   "tags": [
     "automation",
     "n8n",
@@ -937,6 +937,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Business WhatsApp AI RAG Chatbot. This workflow integrates 16 different services: webhook, stickyNote, httpRequest, textSplitterTokenSplitter, vectorStoreQdrant. It contains 38 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Negócios WhatsApp AI RAG Chatbot. Este fluxo de trabalho integra 16 serviços diferentes: webhook, pegajosoNota, httpRequest, textSplitterTokenSplitter, vetorStore Qdrant. Contém 38 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Business WhatsApp AI RAG Chatbot. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

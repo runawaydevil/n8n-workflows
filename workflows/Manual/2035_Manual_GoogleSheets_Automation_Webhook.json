@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "n8n-農產品",
+  "name": "não, não, não",
   "tags": [
     "automation",
     "n8n",
@@ -330,6 +330,6 @@
       ]
     }
   },
-  "description": "Automated workflow: n8n-農產品. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "notes": "Excellent quality workflow: n8n-農產品. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

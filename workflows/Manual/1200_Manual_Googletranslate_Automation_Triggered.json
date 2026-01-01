@@ -1,6 +1,6 @@
 {
   "id": "92",
-  "name": "Translate text from English to German",
+  "name": "Traduzir texto de Inglês para Alemão",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -62,7 +62,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Translate text from English to German. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Traduzir texto de Inglês para Alemão. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-50b9d965",
     "versionId": "1.0.0",

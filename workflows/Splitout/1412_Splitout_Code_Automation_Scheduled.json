@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Scrape Trustpilot Reviews to Google Sheets",
+  "name": "Piloto de confiança Scrape Revisão para o Google Sheets",
   "tags": [
     "automation",
     "n8n",
@@ -808,6 +808,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Scrape Trustpilot Reviews to Google Sheets. This workflow integrates 9 different services: stickyNote, httpRequest, code, scheduleTrigger, splitOut. It contains 17 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Revisão do piloto do Scrape para o Google Sheets. Este fluxo de trabalho integra 9 serviços diferentes: pegajosoNota, httpRequest, código, programaçãoTrigger, splitOut. Contém 17 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "notes": "Excellent quality workflow: Scrape Trustpilot Reviews to Google Sheets. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

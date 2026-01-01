@@ -332,7 +332,7 @@
       ]
     }
   },
-  "name": "Set Workflow",
+  "name": "Definir fluxo de trabalho",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -345,7 +345,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Set Workflow. This workflow integrates 9 different services: mongoDb, httpRequest, stickyNote, scheduleTrigger, merge. It contains 12 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Preparar fluxo de trabalho. Este fluxo de trabalho integra 9 serviços diferentes: Mongo DB, httpRequest, pegajosoNota, programação Trigger, fundir. Contém 12 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "tags": [
     "automation",
     "n8n",

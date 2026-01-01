@@ -1,6 +1,6 @@
 {
   "id": "115",
-  "name": "Send daily weather updates via a message using the Gotify node",
+  "name": "Envie atualizações diárias do tempo através de uma mensagem usando o nó de Gotify",
   "nodes": [
     {
       "name": "Cron",
@@ -88,7 +88,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Send daily weather updates via a message using the Gotify node. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Envie atualizações diárias do tempo através de uma mensagem usando o nó Gotify. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-fa893891",
     "versionId": "1.0.0",

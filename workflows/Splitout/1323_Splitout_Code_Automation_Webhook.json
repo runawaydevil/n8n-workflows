@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Auto-Tag Blog Posts in WordPress with AI",
+  "name": "Auto-Tag Blog Posts em WordPress com IA",
   "tags": [
     "automation",
     "n8n",
@@ -942,6 +942,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Auto-Tag Blog Posts in WordPress with AI. This workflow integrates 18 different services: filter, httpRequest, wordpress, stickyNote, code. It contains 40 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Auto-Tag Blog Posts em WordPress com IA. Este fluxo de trabalho integra 18 serviços diferentes: filtro, httpRequest, wordpress, pegajosoNota, código. Contém 40 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Auto-Tag Blog Posts in WordPress with AI. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

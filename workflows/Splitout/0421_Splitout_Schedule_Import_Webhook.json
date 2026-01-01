@@ -1037,7 +1037,7 @@
       ]
     }
   },
-  "name": "Scheduletrigger Workflow",
+  "name": "Agendador Fluxo de trabalho",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -1050,7 +1050,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Scheduletrigger Workflow. This workflow integrates 8 different services: filter, httpRequest, stickyNote, hubspot, scheduleTrigger. It contains 28 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Fluxo de trabalho programado. Este fluxo de trabalho integra 8 serviços diferentes: filtro, httpRequest, pegajosoNota, hubspot, programação Trigger. Contém 28 nós e segue as melhores práticas para lidar com erros e segurança.",
   "tags": [
     "automation",
     "n8n",

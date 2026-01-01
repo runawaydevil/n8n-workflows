@@ -1,6 +1,6 @@
 {
   "id": "64",
-  "name": "Upload a file and get a list of all the files in a bucket",
+  "name": "Envie um arquivo e pegue uma lista de todos os arquivos em um balde",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -113,5 +113,5 @@
     "excellent",
     "optimized"
   ],
-  "description": "Production-ready workflow: Upload a file and get a list of all the files in a bucket. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
+  "description": "Fluxo de trabalho pronto para produção: Envie um arquivo e pegue uma lista de todos os arquivos em um balde. Este fluxo de trabalho foi otimizado para uso de produção com manipulação de erros abrangente, segurança e documentação."
 }

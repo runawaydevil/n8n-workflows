@@ -351,7 +351,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: rss-telegram. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: rss-telegram. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-4a838b69",
     "versionId": "1.0.0",

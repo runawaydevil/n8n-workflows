@@ -351,7 +351,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Stickynote Workflow. This workflow integrates 9 different services: stickyNote, code, gmailTrigger, agent, outputParserStructured. It contains 14 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Fluxo de trabalho. Este fluxo de trabalho integra 9 serviços diferentes: pegajoso Nota, código, GmailTrigger, agente, saídaParserStructured. Contém 14 nós e segue as melhores práticas para lidar com erros e segurança.",
   "tags": [
     "automation",
     "n8n",

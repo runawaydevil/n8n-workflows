@@ -159,7 +159,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: n8n_check. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-64fcb9dd",
     "versionId": "1.0.0",

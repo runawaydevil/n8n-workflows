@@ -1,6 +1,6 @@
 {
   "id": "159",
-  "name": "Create, update and get a case in TheHive",
+  "name": "Criar, atualizar e obter um caso em TheHive",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -109,7 +109,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Create, update and get a case in TheHive. This workflow processes data and performs automated tasks.",
+  "description": "Criar, atualizar e obter um caso em TheHive. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-88805176",
     "versionId": "1.0.0",

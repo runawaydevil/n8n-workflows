@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Meeting booked - to newsletter and CRM",
+  "name": "Reunião reservada - para newsletter e CRM",
   "tags": [
     "automation",
     "n8n",
@@ -452,6 +452,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Meeting booked - to newsletter and CRM. This workflow integrates 8 different services: stickyNote, httpRequest, calTrigger, telegram, splitOut. It contains 13 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Reunião reservada - para boletim informativo e CRM. Este fluxo de trabalho integra 8 serviços diferentes: pegajosoNota, httpRequest, calTrigger, telegrama, separado. Contém 13 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Meeting booked - to newsletter and CRM. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "HR-focused automation pipeline with AI",
+  "name": "Automatização focada em HR com IA",
   "tags": [
     "automation",
     "n8n",
@@ -626,6 +626,6 @@
       ]
     }
   },
-  "description": "Automated workflow: HR-focused automation pipeline with AI. This workflow integrates 13 different services: stickyNote, formTrigger, chainLlm, merge, outputParserStructured. It contains 22 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Automatização focada em HR com IA. Este fluxo de trabalho integra 13 serviços diferentes: pegajosoNota, formTrigger, chainLlm, merge, saídaParserStructured. Contém 22 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: HR-focused automation pipeline with AI. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

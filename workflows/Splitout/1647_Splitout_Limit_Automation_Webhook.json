@@ -425,7 +425,7 @@
       ]
     }
   },
-  "name": "Manualtrigger Workflow",
+  "name": "Fluxo de trabalho manual",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -438,7 +438,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Manualtrigger Workflow. This workflow integrates 13 different services: stickyNote, httpRequest, textSplitterRecursiveCharacterTextSplitter, splitOut, merge. It contains 20 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Fluxo de trabalho manual. Este fluxo de trabalho integra 13 serviços diferentes: pegajosoNota, httpRequest, textoSplitterRecursivoCharacterTextSplitter, splitOut, merge. Contém 20 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "tags": [
     "automation",
     "n8n",

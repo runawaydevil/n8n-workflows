@@ -1,6 +1,6 @@
 {
   "id": "117",
-  "name": "Receive updates for changes in the specified list in Trello",
+  "name": "Receba atualizações para mudanças na lista especificada em Trello",
   "nodes": [
     {
       "name": "Trello Trigger",
@@ -48,7 +48,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Receive updates for changes in the specified list in Trello. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Receba atualizações para mudanças na lista especificada em Trello. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-8660f1db",
     "versionId": "1.0.0",

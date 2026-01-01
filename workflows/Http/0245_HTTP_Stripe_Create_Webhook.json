@@ -249,8 +249,8 @@
       ]
     }
   },
-  "name": "If Workflow",
-  "description": "Automated workflow: If Workflow. This workflow processes data and performs automated tasks.",
+  "name": "Se o fluxo de trabalho",
+  "description": "Fluxo de trabalho automatizado: Se o fluxo de trabalho. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,

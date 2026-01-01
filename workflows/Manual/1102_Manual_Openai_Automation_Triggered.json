@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Prepare CSV files with GPT-4",
+  "name": "Prepare arquivos CSV com GPT-4",
   "tags": [
     "automation",
     "n8n",
@@ -336,6 +336,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Prepare CSV files with GPT-4. This workflow integrates 10 different services: writeBinaryFile, stickyNote, itemLists, spreadsheetFile, set. It contains 14 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Prepare arquivos CSV com GPT-4. Este fluxo de trabalho integra 10 serviços diferentes: WriteBinaryFile, pegajosoNota, itemListas, planilhaArquivo, conjunto. Contém 14 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Prepare CSV files with GPT-4. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

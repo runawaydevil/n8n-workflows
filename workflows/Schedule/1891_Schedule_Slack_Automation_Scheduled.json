@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Daily meetings summarization with Gemini AI",
+  "name": "Resumo diário de reuniões com Gemini AI",
   "tags": [
     "automation",
     "n8n",
@@ -277,6 +277,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Daily meetings summarization with Gemini AI. This workflow integrates 7 different services: stickyNote, scheduleTrigger, agent, lmChatGoogleGemini, stopAndError. It contains 12 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Reunião diária com Gemini Al. Este fluxo de trabalho integra 7 serviços diferentes: Trigger, agente, ImChatGoogleGemini, pareError. Contém 12 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "notes": "Excellent quality workflow: Daily meetings summarization with Gemini AI. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

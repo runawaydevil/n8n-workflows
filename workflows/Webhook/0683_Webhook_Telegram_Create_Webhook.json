@@ -390,8 +390,8 @@
       ]
     }
   },
-  "name": "Code Workflow",
-  "description": "Automated workflow: Code Workflow. This workflow processes data and performs automated tasks.",
+  "name": "Fluxo de trabalho de código",
+  "description": "Fluxo de trabalho automatizado: Código de fluxo de trabalho. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,

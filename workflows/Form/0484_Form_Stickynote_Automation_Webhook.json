@@ -1,5 +1,5 @@
 {
-  "name": "Dynamic credentials using expressions",
+  "name": "Credenciais dinâmicos usando expressões",
   "nodes": [
     {
       "id": "cc6f2b1e-0ed0-4d22-8a44-d7223ba283b4",
@@ -209,7 +209,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Dynamic credentials using expressions. This workflow integrates 5 different services: stickyNote, formTrigger, respondToWebhook, stopAndError, nasa. It contains 9 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Credenciais dinâmicos usando expressões. Este fluxo de trabalho integra 5 serviços diferentes: pegajosoNota, formulárioTrigger, responda aWebhook, pareError, nasa. Contém 9 nós e segue as melhores práticas para lidar com erros e segurança.",
   "meta": {
     "instanceId": "workflow-23ee5122",
     "versionId": "1.0.0",

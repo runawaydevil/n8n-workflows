@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "(G) LineChatBot + Google Sheets (as a memory)",
+  "name": "(G) LineChatBot + Google Sheets (como memória)",
   "tags": [
     "automation",
     "n8n",
@@ -657,6 +657,6 @@
       ]
     }
   },
-  "description": "Automated workflow: (G) LineChatBot + Google Sheets (as a memory). This workflow integrates 9 different services: webhook, stickyNote, httpRequest, code, lmChatGoogleGemini. It contains 24 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: (G) LineChatBot + Google Sheets (como uma memória). Este fluxo de trabalho integra 9 serviços diferentes: webhook, pegajosoNota, httpPedido, código, lmChatGoogleGemini. Contém 24 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: (G) LineChatBot + Google Sheets (as a memory). This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

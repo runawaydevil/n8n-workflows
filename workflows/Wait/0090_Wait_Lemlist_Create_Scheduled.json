@@ -1,6 +1,6 @@
 {
   "id": 121,
-  "name": "Create Email Campaign From LinkedIn Post Interactions",
+  "name": "Criar campanha de e-mail do LinkedIn",
   "nodes": [
     {
       "name": "Cron",
@@ -444,7 +444,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Create Email Campaign From LinkedIn Post Interactions. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Criar campanha de e-mail de ligação Em pós-interações. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-245cd08f",
     "versionId": "1.0.0",

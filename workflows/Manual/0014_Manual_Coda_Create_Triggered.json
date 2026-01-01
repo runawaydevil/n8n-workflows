@@ -1,6 +1,6 @@
 {
   "id": "102",
-  "name": "Insert data into a new row for a table in Coda",
+  "name": "Insira dados em uma nova linha para uma tabela em Coda",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -92,7 +92,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Insert data into a new row for a table in Coda. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Insira dados em uma nova linha para uma tabela em Coda. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-100b92b6",
     "versionId": "1.0.0",

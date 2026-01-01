@@ -445,7 +445,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Lmchatopenai Workflow. This workflow integrates 11 different services: telegramTrigger, stickyNote, telegram, chainLlm, outputParserStructured. It contains 18 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automático: Este fluxo de trabalho integra 11 serviços diferentes: telegrama Trigger, pegajosoNota, telegrama, correnteLlm, saídaParserStructured. Contém 18 nós e segue as melhores práticas para lidar com erros e segurança.",
   "tags": [
     "automation",
     "n8n",

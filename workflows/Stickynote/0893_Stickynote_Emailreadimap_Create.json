@@ -400,7 +400,7 @@
       ]
     }
   },
-  "name": "Hubspot Workflow",
+  "name": "Fluxo de trabalho Hubspot",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -413,7 +413,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Hubspot Workflow. This workflow integrates 9 different services: stickyNote, hubspot, chainLlm, outputParserStructured, set. It contains 15 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho do Hubspot. Este fluxo de trabalho integra 9 serviços diferentes: pegajosoNota, hubspot, cadeiaLlm, saídaParserStructured, set. Contém 15 nós e segue as melhores práticas para lidar com erros e segurança.",
   "meta": {
     "instanceId": "workflow-a6db8868",
     "versionId": "1.0.0",

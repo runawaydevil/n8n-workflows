@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Sync New Shopify Customers to Odoo Contacts",
+  "name": "Tradução e Sincronia:",
   "tags": [
     "automation",
     "n8n",
@@ -196,6 +196,6 @@
   },
   "versionId": "4c04743a-c0c3-4900-9963-3ca05b65908c",
   "connections": {},
-  "description": "Automated workflow: Sync New Shopify Customers to Odoo Contacts. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Sincronize Novos Clientes Shopify para Contatos Odoo. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "notes": "Excellent quality workflow: Sync New Shopify Customers to Odoo Contacts. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

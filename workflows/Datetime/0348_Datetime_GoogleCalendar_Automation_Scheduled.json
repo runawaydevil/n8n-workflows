@@ -1,6 +1,6 @@
 {
   "id": 1,
-  "name": "Google Cal to Zoom meeting",
+  "name": "Encontro Google Cal para Zoom",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -173,7 +173,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Google Cal to Zoom meeting. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Google Cal para reunião Zoom. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-4929187a",
     "versionId": "1.0.0",

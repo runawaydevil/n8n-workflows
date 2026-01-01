@@ -499,6 +499,6 @@
     }
   },
   "name": "Noop Workflow",
-  "description": "Automated workflow: Noop Workflow. This workflow integrates 8 different services: webhook, stickyNote, httpRequest, graphql, set. It contains 13 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Noop Workflow. Este fluxo de trabalho integra 8 serviços diferentes: webhook, pegajosoNote, httpRequest, graphql, set. Contém 13 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Noop Workflow. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

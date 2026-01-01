@@ -103,7 +103,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Calendlytrigger Workflow. This workflow integrates 3 different services: calendlyTrigger, stickyNote, mautic. It contains 3 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Calendlytrigger Workflow. Este fluxo de trabalho integra 3 serviços diferentes: calendly Trigger, pegajosoNota, mautic. Ele contém 3 nós e segue as melhores práticas para lidar com erros e segurança.",
   "tags": [
     "automation",
     "n8n",

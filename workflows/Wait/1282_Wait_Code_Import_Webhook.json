@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "AI-Powered Short-Form Video Generator with OpenAI, Flux, Kling, and ElevenLabs and upload to all ...",
+  "name": "Gerador de Vídeo Short-Form AI com OpenAI, Flux, Kling, e OnzeLabs e upload para todos ...",
   "tags": [
     "automation",
     "n8n",
@@ -2733,6 +2733,6 @@
       ]
     }
   },
-  "description": "Automated workflow: AI-Powered Short-Form Video Generator with OpenAI, Flux, Kling, and ElevenLabs and upload to all social networks. This workflow integrates 15 different services: writeBinaryFile, stickyNote, httpRequest, wait, readBinaryFile. It contains 91 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: gerador de vídeo de formato curto com OpenAI, Flux, Kling e OnzeLabs e upload para todas as redes sociais. Este fluxo de trabalho integra 15 serviços diferentes: WriteBinaryFile, pegajosoNota, httpRequest, wait, readBinaryFile. Contém 91 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: AI-Powered Short-Form Video Generator with OpenAI, Flux, Kling, and ElevenLabs and upload to all .... This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

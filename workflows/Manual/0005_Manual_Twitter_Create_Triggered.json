@@ -1,6 +1,6 @@
 {
   "id": 1003,
-  "name": "New tweets",
+  "name": "Novos tweets",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -219,7 +219,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: New tweets. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Novos tweets. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-c24381d8",
     "versionId": "1.0.0",

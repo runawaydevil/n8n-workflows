@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Compare 2 SQL datasets",
+  "name": "Compare 2 conjuntos de dados SQL",
   "tags": [
     "automation",
     "n8n",
@@ -158,6 +158,6 @@
   },
   "versionId": "9680b087-de3a-4179-8f48-5e2ae9dc6fac",
   "connections": {},
-  "description": "Automated workflow: Compare 2 SQL datasets. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Compare 2 conjuntos de dados SQL. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "notes": "Excellent quality workflow: Compare 2 SQL datasets. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

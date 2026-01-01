@@ -328,8 +328,8 @@
       ]
     }
   },
-  "name": "Brightdata Workflow",
-  "description": "Automated workflow: Brightdata Workflow. This workflow processes data and performs automated tasks.",
+  "name": "Fluxo de trabalho Brightdata",
+  "description": "Fluxo de trabalho Brightdata. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,

@@ -411,7 +411,7 @@
     }
   },
   "name": "Gmailtrigger Workflow",
-  "description": "Automated workflow: Gmailtrigger Workflow. This workflow integrates 11 different services: stickyNote, gmailTrigger, splitOut, chainLlm, merge. It contains 20 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Gmailtrigger Workflow. Este fluxo de trabalho integra 11 serviços diferentes: pegajosoNota, gmailTrigger, splitOut, chainLlm, merge. Contém 20 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "meta": {
     "instanceId": "workflow-81561a30",
     "versionId": "1.0.0",

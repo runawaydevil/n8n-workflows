@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Contact Form Text Classifier for eCommerce",
+  "name": "Classificador de texto de formulário de contato para eCommerce",
   "tags": [
     "automation",
     "n8n",
@@ -1183,6 +1183,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Contact Form Text Classifier for eCommerce. This workflow integrates 7 different services: textClassifier, stickyNote, formTrigger, stopAndError, lmChatOpenAi. It contains 25 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Formulário de contato classificador de texto para eCommerce. Este fluxo de trabalho integra 7 serviços diferentes: textClassifier, pegajosoNota, formulárioTrigger, stopAndError, lmChatOpenAi. Contém 25 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Contact Form Text Classifier for eCommerce. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

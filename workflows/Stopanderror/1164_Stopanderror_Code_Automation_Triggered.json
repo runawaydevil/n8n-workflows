@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Slack Webhook - Verify Signature",
+  "name": "Slack Webhook - Verifique a assinatura",
   "tags": [
     "automation",
     "n8n",
@@ -251,6 +251,6 @@
   },
   "versionId": "f9e78d89-0da8-465e-aa47-5396d9ac4d48",
   "connections": {},
-  "description": "Automated workflow: Slack Webhook - Verify Signature. This workflow integrates 8 different services: stickyNote, code, merge, set, stopAndError. It contains 12 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Slack Webhook, verifique a assinatura. Este fluxo de trabalho integra 8 serviços diferentes: pegajoso Nota, código, mesclar, definir, pararError. Contém 12 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "notes": "Excellent quality workflow: Slack Webhook - Verify Signature. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

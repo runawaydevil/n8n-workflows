@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "🤖🧠 AI Agent Chatbot + LONG TERM Memory + Note Storage + Telegram",
+  "name": "Agente AI Chatbot + Memória de LONGO TERM + Armazenamento de Notas + Telegrama",
   "tags": [
     "automation",
     "n8n",
@@ -549,6 +549,6 @@
       ]
     }
   },
-  "description": "Automated workflow: 🤖🧠 AI Agent Chatbot + LONG TERM Memory + Note Storage + Telegram. This workflow integrates 12 different services: stickyNote, telegram, agent, merge, set. It contains 28 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Agente AI Chatbot + Memória de LONGO TERM + Armazenamento de Notas + Telegrama. Este fluxo de trabalho integra 12 serviços diferentes: notas pegajosas, telegrama, agente, fusão, conjunto. Contém 28 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: 🤖🧠 AI Agent Chatbot + LONG TERM Memory + Note Storage + Telegram. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

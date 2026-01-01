@@ -1,6 +1,6 @@
 {
   "id": "175",
-  "name": "Get messages with a certain label, remove the label, and add a new one",
+  "name": "Obter mensagens com um certo rótulo, remover o rótulo, e adicionar um novo",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -110,7 +110,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Get messages with a certain label, remove the label, and add a new one. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Receba mensagens com uma certa etiqueta, remova a etiqueta e adicione uma nova. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-8a6df07a",
     "versionId": "1.0.0",

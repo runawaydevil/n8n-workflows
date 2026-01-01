@@ -1,6 +1,6 @@
 {
   "id": 114,
-  "name": "Standup Bot - Worker",
+  "name": "\"Trabalhador de Bots Standup\"",
   "nodes": [
     {
       "name": "publish report",
@@ -521,5 +521,5 @@
     "excellent",
     "optimized"
   ],
-  "description": "Production-ready workflow: Standup Bot - Worker. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
+  "description": "Fluxo de trabalho pronto para produção: Standup Bot - trabalhador. Este fluxo de trabalho foi otimizado para uso de produção com manipulação de erros abrangente, segurança e documentação."
 }

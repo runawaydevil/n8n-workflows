@@ -1460,7 +1460,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Slack Workflow. This workflow integrates 13 different services: webhook, stickyNote, httpRequest, code, merge. It contains 54 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Slack Workflow. Este fluxo de trabalho integra 13 serviços diferentes: webhook, pegajosoNota, httpRequest, código, mescla. Contém 54 nós e segue as melhores práticas para lidar com erros e segurança.",
   "meta": {
     "instanceId": "workflow-f9476edd",
     "versionId": "1.0.0",

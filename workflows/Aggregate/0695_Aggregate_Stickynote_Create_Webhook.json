@@ -462,7 +462,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Klicktipp Workflow. This workflow integrates 9 different services: webhook, stickyNote, splitOut, merge, set. It contains 16 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Fluxo de trabalho Klicktipp. Este fluxo de trabalho integra 9 serviços diferentes: webhook, pegajosoNota, splitOut, merge, set. Contém 16 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "tags": [
     "automation",
     "n8n",

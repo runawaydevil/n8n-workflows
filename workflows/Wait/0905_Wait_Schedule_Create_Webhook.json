@@ -1013,7 +1013,7 @@
       ]
     }
   },
-  "name": "Scheduletrigger Workflow",
+  "name": "Agendador Fluxo de trabalho",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -1026,7 +1026,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Scheduletrigger Workflow. This workflow integrates 11 different services: stickyNote, httpRequest, facebookGraphApi, wait, scheduleTrigger. It contains 37 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Fluxo de trabalho programado. Este fluxo de trabalho integra 11 serviços diferentes: pegajosoNota, httpRequest, facebookGraphApi, espera, agendaTrigger. Contém 37 nós e segue as melhores práticas para lidar com erros e segurança.",
   "tags": [
     "automation",
     "n8n",

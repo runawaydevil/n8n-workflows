@@ -1,6 +1,6 @@
 {
   "id": "92",
-  "name": "Send an SMS to a number whenever you go out",
+  "name": "Envie um SMS para um número quando sair",
   "nodes": [
     {
       "name": "Pushcut Trigger",
@@ -68,7 +68,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Send an SMS to a number whenever you go out. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Envie um SMS para um número quando sair. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-bebcde6f",
     "versionId": "1.0.0",

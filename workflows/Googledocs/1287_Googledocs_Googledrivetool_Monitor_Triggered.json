@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "AI Agent - Cv Resume - Automated Screening , Sorting , Rating and Tracker System",
+  "name": "AI Agent - Cv Resume - Triagem automatizada, triagem, classificação e sistema de rastreamento",
   "tags": [
     "automation",
     "n8n",
@@ -743,6 +743,6 @@
       ]
     }
   },
-  "description": "Automated workflow: AI Agent - Cv Resume - Automated Screening , Sorting , Rating and Tracker System. This workflow integrates 11 different services: stickyNote, googleDriveTrigger, googleDriveTool, gmailTool, agent. It contains 28 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: AI Agent - Cv Resumir - Triagem automatizada, triagem, classificação e sistema de rastreamento. Este fluxo de trabalho integra 11 serviços diferentes: DriveTrigger, Google DriveTool, GmailTool, agente. Contém 28 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: AI Agent - Cv Resume - Automated Screening , Sorting , Rating and Tracker System. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

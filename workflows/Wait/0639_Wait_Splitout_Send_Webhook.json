@@ -1,5 +1,5 @@
 {
-  "name": "Google Maps Email Scraper Template",
+  "name": "Google Maps Modelo de raspador de e-mail",
   "tags": [
     "automation",
     "n8n",
@@ -672,7 +672,7 @@
       ]
     }
   },
-  "description": "Automated workflow: Google Maps Email Scraper Template. This workflow integrates 14 different services: filter, httpRequest, stickyNote, wait, code. It contains 31 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Google Maps Modelo de E-mail Raspador. Este fluxo de trabalho integra 14 serviços diferentes: filtro, httpRequest, pegajosoNota, espera, código. Contém 31 nós e segue as melhores práticas para lidar com erros e segurança.",
   "meta": {
     "instanceId": "workflow-e6f1715c",
     "versionId": "1.0.0",

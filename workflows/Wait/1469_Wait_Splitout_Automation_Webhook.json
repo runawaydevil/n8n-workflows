@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Content to 9:16 Aspect Image Generator v1",
+  "name": "Conteúdo para 9:16 Aspect Image Generator v1",
   "tags": [
     "automation",
     "n8n",
@@ -2119,6 +2119,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Content to 9:16 Aspect Image Generator v1. This workflow integrates 14 different services: stickyNote, filter, httpRequest, wait, airtable. It contains 52 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: conteúdo para 9:16 Aspect Image Generator v1. Este fluxo de trabalho integra 14 serviços diferentes: pegajosoNota, filtro, httpRequest, espera, airtable. Contém 52 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Content to 9:16 Aspect Image Generator v1. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

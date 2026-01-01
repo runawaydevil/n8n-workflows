@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Very simple Human in the loop system email with AI e IMAP",
+  "name": "Muito simples humano no e-mail do sistema de loop com AI e IMAP",
   "tags": [
     "automation",
     "n8n",
@@ -585,6 +585,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Very simple Human in the loop system email with AI e IMAP. This workflow integrates 10 different services: stickyNote, markdown, agent, set, stopAndError. It contains 21 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Muito simples humano no e-mail do sistema loop com IA e IMAP. Este fluxo de trabalho integra 10 serviços diferentes: nota pegajosa, marcação, agente, conjunto, paradaError. Contém 21 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Very simple Human in the loop system email with AI e IMAP. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

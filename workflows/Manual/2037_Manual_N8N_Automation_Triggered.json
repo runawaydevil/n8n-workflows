@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "v1 helper - Find params with affected expressions",
+  "name": "encontre parâmetros com expressões afetadas",
   "tags": [
     "automation",
     "n8n",
@@ -116,6 +116,6 @@
   },
   "versionId": "da694734-30ae-46b1-8e29-877c95b670ab",
   "connections": {},
-  "description": "Automated workflow: v1 helper - Find params with affected expressions. This workflow integrates 4 different services: stickyNote, manualTrigger, n8n, code. It contains 4 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: V1 ajudante, encontre parâmetros com expressões afetadas. Este fluxo de trabalho integra 4 serviços diferentes: pegajosoNota, manualTrigger, n8n, código. Contém 4 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "notes": "Excellent quality workflow: v1 helper - Find params with affected expressions. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

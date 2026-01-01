@@ -1,6 +1,6 @@
 {
   "id": "134",
-  "name": "Receive updates for the position of the ISS every minute and push it to a database",
+  "name": "Receba atualizações para a posição da ISS a cada minuto e empurre para um banco de dados",
   "nodes": [
     {
       "name": "Cron",
@@ -140,5 +140,5 @@
     "excellent",
     "optimized"
   ],
-  "description": "Production-ready workflow: Receive updates for the position of the ISS every minute and push it to a database. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
+  "description": "Fluxo de trabalho pronto para produção: Receba atualizações para a posição da ISS a cada minuto e empurre para um banco de dados. Este fluxo de trabalho foi otimizado para uso de produção com manipulação de erros abrangente, segurança e documentação."
 }

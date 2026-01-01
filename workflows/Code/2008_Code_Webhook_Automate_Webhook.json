@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Automated Work Attendance with Location Triggers",
+  "name": "Atendimento automático ao trabalho com gatilhos de localização",
   "tags": [
     "automation",
     "n8n",
@@ -397,6 +397,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Automated Work Attendance with Location Triggers. This workflow integrates 8 different services: webhook, stickyNote, code, googleDrive, set. It contains 15 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Atendimento automático ao trabalho com gatilhos de localização. Este fluxo de trabalho integra 8 serviços diferentes: webhook, pegajoso Nota, código, Google Dirija, set. Contém 15 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Automated Work Attendance with Location Triggers. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

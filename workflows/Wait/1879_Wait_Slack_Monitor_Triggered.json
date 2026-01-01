@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "N_01_Simple_Lead_Tracker_Automation_v4",
+  "name": "Tradução e Sincronia:",
   "tags": [
     "automation",
     "n8n",
@@ -394,6 +394,6 @@
       ]
     }
   },
-  "description": "Automated workflow: N_01_Simple_Lead_Tracker_Automation_v4. This workflow integrates 9 different services: stickyNote, wait, hubspot, googleSheetsTrigger, stopAndError. It contains 16 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: N_01_Simples Lidereira Automatização v4. Este fluxo de trabalho integra 9 serviços diferentes: LençóisTrigger, pareError. Contém 16 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "notes": "Excellent quality workflow: N_01_Simple_Lead_Tracker_Automation_v4. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

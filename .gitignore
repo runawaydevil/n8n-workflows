@@ -75,6 +75,14 @@ test_*.json
 workflow_backups/
 workflows_backup*/
 workflows_backup_*/
+# All workflow backup folders
+**/workflows_backup*/
+**/workflow_backup*/
+
+# Translation backups and progress
+workflows_backup/
+translation_progress.json
+translation.log
 
 # Database files (SQLite)
 *.db
@@ -108,3 +116,19 @@ package-lock.json
 import_log.json
 # Archive folder for old files
 archive/
+
+# Development scripts (temporary)
+reindex_all.py
+scripts/translate_card_fields.py
+
+# Origin folder (original project copy)
+origin/
+
+# Translation backups and progress (specific)
+workflows_backup_card_translation/
+translation_card_progress.json
+translation_card.log
+translation_names.log
+restore_backup.log
+
+.cursor/

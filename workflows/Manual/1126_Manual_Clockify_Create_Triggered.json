@@ -1,6 +1,6 @@
 {
   "id": "76",
-  "name": "Create a project, tag, and time entry, and update the time entry in Clockify",
+  "name": "Crie um projeto, etiqueta e entrada de tempo, e atualize a entrada de tempo em Cloperify",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -134,7 +134,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Create a project, tag, and time entry, and update the time entry in Clockify. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Criar um projeto, etiqueta, e entrada de tempo, e atualizar a entrada de tempo em Cloperify. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-fff30bef",
     "versionId": "1.0.0",

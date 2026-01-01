@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "BambooHR AI-Powered Company Policies and Benefits Chatbot",
+  "name": "BambuHR AI-Powered Company Políticas e benefícios Chatbot",
   "tags": [
     "automation",
     "n8n",
@@ -1163,6 +1163,6 @@
       ]
     }
   },
-  "description": "Automated workflow: BambooHR AI-Powered Company Policies and Benefits Chatbot. This workflow integrates 24 different services: stickyNote, textSplitterRecursiveCharacterTextSplitter, outputParserAutofixing, lmChatOpenAi, chatTrigger. It contains 58 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Bambu HR AI-Desenvolvido Políticas e Benefícios Chatbot. Este fluxo de trabalho integra 24 serviços diferentes: pegajosoNota, textSplitterRecursivoCharacterTextSplitter, saídaParserAutofixing, lmChatOpenAi, chatTrigger. Contém 58 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: BambooHR AI-Powered Company Policies and Benefits Chatbot. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

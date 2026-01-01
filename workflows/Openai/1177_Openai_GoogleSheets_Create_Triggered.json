@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Qualify new leads in Google Sheets via OpenAI's GPT-4",
+  "name": "Qualifique novos leads no Google Sheets através do GPT-4 da OpenAI",
   "tags": [
     "automation",
     "n8n",
@@ -386,6 +386,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Qualify new leads in Google Sheets via OpenAI's GPT-4. This workflow integrates 7 different services: stickyNote, googleSheetsTrigger, merge, set, stopAndError. It contains 12 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Qualifique novos leads no Google Sheets através do GPT-4 da OpenAI. Este fluxo de trabalho integra 7 serviços diferentes: LençóisTrigger, fundir, definir, pararError. Contém 12 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "notes": "Excellent quality workflow: Qualify new leads in Google Sheets via OpenAI's GPT-4. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

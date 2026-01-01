@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Summarize Google Sheets form feedback via OpenAI's GPT-4",
+  "name": "Resuma o Google. Folhas formam feedback via GPT-4 do OpenAI",
   "tags": [
     "automation",
     "n8n",
@@ -290,6 +290,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Summarize Google Sheets form feedback via OpenAI's GPT-4. This workflow integrates 8 different services: stickyNote, markdown, stopAndError, manualTrigger, gmail. It contains 12 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Resuma o Google. Folhas formam feedback via GPT-4 da OpenAI. Este fluxo de trabalho integra 8 serviços diferentes: pegajoso Nota, marca, paradaErro, manualTrigger, gmail. Contém 12 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "notes": "Excellent quality workflow: Summarize Google Sheets form feedback via OpenAI's GPT-4. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

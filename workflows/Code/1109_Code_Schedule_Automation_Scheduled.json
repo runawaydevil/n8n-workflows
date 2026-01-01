@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "YouTube to Airtable Anonym",
+  "name": "YouTube para Anonym Airtable",
   "tags": [
     "automation",
     "n8n",
@@ -597,6 +597,6 @@
       ]
     }
   },
-  "description": "Automated workflow: YouTube to Airtable Anonym. This workflow integrates 8 different services: stickyNote, httpRequest, airtable, code, scheduleTrigger. It contains 15 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: YouTube para Anonym Airtable. Este fluxo de trabalho integra 8 serviços diferentes: pegajosoNota, httpRequest, airtable, código, agendaTrigger. Contém 15 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: YouTube to Airtable Anonym. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

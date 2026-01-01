@@ -1,6 +1,6 @@
 {
   "id": 81,
-  "name": "New WooCommerce order to Slack",
+  "name": "Nova ordem WooCommerce para Slack",
   "nodes": [
     {
       "name": "Order Created",
@@ -131,7 +131,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: New WooCommerce order to Slack. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Nova ordem WooCommerce para Slack. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-447e6227",
     "versionId": "1.0.0",

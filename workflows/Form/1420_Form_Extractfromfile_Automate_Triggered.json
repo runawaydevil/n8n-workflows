@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "AI CV Screening Workflow",
+  "name": "Fluxo de trabalho de triagem AI CV",
   "tags": [
     "automation",
     "n8n",
@@ -339,6 +339,6 @@
       ]
     }
   },
-  "description": "Automated workflow: AI CV Screening Workflow. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Fluxo de trabalho de triagem do AI CV. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "notes": "Excellent quality workflow: AI CV Screening Workflow. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

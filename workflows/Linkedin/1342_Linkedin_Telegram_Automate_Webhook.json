@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "✨🩷Automated Social Media Content Publishing Factory + System Prompt Composition",
+  "name": "\"Automated Social Media Content Publishing Factory + System Prompt Composition",
   "tags": [
     "automation",
     "n8n",
@@ -2994,6 +2994,6 @@
       ]
     }
   },
-  "description": "Automated workflow: ✨🩷Automated Social Media Content Publishing Factory + System Prompt Composition. This workflow integrates 24 different services: stickyNote, facebookGraphApi, merge, switch, lmChatOpenAi. It contains 126 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Automated Social Media Content Publishing Factory + System Prompt Composition. Este fluxo de trabalho integra 24 serviços diferentes: pegajosoNota, facebookGraphApi, fusão, interruptor, lmChatOpen Ai. Contém 126 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "notes": "Excellent quality workflow: ✨🩷Automated Social Media Content Publishing Factory + System Prompt Composition. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

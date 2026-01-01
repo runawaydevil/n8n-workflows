@@ -1,6 +1,6 @@
 {
   "id": 89,
-  "name": "Post RSS feed items from yesterday to Slack",
+  "name": "Postar itens RSS de ontem para Slack",
   "nodes": [
     {
       "name": "Build our message",
@@ -146,7 +146,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Post RSS feed items from yesterday to Slack. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Postar itens RSS de ontem para Slack. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-207c0eb6",
     "versionId": "1.0.0",

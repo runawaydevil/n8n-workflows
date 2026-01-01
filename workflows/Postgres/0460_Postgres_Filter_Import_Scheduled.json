@@ -335,7 +335,7 @@
   "pinData": {},
   "connections": {},
   "name": "Postgres Workflow",
-  "description": "Automated workflow: Postgres Workflow. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Postgres Workflow. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,

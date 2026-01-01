@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Translate questions about e-mails into SQL queries and run them",
+  "name": "Traduza perguntas sobre e-mails em consultas SQL e execute-as",
   "tags": [
     "automation",
     "n8n",
@@ -687,6 +687,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Translate questions about e-mails into SQL queries and run them. This workflow integrates 14 different services: convertToFile, stickyNote, agent, readWriteFile, merge. It contains 30 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Traduza perguntas sobre e-mails para consultas SQL e execute-as. Este fluxo de trabalho integra 14 serviços diferentes: converter ToFile, pegajosoNote, agente, leiaWriteFile, funde. Contém 30 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Translate questions about e-mails into SQL queries and run them. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

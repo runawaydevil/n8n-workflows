@@ -342,7 +342,7 @@
     }
   },
   "name": "Lmchatgooglegemini Workflow",
-  "description": "Automated workflow: Lmchatgooglegemini Workflow. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Lmchatgooglegemini fluxo de trabalho. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,

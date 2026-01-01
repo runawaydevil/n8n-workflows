@@ -70,8 +70,8 @@
     }
   ],
   "connections": {},
-  "name": "Itemlists Workflow",
-  "description": "Automated workflow: Itemlists Workflow. This workflow processes data and performs automated tasks.",
+  "name": "Listas de itens Fluxo de trabalho",
+  "description": "Fluxo de trabalho automático: listas de itens Fluxo de trabalho. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,

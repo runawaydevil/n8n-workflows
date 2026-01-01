@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "💻 Schedule workflow activity time",
+  "name": "♪ ♪ Agendar tempo de atividade de fluxo de trabalho",
   "tags": [
     "automation",
     "n8n",
@@ -303,6 +303,6 @@
   },
   "versionId": "bb1c2014-2e38-41c0-ae1c-952fb98d0504",
   "connections": {},
-  "description": "Automated workflow: 💻 Schedule workflow activity time. This workflow integrates 5 different services: stickyNote, scheduleTrigger, merge, n8n, set. It contains 13 nodes and follows best practices for error handling and security.",
+  "description": "Fluxos de trabalho automatizados: Este fluxo de trabalho integra 5 serviços diferentes: Trigger, merge, n8n, set. Contém 13 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: 💻 Schedule workflow activity time. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

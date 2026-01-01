@@ -501,7 +501,7 @@
     }
   },
   "name": "Gmail Workflow",
-  "description": "Automated workflow: Gmail Workflow. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Gmail Workflow. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-13ac26fa",
     "versionId": "1.0.0",

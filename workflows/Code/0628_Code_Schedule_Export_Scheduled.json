@@ -1,5 +1,5 @@
 {
-  "name": "Backup workflows to git repository",
+  "name": "Workflows de backup para o repositório git",
   "nodes": [
     {
       "id": "b09ae4c6-ad75-4b3b-a78a-4cc2d48b2d24",
@@ -383,7 +383,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Backup workflows to git repository. This workflow integrates 8 different services: stickyNote, code, scheduleTrigger, n8n, set. It contains 17 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: workflows de backup para o repositório git. Este fluxo de trabalho integra 8 serviços diferentes: pegajoso Nota, código, horárioTrigger, n8n, definido. Contém 17 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "meta": {
     "instanceId": "workflow-784f7a4d",
     "versionId": "1.0.0",

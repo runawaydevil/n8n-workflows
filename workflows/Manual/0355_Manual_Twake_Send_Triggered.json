@@ -1,6 +1,6 @@
 {
   "id": "1",
-  "name": "Send a message on Twake",
+  "name": "Enviar uma mensagem sobre Twake",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -62,7 +62,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Send a message on Twake. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Envie uma mensagem sobre Twake. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-f1774ccd",
     "versionId": "1.0.0",

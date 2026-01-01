@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "YT New Video Upload",
+  "name": "YT Novo envio de vídeo",
   "tags": [
     "automation",
     "n8n",
@@ -530,6 +530,6 @@
       ]
     }
   },
-  "description": "Automated workflow: YT New Video Upload. This workflow integrates 11 different services: stickyNote, httpRequest, youTube, googleDriveTrigger, code. It contains 22 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: YT New Video Upload. Este fluxo de trabalho integra 11 serviços diferentes: pegajosoNota, httpRequest, youTube, googleDriveTrigger, código. Contém 22 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: YT New Video Upload. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

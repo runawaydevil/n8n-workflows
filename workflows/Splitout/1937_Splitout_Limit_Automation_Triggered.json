@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "LinkedIn Profile Finder via Form using Bright Data & GPT-4o-mini",
+  "name": "Ligado Em Perfil Finder via formulário usando dados brilhantes e GPT-4o-mini",
   "tags": [
     "automation",
     "n8n",
@@ -653,6 +653,6 @@
       ]
     }
   },
-  "description": "Automated workflow: LinkedIn Profile Finder via Form using Bright Data & GPT-4o-mini. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Ligado Em Finder de perfil via formulário usando dados brilhantes e GPT-4o-mini. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "notes": "Excellent quality workflow: LinkedIn Profile Finder via Form using Bright Data & GPT-4o-mini. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

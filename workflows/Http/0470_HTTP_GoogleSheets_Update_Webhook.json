@@ -302,7 +302,7 @@
       ]
     }
   },
-  "name": "Googlesheetstrigger Workflow",
+  "name": "Googlesheetstrigger Fluxo de trabalho",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -315,7 +315,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Googlesheetstrigger Workflow. This workflow integrates 7 different services: stickyNote, httpRequest, googleSheetsTrigger, stopAndError, googleSheets. It contains 10 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Googlesheetstrigger Workflow. Este fluxo de trabalho integra 7 serviços diferentes: LençóisTrigger, pareError, Google Lençóis. Contém 10 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "tags": [
     "automation",
     "n8n",

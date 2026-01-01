@@ -725,7 +725,7 @@
       ]
     }
   },
-  "name": "Form Workflow",
+  "name": "Formar fluxo de trabalho",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -738,7 +738,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Form Workflow. This workflow integrates 6 different services: stickyNote, formTrigger, stopAndError, slack, googleSheets. It contains 15 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Formar fluxo de trabalho. Este fluxo de trabalho integra 6 serviços diferentes: Lençóis. Contém 15 nós e segue as melhores práticas para lidar com erros e segurança.",
   "tags": [
     "automation",
     "n8n",

@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Summarize emails with A.I. then send to messenger",
+  "name": "Resumir e-mails com I.A. e enviar para o mensageiro",
   "tags": [
     "automation",
     "n8n",
@@ -387,6 +387,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Summarize emails with A.I. then send to messenger. This workflow integrates 4 different services: emailReadImap, httpRequest, stopAndError, stickyNote. It contains 12 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Resumir e-mails com I.A. e enviar para o mensageiro. Este fluxo de trabalho integra 4 serviços diferentes: e-mailReadImap, httpRequest, stopAndError, pegajosoNota. Contém 12 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "notes": "Excellent quality workflow: Summarize emails with A.I. then send to messenger. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

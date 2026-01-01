@@ -660,7 +660,7 @@
       ]
     }
   },
-  "name": "Splitout Workflow",
+  "name": "Fluxo de trabalho dividido",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -673,7 +673,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Splitout Workflow. This workflow integrates 14 different services: airtableTrigger, stickyNote, airtable, scheduleTrigger, splitOut. It contains 21 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: fluxo de trabalho dividido. Este fluxo de trabalho integra 14 serviços diferentes: airtableTrigger, pegajosoNota, airtable, agendaTrigger, splitOut. Contém 21 nós e segue as melhores práticas para lidar com erros e segurança.",
   "meta": {
     "instanceId": "workflow-0b388389",
     "versionId": "1.0.0",

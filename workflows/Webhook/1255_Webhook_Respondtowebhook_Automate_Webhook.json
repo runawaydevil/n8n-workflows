@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Stock Q&A Workflow",
+  "name": "Estoque de Q&A Workflow",
   "tags": [
     "automation",
     "n8n",
@@ -524,6 +524,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Stock Q&A Workflow. This workflow integrates 14 different services: webhook, stickyNote, textSplitterRecursiveCharacterTextSplitter, chainRetrievalQa, vectorStoreQdrant. It contains 25 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Fluxo de trabalho de Q&A. Este fluxo de trabalho integra 14 serviços diferentes: webhook, pegajosoNota, textSplitterRecursivoCharacterTextSplitter, chainRetrieval Qa, vetorStore Qdrant. Contém 25 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Stock Q&A Workflow. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

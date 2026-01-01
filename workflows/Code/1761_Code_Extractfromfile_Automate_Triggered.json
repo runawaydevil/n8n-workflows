@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Automated Image Metadata Tagging",
+  "name": "Metadados de imagem automatizados Marcação",
   "tags": [
     "automation",
     "n8n",
@@ -317,6 +317,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Automated Image Metadata Tagging. This workflow integrates 9 different services: convertToFile, stickyNote, googleDriveTrigger, code, googleDrive. It contains 15 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Marcação automática de metadados de imagem. Este fluxo de trabalho integra 9 serviços diferentes: ConvertToFile, pegajosoNota, Google DriveTrigger, código, Google Dirija. Contém 15 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Automated Image Metadata Tagging. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

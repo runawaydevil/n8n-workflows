@@ -1,6 +1,6 @@
 {
   "id": "51",
-  "name": "Receive messages for a MQTT queue",
+  "name": "Receba mensagens para uma fila MQTT",
   "nodes": [
     {
       "name": "MQTT Trigger",
@@ -48,7 +48,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Receive messages for a MQTT queue. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Receba mensagens para uma fila MQTT. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-21fc8108",
     "versionId": "1.0.0",

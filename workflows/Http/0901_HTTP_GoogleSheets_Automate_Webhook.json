@@ -1,5 +1,5 @@
 {
-  "name": "AccountCraft WhatsApp Automation - Infridet",
+  "name": "ContaCraft WhatsApp Automation - Infriet",
   "nodes": [
     {
       "id": "1",
@@ -478,7 +478,7 @@
       ]
     }
   },
-  "description": "Automated workflow: AccountCraft WhatsApp Automation - Infridet. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: ContaCraft WhatsApp Automation - Infriet. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-20804e7c",
     "versionId": "1.0.0",

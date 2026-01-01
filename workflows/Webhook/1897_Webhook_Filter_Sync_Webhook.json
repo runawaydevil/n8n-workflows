@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Realtime Notion Todoist 2-way Sync Template",
+  "name": "Template de Sincronia de 2 vias",
   "tags": [
     "automation",
     "n8n",
@@ -7006,6 +7006,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Realtime Notion Todoist 2-way Sync Template. This workflow integrates 29 different services: stickyNote, scheduleTrigger, merge, switch, redis. It contains 264 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Template de Sincronia de 2 vias. Este fluxo de trabalho integra 29 serviços diferentes: pegajoso Nota, horário Trigger, mesclar, trocar, redis. Contém 264 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "notes": "Excellent quality workflow: Realtime Notion Todoist 2-way Sync Template. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

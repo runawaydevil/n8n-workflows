@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Live link checker",
+  "name": "Checador ao vivo",
   "tags": [
     "automation",
     "n8n",
@@ -621,6 +621,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Live link checker. This workflow integrates 8 different services: stickyNote, httpRequest, wait, code, stopAndError. It contains 19 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Checador ao vivo. Este fluxo de trabalho integra 8 serviços diferentes: pegajosoNota, httpPedido, espera, código, paradaError. Contém 19 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Live link checker. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

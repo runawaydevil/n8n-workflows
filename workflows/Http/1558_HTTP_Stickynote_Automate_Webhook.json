@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "✨📊Multi-AI Agent Chatbot for Postgres/Supabase DB and QuickCharts + Tool Router",
+  "name": "Agente Chatbot Multi-AI para Postgres/Supabase DB e QuickCharts + Roteador de Ferramentas",
   "tags": [
     "automation",
     "n8n",
@@ -1020,6 +1020,6 @@
       ]
     }
   },
-  "description": "Automated workflow: ✨📊Multi-AI Agent Chatbot for Postgres/Supabase DB and QuickCharts + Tool Router. This workflow integrates 13 different services: postgresTool, stickyNote, httpRequest, agent, outputParserStructured. It contains 45 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Agente Chatbot Multi-AI para Postgres/Supabase DB e QuickCharts + Roteador de Ferramentas. Este fluxo de trabalho integra 13 serviços diferentes: Ferramenta, nota pegajosa, httpPedido, agente, saídaParserStructured. Contém 45 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: ✨📊Multi-AI Agent Chatbot for Postgres/Supabase DB and QuickCharts + Tool Router. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

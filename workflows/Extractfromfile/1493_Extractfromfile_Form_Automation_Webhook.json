@@ -1008,7 +1008,7 @@
       ]
     }
   },
-  "name": "Extractfromfile Workflow",
+  "name": "Extrair do fluxo de trabalho de arquivo",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -1021,7 +1021,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Extractfromfile Workflow. This workflow integrates 11 different services: textClassifier, stickyNote, formTrigger, httpRequest, airtable. It contains 28 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Extrair do fluxo de trabalho de arquivo. Este fluxo de trabalho integra 11 serviços diferentes: textClassifier, pegajosoNota, formTrigger, httpRequest, airtable. Contém 28 nós e segue as melhores práticas para lidar com erros e segurança.",
   "tags": [
     "automation",
     "n8n",

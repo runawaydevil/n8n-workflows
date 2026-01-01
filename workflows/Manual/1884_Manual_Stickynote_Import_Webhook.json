@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Get Long Lived Facebook User or Page Access Token",
+  "name": "Obter longa vida usuário do Facebook ou página acesso Token",
   "tags": [
     "automation",
     "n8n",
@@ -316,6 +316,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Get Long Lived Facebook User or Page Access Token. This workflow integrates 5 different services: stickyNote, httpRequest, set, stopAndError, manualTrigger. It contains 9 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Obter usuário de longa vida do Facebook ou acesso à página Token. Este fluxo de trabalho integra 5 serviços diferentes: pegajosoNota, httpRequest, set, stopAndError, manualTrigger. Contém 9 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Get Long Lived Facebook User or Page Access Token. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

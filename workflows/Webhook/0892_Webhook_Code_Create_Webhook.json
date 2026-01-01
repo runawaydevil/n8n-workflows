@@ -681,7 +681,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Openai Workflow. This workflow integrates 14 different services: webhook, filter, stickyNote, code, readPDF. It contains 27 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho Openai. Este fluxo de trabalho integra 14 serviços diferentes: webhook, filtro, pegajosoNota, código, leituraPDF. Contém 27 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "tags": [
     "automation",
     "n8n",

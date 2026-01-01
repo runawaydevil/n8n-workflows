@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Linkedin Automation",
+  "name": "Ligado à Automação",
   "tags": [
     "automation",
     "n8n",
@@ -737,6 +737,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Linkedin Automation. This workflow integrates 10 different services: filter, stickyNote, httpRequest, telegram, airtable. It contains 24 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Este fluxo de trabalho integra 10 serviços diferentes: filtro, pegajosoNota, httpRequest, telegrama, airtable. Contém 24 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Linkedin Automation. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

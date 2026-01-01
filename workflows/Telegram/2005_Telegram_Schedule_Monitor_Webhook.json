@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "MAIA - Health Check",
+  "name": "MAIA - Verificação de saúde",
   "tags": [
     "automation",
     "n8n",
@@ -262,6 +262,6 @@
       ]
     }
   },
-  "description": "Automated workflow: MAIA - Health Check. This workflow integrates 7 different services: stickyNote, httpRequest, telegram, scheduleTrigger, stopAndError. It contains 11 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: - Exame de saúde. Este fluxo de trabalho integra 7 serviços diferentes: pegajosoNota, httpRequest, telegrama, cronogramaTrigger, paradaError. Ele contém 11 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: MAIA - Health Check. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

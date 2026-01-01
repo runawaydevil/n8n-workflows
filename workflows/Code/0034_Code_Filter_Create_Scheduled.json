@@ -756,7 +756,7 @@
   ],
   "pinData": {},
   "connections": {},
-  "name": "Code Workflow",
+  "name": "Fluxo de trabalho de código",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -769,7 +769,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Code Workflow. This workflow integrates 10 different services: stickyNote, filter, code, scheduleTrigger, merge. It contains 30 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Código de fluxo de trabalho. Este fluxo de trabalho integra 10 serviços diferentes: Trigger, fundir. Contém 30 nós e segue as melhores práticas para lidar com erros e segurança.",
   "tags": [
     "automation",
     "n8n",

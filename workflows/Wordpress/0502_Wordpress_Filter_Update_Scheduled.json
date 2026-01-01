@@ -817,7 +817,7 @@
       ]
     }
   },
-  "name": "Wordpress Workflow",
+  "name": "Fluxo de trabalho Wordpress",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -830,7 +830,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Wordpress Workflow. This workflow integrates 9 different services: filter, wordpress, httpRequest, markdown, airtable. It contains 21 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Fluxo de trabalho Wordpress. Este fluxo de trabalho integra 9 serviços diferentes: filtro, wordpress, httpRequest, markdown, airtable. Contém 21 nós e segue as melhores práticas para lidar com erros e segurança.",
   "tags": [
     "automation",
     "n8n",

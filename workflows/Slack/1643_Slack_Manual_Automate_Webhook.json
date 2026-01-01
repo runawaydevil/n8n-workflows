@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Slack AI Chatbot with RAG for company staff",
+  "name": "Slack AI Chatbot com RAG para o pessoal da empresa",
   "tags": [
     "automation",
     "n8n",
@@ -717,6 +717,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Slack AI Chatbot with RAG for company staff. This workflow integrates 15 different services: stickyNote, httpRequest, textSplitterTokenSplitter, vectorStoreQdrant, slackTrigger. It contains 31 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Slack Al Chatbot com RAG para o pessoal da empresa. Este fluxo de trabalho integra 15 serviços diferentes: pegajosoNota, httpRequest, textSplitterTokenSplitter, vetorStore Qdrant, relaxa Trigger. Contém 31 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Slack AI Chatbot with RAG for company staff. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

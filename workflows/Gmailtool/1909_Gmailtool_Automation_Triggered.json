@@ -179,6 +179,6 @@
   },
   "versionId": "2022464f-822f-4b3e-9425-4e938a95348c",
   "connections": {},
-  "description": "Automated workflow: MCP_GMAIL. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: MCP_GMAIL. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "notes": "Excellent quality workflow: MCP_GMAIL. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

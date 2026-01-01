@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "PostgreSQL export to CSV",
+  "name": "Exportação PostgreSQL para CSV",
   "tags": [
     "automation",
     "n8n",
@@ -221,6 +221,6 @@
       ]
     }
   },
-  "description": "Automated workflow: PostgreSQL export to CSV. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Exportação PostgreSQL para CSV. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "notes": "Excellent quality workflow: PostgreSQL export to CSV. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

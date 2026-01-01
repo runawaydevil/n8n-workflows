@@ -1,6 +1,6 @@
 {
   "id": 7,
-  "name": "YouTube to Raindrop",
+  "name": "YouTube para Raindrop",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -140,7 +140,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: YouTube to Raindrop. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: YouTube para Raindrop. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-fcd2ae00",
     "versionId": "1.0.0",

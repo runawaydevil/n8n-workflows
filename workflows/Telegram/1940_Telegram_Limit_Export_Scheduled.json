@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "✨😃Automated Workflow Backups to Google Drive",
+  "name": "Backups automáticos do fluxo de trabalho para o Google Drive",
   "tags": [
     "automation",
     "n8n",
@@ -547,6 +547,6 @@
       ]
     }
   },
-  "description": "Automated workflow: ✨😃Automated Workflow Backups to Google Drive. This workflow integrates 13 different services: convertToFile, stickyNote, telegram, code, scheduleTrigger. It contains 28 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Backups automáticos do fluxo de trabalho para o Google Drive. Este fluxo de trabalho integra 13 serviços diferentes: converter ToFile, pegajosoNota, telegrama, código, programação Trigger. Contém 28 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: ✨😃Automated Workflow Backups to Google Drive. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

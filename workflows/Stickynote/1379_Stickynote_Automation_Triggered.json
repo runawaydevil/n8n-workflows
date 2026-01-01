@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Chat with local LLMs using n8n and Ollama",
+  "name": "Converse com LLMs locais usando N8n e Ollama",
   "tags": [
     "automation",
     "n8n",
@@ -143,6 +143,6 @@
   },
   "versionId": "3af03daa-e085-4774-8676-41578a4cba2d",
   "connections": {},
-  "description": "Automated workflow: Chat with local LLMs using n8n and Ollama. This workflow integrates 4 different services: stickyNote, chainLlm, lmChatOllama, chatTrigger. It contains 5 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Converse com LLMs locais usando N8n e Ollama. Este fluxo de trabalho integra 4 serviços diferentes: pegajoso Nota, correnteLlm, lmChatOllama, chatTrigger. Contém 5 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Chat with local LLMs using n8n and Ollama. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

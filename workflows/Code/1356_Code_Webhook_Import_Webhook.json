@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Bitrix24 Task Form Widget Application Workflow example with Webhook Integration",
+  "name": "Bitrix24 Formulário de Tarefa Widget Aplicação Exemplo de fluxo de trabalho com integração Webhook",
   "tags": [
     "automation",
     "n8n",
@@ -1117,6 +1117,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Bitrix24 Task Form Widget Application Workflow example with Webhook Integration. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: exemplo de fluxo de trabalho de aplicação de formulário de tarefa Bitrix24 com integração Webhook. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "notes": "Excellent quality workflow: Bitrix24 Task Form Widget Application Workflow example with Webhook Integration. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

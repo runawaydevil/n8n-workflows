@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Scrape Web Data with Bright Data, Google Gemini and MCP Automated AI Agent",
+  "name": "Scrape Web Data com dados brilhantes, Google Gemini e MCP Automated AI Agent",
   "tags": [
     "automation",
     "n8n",
@@ -583,6 +583,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Scrape Web Data with Bright Data, Google Gemini and MCP Automated AI Agent. This workflow integrates 12 different services: stickyNote, httpRequest, lmChatGoogleGemini, agent, mcpClientTool. It contains 25 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Raspa dados da Web com dados brilhantes, Google Gemini e MCP Agente Automatizado IA. Este fluxo de trabalho integra 12 serviços diferentes: pegajosoNota, httpRequest, lmChatGoogleGemini, agente, mcpClientTool. Contém 25 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Scrape Web Data with Bright Data, Google Gemini and MCP Automated AI Agent. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

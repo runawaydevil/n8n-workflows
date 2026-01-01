@@ -730,7 +730,7 @@
       ]
     }
   },
-  "name": "Outputparserstructured Workflow",
+  "name": "Fluxo de trabalho estruturado de Outputparser",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -743,7 +743,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Outputparserstructured Workflow. This workflow integrates 12 different services: telegramTrigger, stickyNote, telegram, gmailTrigger, chainLlm. It contains 32 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Fluxo de trabalho estruturado. Este fluxo de trabalho integra 12 serviços diferentes: telegrama Trigger, pegajosoNota, telegrama, gmailTrigger, chainLlm. Contém 32 nós e segue as melhores práticas para lidar com erros e segurança.",
   "tags": [
     "automation",
     "n8n",

@@ -1,6 +1,6 @@
 {
   "id": "1",
-  "name": "Wordpress-to-csv",
+  "name": "Wordpress-to-cs V",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -92,7 +92,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Wordpress-to-csv. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Wordpress-to-csv. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-00fba5cd",
     "versionId": "1.0.0",

@@ -1,6 +1,6 @@
 {
   "id": "13",
-  "name": "Receive updates when a form is submitted in Mautic, and send a confirmation SMS",
+  "name": "Receber atualizações quando um formulário é enviado em Mautic, e enviar uma confirmação SMS",
   "nodes": [
     {
       "name": "Mautic Trigger",
@@ -70,7 +70,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Receive updates when a form is submitted in Mautic, and send a confirmation SMS. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Receba atualizações quando um formulário for enviado em Mautic, e envie um SMS de confirmação. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-93202fcc",
     "versionId": "1.0.0",

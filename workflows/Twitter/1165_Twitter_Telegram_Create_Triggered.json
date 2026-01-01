@@ -1,6 +1,6 @@
 {
   "id": 85,
-  "name": "New WooCommerce Product to Twitter and Telegram",
+  "name": "Novo produto WooCommerce para Twitter e Telegram",
   "nodes": [
     {
       "name": "Twitter",
@@ -95,7 +95,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: New WooCommerce Product to Twitter and Telegram. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Novo produto WooCommerce para Twitter e Telegram. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-869021dc",
     "versionId": "1.0.0",

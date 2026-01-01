@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Translate Telegram audio messages with AI (55 supported languages) v1",
+  "name": "Traduzir mensagens de áudio do Telegram com IA (55 idiomas suportados) v1",
   "tags": [
     "automation",
     "n8n",
@@ -402,6 +402,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Translate Telegram audio messages with AI (55 supported languages) v1. This workflow integrates 8 different services: telegramTrigger, stickyNote, telegram, chainLlm, set. It contains 20 nodes and follows best practices for error handling and security.",
+  "description": "Traduzir mensagens de áudio de Telegram com IA (55 idiomas suportados) Este fluxo de trabalho integra 8 serviços diferentes: telegrama Trigger, pegajosoNota, telegrama, correnteLlm, pronto. Contém 20 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "notes": "Excellent quality workflow: Translate Telegram audio messages with AI (55 supported languages) v1. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

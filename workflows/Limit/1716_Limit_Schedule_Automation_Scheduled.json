@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "RAG on living data",
+  "name": "RAG em dados vivos",
   "tags": [
     "automation",
     "n8n",
@@ -725,6 +725,6 @@
       ]
     }
   },
-  "description": "Automated workflow: RAG on living data. This workflow integrates 18 different services: notionTrigger, stickyNote, textSplitterTokenSplitter, vectorStoreSupabase, chainRetrievalQa. It contains 36 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Rag em dados vivos. Este fluxo de trabalho integra 18 serviços diferentes: noçãoTrigger, pegajosoNota, textoSplitterTokenSplitter, vetorStoreSupabase, cadeiaRetrieval Contém 36 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "notes": "Excellent quality workflow: RAG on living data. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Send Emails from Obsidian",
+  "name": "Envie e-mails de Obsidian",
   "tags": [
     "automation",
     "n8n",
@@ -650,6 +650,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Send Emails from Obsidian. This workflow integrates 12 different services: convertToFile, stickyNote, webhook, splitOut, respondToWebhook. It contains 26 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Envie e-mails da Obsidian. Este fluxo de trabalho integra 12 serviços diferentes: converter ToFile, pegajosoNote, webhook, separado, responda ao Webhook. Contém 26 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Send Emails from Obsidian. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

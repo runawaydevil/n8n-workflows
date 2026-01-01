@@ -1,6 +1,6 @@
 {
   "id": "170",
-  "name": "Create, update, and get a post in Ghost",
+  "name": "Criar, atualizar, e obter um post em Ghost",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -106,7 +106,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Create, update, and get a post in Ghost. This workflow processes data and performs automated tasks.",
+  "description": "Criar, atualizar e obter um post no Ghost. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-8dcfc8ba",
     "versionId": "1.0.0",

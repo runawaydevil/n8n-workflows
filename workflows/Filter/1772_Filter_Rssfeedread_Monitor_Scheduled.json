@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Monitor_security_advisories",
+  "name": "Monitores de segurança",
   "tags": [
     "automation",
     "n8n",
@@ -377,6 +377,6 @@
   },
   "versionId": "e64a6ec2-b231-4cb7-9d36-8933c844d482",
   "connections": {},
-  "description": "Automated workflow: Monitor_security_advisories. This workflow integrates 11 different services: filter, stickyNote, scheduleTrigger, noOp, set. It contains 17 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Monitoramento de segurança. Este fluxo de trabalho integra 11 serviços diferentes: filtro, pegajosoNota, programaçãoTrigger, noOp, definido. Contém 17 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "notes": "Excellent quality workflow: Monitor_security_advisories. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

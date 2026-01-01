@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "YouTube to X Post- AlexK1919",
+  "name": "YouTube para X Post- AlexK1919",
   "tags": [
     "automation",
     "n8n",
@@ -906,6 +906,6 @@
       ]
     }
   },
-  "description": "Automated workflow: YouTube to X Post- AlexK1919. This workflow integrates 16 different services: stickyNote, youTube, scheduleTrigger, set, discord. It contains 34 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: YouTube para X Post- AlexK1919. Este fluxo de trabalho integra 16 serviços diferentes: pegajoso Nota, vocêTube, agenda Trigger, set, discórdia. Contém 34 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: YouTube to X Post- AlexK1919. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

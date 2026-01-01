@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Create Google Creds",
+  "name": "Criar Google Creds",
   "tags": [
     "automation",
     "n8n",
@@ -186,6 +186,6 @@
   },
   "versionId": "8924dfed-07be-4f42-8665-d6f4b1dcbd58",
   "connections": {},
-  "description": "Automated workflow: Create Google Creds. This workflow integrates 5 different services: stickyNote, splitOut, n8n, set, manualTrigger. It contains 7 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Crie o Google Creds. Este fluxo de trabalho integra 5 serviços diferentes: pegajosoNota, separado, n8n, definido, manualTrigger. Contém 7 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Create Google Creds. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

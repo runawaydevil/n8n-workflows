@@ -1384,7 +1384,7 @@
       ]
     }
   },
-  "name": "Venafitlsprotectcloud Workflow",
+  "name": "Venafitlesproteger a nuvem Fluxo de trabalho",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -1397,7 +1397,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Venafitlsprotectcloud Workflow. This workflow integrates 14 different services: webhook, stickyNote, httpRequest, merge, switch. It contains 54 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Este fluxo de trabalho integra 14 serviços diferentes: webhook, pegajosoNota, httpRequest, merge, switch. Contém 54 nós e segue as melhores práticas para lidar com erros e segurança.",
   "tags": [
     "automation",
     "n8n",

@@ -1,6 +1,6 @@
 {
   "id": "46",
-  "name": "Receive updates when a billing plan is activated in PayPal",
+  "name": "Receba atualizações quando um plano de faturamento for ativado no PayPal",
   "nodes": [
     {
       "name": "PayPal Trigger",
@@ -51,7 +51,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Receive updates when a billing plan is activated in PayPal. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Receba atualizações quando um plano de faturamento for ativado no PayPal. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-2e6ae2ec",
     "versionId": "1.0.0",

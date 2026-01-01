@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Enhance Chat Responses with Real-Time Search Data via Bright Data & Gemini AI",
+  "name": "Melhore as respostas de bate-papo com dados de busca em tempo real através de dados brilhantes e IA Gemini",
   "tags": [
     "automation",
     "n8n",
@@ -451,6 +451,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Enhance Chat Responses with Real-Time Search Data via Bright Data & Gemini AI. This workflow integrates 11 different services: stickyNote, toolHttpRequest, lmChatGoogleGemini, agent, mcpClientTool. It contains 21 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Melhore as respostas de bate-papo com dados de busca em tempo real através de dados brilhantes e IA Gemini. Este fluxo de trabalho integra 11 serviços diferentes: pegajosoNota, ferramentaHttpPedido, lmChatGoogleGemini, agente, mcpClientTool. Contém 21 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Enhance Chat Responses with Real-Time Search Data via Bright Data & Gemini AI. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

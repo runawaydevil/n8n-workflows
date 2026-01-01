@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Gmail MCP Server",
+  "name": "Gmail MCP Servidor",
   "tags": [
     "automation",
     "n8n",
@@ -730,6 +730,6 @@
   },
   "versionId": "29e40df2-6863-4f37-8068-5dba71c5bac8",
   "connections": {},
-  "description": "Automated workflow: Gmail MCP Server. This workflow integrates 3 different services: gmailTool, stickyNote, mcpTrigger. It contains 27 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Servidor Gmail MCP. Este fluxo de trabalho integra 3 serviços diferentes: gmailTool, pegajosoNota, mcpTrigger. Contém 27 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "notes": "Excellent quality workflow: Gmail MCP Server. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

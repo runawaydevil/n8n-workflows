@@ -1,6 +1,6 @@
 {
   "id": "1",
-  "name": "Add text to an image downloaded from the internet",
+  "name": "Adicione texto a uma imagem baixada da internet",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -93,5 +93,5 @@
     "excellent",
     "optimized"
   ],
-  "description": "Production-ready workflow: Add text to an image downloaded from the internet. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
+  "description": "Fluxo de trabalho pronto para produção: Adicione texto a uma imagem baixada da internet. Este fluxo de trabalho foi otimizado para uso de produção com manipulação de erros abrangente, segurança e documentação."
 }

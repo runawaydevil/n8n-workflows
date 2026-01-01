@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "My workflow",
+  "name": "Meu fluxo de trabalho",
   "tags": [
     "automation",
     "n8n",
@@ -272,6 +272,6 @@
   },
   "versionId": "c1321677-4ea5-4c8c-8742-02ffd4c8ef70",
   "connections": {},
-  "description": "Automated workflow: My workflow. This workflow integrates 6 different services: stickyNote, code, chainLlm, outputParserStructured, lmChatOpenRouter. It contains 12 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Meu fluxo de trabalho. Este fluxo de trabalho integra 6 serviços diferentes: pegajosoNota, código, correnteLlm, saídaParserStructured, lmChatOpenRouter. Contém 12 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "notes": "Excellent quality workflow: My workflow. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

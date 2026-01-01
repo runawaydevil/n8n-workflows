@@ -3288,7 +3288,7 @@
       ]
     }
   },
-  "name": "Manualtrigger Workflow",
+  "name": "Fluxo de trabalho manual",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -3301,7 +3301,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Manualtrigger Workflow. This workflow integrates 26 different services: stickyNote, textSplitterRecursiveCharacterTextSplitter, vectorStoreQdrant, switch, executeWorkflow. It contains 113 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Fluxo de trabalho manual. Este fluxo de trabalho integra 26 serviços diferentes: pegajosoNota, textSplitterRecursivoCharacterTextSplitter, vetorStore Qdrant, mude, execute o fluxo de trabalho. Contém 113 nós e segue as melhores práticas para lidar com erros e segurança.",
   "meta": {
     "instanceId": "workflow-ad42eeb1",
     "versionId": "1.0.0",

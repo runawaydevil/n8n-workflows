@@ -1107,6 +1107,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Training Feedback Automation. This workflow integrates 8 different services: airtableTrigger, webhook, stickyNote, linkedIn, httpRequest. It contains 29 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: treinamento de automação de feedback. Este fluxo de trabalho integra 8 serviços diferentes: airtableTrigger, webhook, pegajosoNota, ligado Em, pedido de http. Contém 29 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Training Feedback Automation. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

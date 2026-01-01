@@ -55,8 +55,8 @@
     }
   ],
   "connections": {},
-  "name": "Netlifytrigger Workflow",
-  "description": "Automated workflow: Netlifytrigger Workflow. This workflow processes data and performs automated tasks.",
+  "name": "Fluxo de trabalho Netlifytrigger",
+  "description": "Fluxo de trabalho automatizado: Fluxo de trabalho Netlifytrigger. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,

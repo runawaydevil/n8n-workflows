@@ -502,7 +502,7 @@
       ]
     }
   },
-  "name": "Airtable Workflow",
+  "name": "Fluxo de trabalho do ar",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -515,7 +515,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Airtable Workflow. This workflow integrates 8 different services: airtableTrigger, stickyNote, httpRequest, airtable, code. It contains 19 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Fluxo de trabalho. Este fluxo de trabalho integra 8 serviços diferentes: airtableTrigger, pegajosoNote, httpRequest, airtable, código. Contém 19 nós e segue as melhores práticas para lidar com erros e segurança.",
   "tags": [
     "automation",
     "n8n",

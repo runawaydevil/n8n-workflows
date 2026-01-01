@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "get_a_web_page",
+  "name": "tradução:",
   "tags": [
     "automation",
     "n8n",
@@ -201,6 +201,6 @@
       ]
     }
   },
-  "description": "Automated workflow: get_a_web_page. This workflow integrates 5 different services: stickyNote, httpRequest, set, stopAndError, executeWorkflowTrigger. It contains 6 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Este fluxo de trabalho integra 5 serviços diferentes: pegajoso Nota, httpRequest, set, stopAndError, execute WorkflowTrigger. Ele contém 6 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: get_a_web_page. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

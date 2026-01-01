@@ -468,7 +468,7 @@
       ]
     }
   },
-  "name": "Chattrigger Workflow",
+  "name": "Fluxo de trabalho Chattrigger",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -481,7 +481,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Chattrigger Workflow. This workflow integrates 13 different services: stickyNote, httpRequest, agent, splitOut, set. It contains 19 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Fluxo de Trabalho Chattrigger. Este fluxo de trabalho integra 13 serviços diferentes: pegajosoNota, httpRequest, agente, separado, definido. Contém 19 nós e segue as melhores práticas para lidar com erros e segurança.",
   "tags": [
     "automation",
     "n8n",

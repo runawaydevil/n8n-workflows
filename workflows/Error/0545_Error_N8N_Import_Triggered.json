@@ -83,7 +83,7 @@
   "pinData": {},
   "connections": {},
   "name": "Errortrigger Workflow",
-  "description": "Automated workflow: Errortrigger Workflow. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Erro no fluxo de trabalho. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,

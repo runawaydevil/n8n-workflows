@@ -1,6 +1,6 @@
 {
   "id": 117,
-  "name": "Syncro Alert to OpsGenie",
+  "name": "Alerta Syncro para OpsGenie",
   "nodes": [
     {
       "name": "Webhook",
@@ -212,5 +212,5 @@
     "excellent",
     "optimized"
   ],
-  "description": "Production-ready workflow: Syncro Alert to OpsGenie. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
+  "description": "Fluxo de trabalho pronto para produção, Alerta Syncro para OpsGenie. Este fluxo de trabalho foi otimizado para uso de produção com manipulação de erros abrangente, segurança e documentação."
 }

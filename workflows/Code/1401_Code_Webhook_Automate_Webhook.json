@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Workflow stats",
+  "name": "Estatísticas de fluxo de trabalho",
   "tags": [
     "automation",
     "n8n",
@@ -995,6 +995,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Workflow stats. This workflow integrates 16 different services: webhook, stickyNote, code, n8n, merge. It contains 41 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Estatísticas de fluxo de trabalho. Este fluxo de trabalho integra 16 serviços diferentes: webhook, pegajoso Nota, código, n8n, fusão. Contém 41 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Workflow stats. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

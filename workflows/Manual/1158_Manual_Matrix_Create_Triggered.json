@@ -1,6 +1,6 @@
 {
   "id": "83",
-  "name": "Create a room, invite members from a different room, and send a message in the room we created",
+  "name": "Criar um quarto, convidar membros de uma sala diferente, e enviar uma mensagem na sala que criamos",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -171,7 +171,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Create a room, invite members from a different room, and send a message in the room we created. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Criar um quarto, convidar membros de uma sala diferente, e enviar uma mensagem na sala que criamos. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-8c42951b",
     "versionId": "1.0.0",

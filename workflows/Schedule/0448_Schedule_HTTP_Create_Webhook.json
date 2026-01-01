@@ -415,7 +415,7 @@
       ]
     }
   },
-  "name": "Scheduletrigger Workflow",
+  "name": "Agendador Fluxo de trabalho",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -428,7 +428,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Scheduletrigger Workflow. This workflow integrates 8 different services: stickyNote, httpRequest, scheduleTrigger, n8n, set. It contains 12 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Fluxo de trabalho programado. Este fluxo de trabalho integra 8 serviços diferentes: pegajosoNota, httpRequest, agendaTrigger, n8n, definido. Contém 12 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "meta": {
     "instanceId": "workflow-42b8e051",
     "versionId": "1.0.0",

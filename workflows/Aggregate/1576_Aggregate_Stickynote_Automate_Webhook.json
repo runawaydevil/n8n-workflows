@@ -384,6 +384,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Ahrefs Keyword Research Workflow. This workflow integrates 9 different services: stickyNote, httpRequest, code, lmChatGoogleGemini, agent. It contains 18 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Ahrefs Keyword Research Workflow. Este fluxo de trabalho integra 9 serviços diferentes: pegajosoNota, httpPedido, código, lmChatGoogleGemini, agente. Contém 18 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Ahrefs Keyword Research Workflow. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "✍️🌄 Your First Wordpress Content Creator - Quick Start",
+  "name": "Seu primeiro Criador de Conteúdos Wordpress",
   "tags": [
     "automation",
     "n8n",
@@ -1254,6 +1254,6 @@
       ]
     }
   },
-  "description": "Automated workflow: ✍️🌄 Your First Wordpress Content Creator - Quick Start. This workflow integrates 14 different services: stickyNote, httpRequest, wordpress, markdown, telegram. It contains 56 nodes and follows best practices for error handling and security.",
+  "description": "Seu primeiro criador de conteúdo do Wordpress. Este fluxo de trabalho integra 14 serviços diferentes: notas pegajosas, pedido de http, wordpress, marcação, telegrama. Contém 56 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: ✍️🌄 Your First Wordpress Content Creator - Quick Start. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

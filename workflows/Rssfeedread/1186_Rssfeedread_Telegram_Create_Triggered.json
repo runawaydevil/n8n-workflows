@@ -647,6 +647,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Crypto News & Sentiment. This workflow integrates 11 different services: stickyNote, telegramTrigger, telegram, code, agent. It contains 34 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Cripto News & Sentiment. Este fluxo de trabalho integra 11 serviços diferentes: Trigger, telegrama, código, agente. Contém 34 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Crypto News & Sentiment. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Workflow Results to Markdown Notes in Your Obsidian Vault, via Google Drive",
+  "name": "Resultado do fluxo de trabalho para notas de marcação em seu cofre Obsidiana, via Google Drive",
   "tags": [
     "automation",
     "n8n",
@@ -451,6 +451,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Workflow Results to Markdown Notes in Your Obsidian Vault, via Google Drive. This workflow integrates 9 different services: stickyNote, agent, googleDrive, outputParserStructured, set. It contains 19 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Resultado do fluxo de trabalho para notas de marcação em seu cofre Obsidiana, via Google Drive. Este fluxo de trabalho integra 9 serviços diferentes: Motor, saídaParserStructured, set. Contém 19 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Workflow Results to Markdown Notes in Your Obsidian Vault, via Google Drive. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

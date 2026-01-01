@@ -1,6 +1,6 @@
 {
   "id": "157",
-  "name": "Get synonyms of a German word",
+  "name": "Obter sinônimos de uma palavra alemã",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -58,7 +58,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Get synonyms of a German word. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Consiga sinônimos de palavra alemã. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-93e4d290",
     "versionId": "1.0.0",

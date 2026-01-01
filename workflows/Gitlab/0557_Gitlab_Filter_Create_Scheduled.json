@@ -416,7 +416,7 @@
     }
   ],
   "connections": {},
-  "name": "Manualtrigger Workflow",
+  "name": "Fluxo de trabalho manual",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -429,7 +429,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Manualtrigger Workflow. This workflow integrates 9 different services: stickyNote, gitlab, filter, scheduleTrigger, n8n. It contains 16 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Fluxo de trabalho manual. Este fluxo de trabalho integra 9 serviços diferentes: pegajosoNota, gitlab, filtro, cronogramaTrigger, n8n. Contém 16 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "meta": {
     "instanceId": "workflow-46fcc7c3",
     "versionId": "1.0.0",

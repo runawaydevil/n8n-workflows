@@ -1,6 +1,6 @@
 {
   "id": "1",
-  "name": "Twitter notifications",
+  "name": "Notificações do Twitter",
   "nodes": [
     {
       "name": "Twitter",
@@ -164,7 +164,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Twitter notifications. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Notificações no Twitter. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-0721817e",
     "versionId": "1.0.0",

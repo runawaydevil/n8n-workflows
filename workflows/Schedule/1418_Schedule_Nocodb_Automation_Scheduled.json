@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Noco Kanban Board with AI Prioritization",
+  "name": "Noco Kanban Board com prioridade AI",
   "tags": [
     "automation",
     "n8n",
@@ -1021,6 +1021,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Noco Kanban Board with AI Prioritization. This workflow integrates 15 different services: stickyNote, formTrigger, scheduleTrigger, agent, outputParserStructured. It contains 33 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Noco Kanban Board com prioridade de IA. Este fluxo de trabalho integra 15 serviços diferentes: Trigger, agente, saídaParserStructured. Contém 33 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Noco Kanban Board with AI Prioritization. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

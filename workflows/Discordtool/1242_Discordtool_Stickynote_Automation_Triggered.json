@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Discord Agent",
+  "name": "Agente Discórdia",
   "tags": [
     "automation",
     "n8n",
@@ -394,6 +394,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Discord Agent. This workflow integrates 8 different services: stickyNote, agent, discordTool, stopAndError, lmChatOpenAi. It contains 17 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Agente Discórdia. Este fluxo de trabalho integra 8 serviços diferentes: pegajosoNota, agente, discórdiaTool, stopAndError, ImChatOpen Ai. Contém 17 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "notes": "Excellent quality workflow: Discord Agent. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

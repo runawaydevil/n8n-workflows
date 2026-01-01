@@ -1,5 +1,5 @@
 {
-  "name": "Send an SMS using MSG91",
+  "name": "Envie um SMS usando MSG91",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -61,7 +61,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Send an SMS using MSG91. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Envie um SMS usando MSG91. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-da07aaf5",
     "versionId": "1.0.0",

@@ -1,6 +1,6 @@
 {
   "id": "28",
-  "name": "Receive updates when a subscriber is added through a form in ConvertKit",
+  "name": "Receba atualizações quando um assinante é adicionado através de um formulário em Convert Kit",
   "nodes": [
     {
       "name": "ConvertKit Trigger",
@@ -50,7 +50,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Receive updates when a subscriber is added through a form in ConvertKit. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Receba atualizações quando um assinante é adicionado através de um formulário em ConvertKit. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-219aaf48",
     "versionId": "1.0.0",

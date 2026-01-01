@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "OpenAI Assistant for Hubspot Chat",
+  "name": "Assistente do OpenAI para o Chat Hubspot",
   "tags": [
     "automation",
     "n8n",
@@ -1744,6 +1744,6 @@
       ]
     }
   },
-  "description": "Automated workflow: OpenAI Assistant for Hubspot Chat. This workflow integrates 10 different services: webhook, stickyNote, httpRequest, wait, airtable. It contains 59 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Assistente do OpenAI para o Chat Hubspot. Este fluxo de trabalho integra 10 serviços diferentes: webhook, pegajosoNote, httpRequest, wait, airtable. Contém 59 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: OpenAI Assistant for Hubspot Chat. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

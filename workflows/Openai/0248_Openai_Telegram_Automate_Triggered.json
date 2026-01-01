@@ -528,6 +528,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Telegram AI-bot. This workflow integrates 8 different services: telegramTrigger, stickyNote, telegram, merge, switch. It contains 24 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado, Telegram AI-bot. Este fluxo de trabalho integra 8 serviços diferentes: telegrama Trigger, pegajosoNota, telegrama, fusão, interruptor. Contém 24 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Telegram AI-bot. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

@@ -1,5 +1,5 @@
 {
-  "name": "TOTP VALIDATION (WITHOUT CREATING CREDENTIAL)",
+  "name": "TOTP VALIDAÇÃO (SEM CRIAR CREDENCIAL)",
   "nodes": [
     {
       "id": "56f102c4-5b84-4e30-955c-0ea1221c328f",
@@ -137,7 +137,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: TOTP VALIDATION (WITHOUT CREATING CREDENTIAL). This workflow integrates 5 different services: stickyNote, code, set, manualTrigger, if. It contains 5 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: TOTP VALIDAÇÃO (sem criar crédito). Este fluxo de trabalho integra 5 serviços diferentes: pegajosoNota, código, conjunto, manualTrigger, se. Contém 5 nós e segue as melhores práticas para lidar com erros e segurança.",
   "meta": {
     "instanceId": "workflow-061494b3",
     "versionId": "1.0.0",

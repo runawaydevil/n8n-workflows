@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Build a Phone Agent to qualify outbound leads and inbound calls with RetellAI -vide",
+  "name": "Construir um agente de telefone para qualificar pistas de saída e chamadas de entrada com Retellai -vide",
   "tags": [
     "automation",
     "n8n",
@@ -870,6 +870,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Build a Phone Agent to qualify outbound leads and inbound calls with RetellAI -vide. This workflow integrates 13 different services: webhook, stickyNote, httpRequest, filter, wait. It contains 30 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Construa um agente de telefone para qualificar pistas de saída e chamadas de entrada com RetellAI-vide. Este fluxo de trabalho integra 13 serviços diferentes: webhook, pegajosoNota, httpPedido, filtro, espera. Contém 30 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Build a Phone Agent to qualify outbound leads and inbound calls with RetellAI -vide. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Entra Contacts to Zammad User Sync",
+  "name": "Contatos com o usuário do Zammed",
   "tags": [
     "automation",
     "n8n",
@@ -500,6 +500,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Entra Contacts to Zammad User Sync. This workflow integrates 10 different services: stickyNote, httpRequest, splitOut, merge, set. It contains 16 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Contatos com o Zammed User Sync. Este fluxo de trabalho integra 10 serviços diferentes: pegajosoNota, httpRequest, splitOut, merge, set. Contém 16 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "notes": "Excellent quality workflow: Entra Contacts to Zammad User Sync. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

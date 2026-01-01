@@ -1,5 +1,5 @@
 {
-  "name": "Parents smart bot",
+  "name": "Pais espertos",
   "nodes": [
     {
       "parameters": {
@@ -895,6 +895,6 @@
     "excellent",
     "optimized"
   ],
-  "description": "Automated workflow: Parents smart bot. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Pais espertos. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "notes": "Excellent quality workflow: Parents smart bot. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

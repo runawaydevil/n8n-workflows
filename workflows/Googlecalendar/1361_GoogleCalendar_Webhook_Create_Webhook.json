@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Build a Chatbot, Voice Agent and Phone Agent with Voiceflow, Google Calendar and RAG",
+  "name": "Construir um Chatbot, agente de voz e agente de telefone com fluxo de voz, Google Calendar e RAG",
   "tags": [
     "automation",
     "n8n",
@@ -1441,6 +1441,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Build a Chatbot, Voice Agent and Phone Agent with Voiceflow, Google Calendar and RAG. This workflow integrates 18 different services: webhook, stickyNote, httpRequest, textSplitterTokenSplitter, vectorStoreQdrant. It contains 60 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: construir um Chatbot, agente de voz e agente de telefone com fluxo de voz, Google Calendar e RAG. Este fluxo de trabalho integra 18 serviços diferentes: webhook, pegajosoNota, httpRequest, textSplitterTokenSplitter, vetorStore Qdrant. Contém 60 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "notes": "Excellent quality workflow: Build a Chatbot, Voice Agent and Phone Agent with Voiceflow, Google Calendar and RAG. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

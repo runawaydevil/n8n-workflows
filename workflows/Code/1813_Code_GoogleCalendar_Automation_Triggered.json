@@ -604,6 +604,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Inverview Scheduler. This workflow integrates 15 different services: stickyNote, code, agent, outputParserStructured, merge. It contains 29 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Inverview Scheduler. Este fluxo de trabalho integra 15 serviços diferentes: pegajosoNota, código, agente, saídaParserStructured, merge. Contém 29 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Inverview Scheduler. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

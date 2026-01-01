@@ -1,6 +1,6 @@
 {
   "id": "14",
-  "name": "Update Crypto Values",
+  "name": "Atualizar valores de criptografia",
   "nodes": [
     {
       "name": "CoinGecko",
@@ -208,7 +208,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Update Crypto Values. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: atualizar valores de criptografia. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-83b2cc6d",
     "versionId": "1.0.0",

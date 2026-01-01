@@ -192,8 +192,8 @@
     }
   ],
   "connections": {},
-  "name": "Function Workflow",
-  "description": "Automated workflow: Function Workflow. This workflow processes data and performs automated tasks.",
+  "name": "Função Fluxo de trabalho",
+  "description": "Fluxo de trabalho automático. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,

@@ -1,6 +1,6 @@
 {
   "id": "1",
-  "name": "Create entry in Mailchimp from Airtable",
+  "name": "Criar entrada no Mailchimp do Airtable",
   "nodes": [
     {
       "name": "Cron",
@@ -105,7 +105,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Create entry in Mailchimp from Airtable. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Criar entrada no Mailchimp do Airtable. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-ced1fb27",
     "versionId": "1.0.0",

@@ -271,6 +271,6 @@
       ]
     }
   },
-  "description": "This n8n workflow template allows users to check if a Tron wallet address is blacklisted on the USDT contract via a Telegram bot. When a user sends the command {walletAddress} through the Telegram bot, the workflow queries the Tronscan API to determine if the provided wallet address is blacklisted. The result is then sent back to the user via the Telegram bot.",
+  "description": "Este modelo de fluxo de trabalho n8n permite que os usuários verifiquem se um endereço da carteira Tron está na lista negra do contrato USDT através de um bot Telegram. Quando um usuário envia o comando {walletAddress} através do bot Telegram, o fluxo de trabalho consulta a API Tronscan para determinar se o endereço da carteira fornecida está na lista negra. O resultado é então enviado de volta para o usuário através do robô Telegram.",
   "notes": "Excellent quality workflow: Telegram Tron Wallet Blacklist Checker. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

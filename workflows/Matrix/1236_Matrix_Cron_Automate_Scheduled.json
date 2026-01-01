@@ -1,6 +1,6 @@
 {
   "id": "9",
-  "name": "Coffee Bot (Matrix)",
+  "name": "Bot de café (Matrix)",
   "nodes": [
     {
       "name": "Greetings",
@@ -123,7 +123,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Coffee Bot (Matrix). This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Bot de café (Matrix). Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-7ed68dbd",
     "versionId": "1.0.0",

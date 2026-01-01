@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Phishing_analysis__URLScan_io_and_Virustotal_",
+  "name": "Phishing_analysis_URLScan_io_e_virustotal_",
   "tags": [
     "automation",
     "n8n",
@@ -634,6 +634,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Phishing_analysis__URLScan_io_and_Virustotal_. This workflow integrates 14 different services: microsoftOutlook, httpRequest, filter, stickyNote, wait. It contains 28 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Phishing_analysis_URLScan_io_e_virustotal_. Este fluxo de trabalho integra 14 serviços diferentes: microsoftOutlook, httpRequest, filtro, pegajosoNota, espere. Contém 28 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Phishing_analysis__URLScan_io_and_Virustotal_. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

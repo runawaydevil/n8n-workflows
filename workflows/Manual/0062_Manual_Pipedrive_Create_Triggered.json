@@ -1,6 +1,6 @@
 {
   "id": "113",
-  "name": "Create an deal in Pipedrive",
+  "name": "Crie um acordo em Pipedrive",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -61,7 +61,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Create an deal in Pipedrive. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Crie um acordo em Pipedrive. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-c16bcb79",
     "versionId": "1.0.0",

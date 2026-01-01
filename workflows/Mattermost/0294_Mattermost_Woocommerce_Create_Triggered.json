@@ -1,6 +1,6 @@
 {
   "id": "188",
-  "name": "Send a message on Mattermost when an order is created in WooCommerce",
+  "name": "Envie uma mensagem sobre Mattermost quando uma ordem é criada em WooCommerce",
   "nodes": [
     {
       "name": "WooCommerce Trigger",
@@ -69,7 +69,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Send a message on Mattermost when an order is created in WooCommerce. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Envie uma mensagem sobre Mattermost quando uma ordem é criada em WooCommerce. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-dd37b050",
     "versionId": "1.0.0",

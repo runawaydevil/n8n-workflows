@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "MCP Client with Brave and Telegram",
+  "name": "Cliente MCP com Bravo e Telegram",
   "tags": [
     "automation",
     "n8n",
@@ -349,6 +349,6 @@
       ]
     }
   },
-  "description": "Automated workflow: MCP Client with Brave and Telegram. This workflow integrates 8 different services: telegramTrigger, stickyNote, telegram, code, set. It contains 16 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Cliente MCP com Bravo e Telegram. Este fluxo de trabalho integra 8 serviços diferentes: telegrama Trigger, pegajosoNota, telegrama, código, definido. Contém 16 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "notes": "Excellent quality workflow: MCP Client with Brave and Telegram. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

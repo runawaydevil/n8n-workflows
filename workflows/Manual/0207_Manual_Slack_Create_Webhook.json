@@ -1,6 +1,6 @@
 {
   "id": "164",
-  "name": "Create a channel, invite users to the channel, post a message, and upload a file",
+  "name": "Criar um canal, convidar usuários para o canal, postar uma mensagem e enviar um arquivo",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -161,5 +161,5 @@
     "excellent",
     "optimized"
   ],
-  "description": "Production-ready workflow: Create a channel, invite users to the channel, post a message, and upload a file. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
+  "description": "Fluxo de trabalho pronto para produção: Criar um canal, convidar usuários para o canal, postar uma mensagem e carregar um arquivo. Este fluxo de trabalho foi otimizado para uso de produção com manipulação de erros abrangente, segurança e documentação."
 }

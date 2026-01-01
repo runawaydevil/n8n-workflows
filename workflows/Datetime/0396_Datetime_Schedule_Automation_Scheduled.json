@@ -400,7 +400,7 @@
   ],
   "pinData": {},
   "connections": {},
-  "name": "Scheduletrigger Workflow",
+  "name": "Agendador Fluxo de trabalho",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -413,7 +413,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Scheduletrigger Workflow. This workflow integrates 10 different services: stickyNote, filter, scheduleTrigger, dropbox, n8n. It contains 17 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Fluxo de trabalho programado. Este fluxo de trabalho integra 10 serviços diferentes: Trigger, dropbox, n8n. Contém 17 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "tags": [
     "automation",
     "n8n",

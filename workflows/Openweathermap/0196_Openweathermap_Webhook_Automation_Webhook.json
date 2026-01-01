@@ -1,6 +1,6 @@
 {
   "id": "158",
-  "name": "Receive the weather information of any city",
+  "name": "Receba informações meteorológicas de qualquer cidade",
   "nodes": [
     {
       "name": "Webhook",
@@ -108,5 +108,5 @@
     "excellent",
     "optimized"
   ],
-  "description": "Production-ready workflow: Receive the weather information of any city. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
+  "description": "Fluxo de trabalho pronto para produção: Receba as informações meteorológicas de qualquer cidade. Este fluxo de trabalho foi otimizado para uso de produção com manipulação de erros abrangente, segurança e documentação."
 }

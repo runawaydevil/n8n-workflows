@@ -1369,7 +1369,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Googledrive Workflow. This workflow integrates 14 different services: convertToFile, stickyNote, formTrigger, code, splitOut. It contains 49 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Googledrive Workflow. Este fluxo de trabalho integra 14 serviços diferentes: ConvertToFile, pegajosoNota, formTrigger, código, splitOut. Ele contém 49 nós e segue as melhores práticas para lidar com erros e segurança.",
   "tags": [
     "automation",
     "n8n",

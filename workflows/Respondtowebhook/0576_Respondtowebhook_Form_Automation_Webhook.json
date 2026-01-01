@@ -767,7 +767,7 @@
       ]
     }
   },
-  "name": "Set Workflow",
+  "name": "Definir fluxo de trabalho",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -780,7 +780,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Set Workflow. This workflow integrates 8 different services: s3, stickyNote, formTrigger, httpRequest, switch. It contains 25 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Preparar fluxo de trabalho. Este fluxo de trabalho integra 8 serviços diferentes: s3, pegajosoNota, formulárioTrigger, httpRequest, switch. Contém 25 nós e segue as melhores práticas para lidar com erros e segurança.",
   "meta": {
     "instanceId": "workflow-63feef23",
     "versionId": "1.0.0",

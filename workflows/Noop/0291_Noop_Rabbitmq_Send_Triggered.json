@@ -1,6 +1,6 @@
 {
   "id": "186",
-  "name": "Receive messages from a queue via RabbitMQ and send an SMS",
+  "name": "Receba mensagens de uma fila via RabbitMQ e envie um SMS",
   "nodes": [
     {
       "name": "RabbitMQ",
@@ -104,7 +104,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Receive messages from a queue via RabbitMQ and send an SMS. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Receba mensagens de uma fila via RabbitMQ e envie um SMS. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-999386e0",
     "versionId": "1.0.0",

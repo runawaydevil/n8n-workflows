@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Retry on fail except for known error Template",
+  "name": "Tente novamente no fracasso, exceto pelo modelo de erro conhecido",
   "tags": [
     "automation",
     "n8n",
@@ -394,6 +394,6 @@
   },
   "versionId": "ad610eea-ad27-4a3b-b662-edea474bc5ff",
   "connections": {},
-  "description": "Automated workflow: Retry on fail except for known error Template. This workflow integrates 7 different services: stickyNote, wait, set, stopAndError, manualTrigger. It contains 19 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Tente novamente falhar, exceto por um modelo de erro conhecido. Este fluxo de trabalho integra 7 serviços diferentes: pegajosoNota, espera, conjunto, paradaError, manualTrigger. Contém 19 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Retry on fail except for known error Template. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

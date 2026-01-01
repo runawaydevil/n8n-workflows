@@ -1,6 +1,6 @@
 {
   "id": "168",
-  "name": "Smart Factory Use Case",
+  "name": "Caso de uso de fábrica inteligente",
   "nodes": [
     {
       "name": "Values higher than 50°C",
@@ -223,7 +223,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Smart Factory Use Case. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Caso de Uso de Fábrica Inteligente. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-3954d77d",
     "versionId": "1.0.0",

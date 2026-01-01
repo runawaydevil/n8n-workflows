@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Enrich Company Data from Google Sheet with OpenAI Agent and Scraper Tool",
+  "name": "Enriqueça dados da empresa do Google Sheet com OpenAI Agent e Scraper Tool",
   "tags": [
     "automation",
     "n8n",
@@ -593,6 +593,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Enrich Company Data from Google Sheet with OpenAI Agent and Scraper Tool. This workflow integrates 13 different services: webhook, stickyNote, httpRequest, markdown, splitInBatches. It contains 20 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Enriqueça dados da empresa do Google Sheet com OpenAI Agent e Scraper Tool. Este fluxo de trabalho integra 13 serviços diferentes: webhook, pegajosoNota, httpRequest, markdown, splitInBatches. Contém 20 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "notes": "Excellent quality workflow: Enrich Company Data from Google Sheet with OpenAI Agent and Scraper Tool. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

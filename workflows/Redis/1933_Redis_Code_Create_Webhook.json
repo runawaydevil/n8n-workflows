@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "New Ticket Alerts to Teams",
+  "name": "Novos alertas para as equipes",
   "tags": [
     "automation",
     "n8n",
@@ -285,6 +285,6 @@
       ]
     }
   },
-  "description": "Automated workflow: New Ticket Alerts to Teams. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Novos alertas para equipes. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "notes": "Excellent quality workflow: New Ticket Alerts to Teams. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

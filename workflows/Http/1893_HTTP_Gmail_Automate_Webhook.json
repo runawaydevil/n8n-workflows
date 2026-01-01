@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "My workflow 3",
+  "name": "Meu fluxo de trabalho 3",
   "tags": [
     "automation",
     "n8n",
@@ -221,6 +221,6 @@
       ]
     }
   },
-  "description": "Automated workflow: My workflow 3. This workflow integrates 6 different services: stickyNote, httpRequest, function, stopAndError, gmail. It contains 9 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Meu fluxo de trabalho 3. Este fluxo de trabalho integra 6 serviços diferentes: pegajosoNota, httpPedido, função, paradaError, gmail. Contém 9 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: My workflow 3. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

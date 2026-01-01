@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "OCR receipts from Google Drive",
+  "name": "Recibos OCR do Google Drive",
   "tags": [
     "automation",
     "n8n",
@@ -518,6 +518,6 @@
       ]
     }
   },
-  "description": "Automated workflow: OCR receipts from Google Drive. This workflow integrates 9 different services: stickyNote, httpRequest, googleDriveTrigger, code, googleDrive. It contains 17 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: recibos de OCR do Google Drive. Este fluxo de trabalho integra 9 serviços diferentes: pegajosoNota, httpRequest, googleDriveTrigger, código, google Dirija. Contém 17 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "notes": "Excellent quality workflow: OCR receipts from Google Drive. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

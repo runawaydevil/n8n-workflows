@@ -132,7 +132,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: N8N Español - BOT. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: N8N Español - BOT. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-c1f5c2b2",
     "versionId": "1.0.0",

@@ -1002,7 +1002,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Httprequest Workflow. This workflow integrates 11 different services: stickyNote, httpRequest, code, scheduleTrigger, function. It contains 39 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Httprequest Workflow. Este fluxo de trabalho integra 11 serviços diferentes: pegajosoNota, httpRequest, código, programaçãoTrigger, função. Contém 39 nós e segue as melhores práticas para lidar com erros e segurança.",
   "tags": [
     "automation",
     "n8n",

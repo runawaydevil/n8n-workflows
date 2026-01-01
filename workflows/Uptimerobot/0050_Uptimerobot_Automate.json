@@ -89,8 +89,8 @@
     }
   ],
   "connections": {},
-  "name": "Uptimerobot Workflow",
-  "description": "Automated workflow: Uptimerobot Workflow. This workflow processes data and performs automated tasks.",
+  "name": "Fluxo de trabalho Uptimerobot",
+  "description": "Fluxo de trabalho automatizado: Fluxo de trabalho Uptimerobot. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,

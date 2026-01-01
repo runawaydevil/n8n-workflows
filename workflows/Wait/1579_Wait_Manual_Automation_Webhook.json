@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Structured Bulk Data Extract with Bright Data Web Scraper",
+  "name": "Extrato de dados em massa estruturado com raspador de rede de dados brilhantes",
   "tags": [
     "automation",
     "n8n",
@@ -698,6 +698,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Structured Bulk Data Extract with Bright Data Web Scraper. This workflow integrates 10 different services: stickyNote, httpRequest, wait, readWriteFile, function. It contains 25 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Extrato de dados em massa estruturado com raspador de dados brilhantes. Este fluxo de trabalho integra 10 serviços diferentes: pegajosoNota, httpPedido, espera, ler Arquivo, função. Contém 25 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Structured Bulk Data Extract with Bright Data Web Scraper. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

@@ -87,14 +87,36 @@ def update_api_timestamp(api_dir: str):
 
 def create_github_pages_config():
     """Create necessary GitHub Pages configuration files."""
+    import subprocess
+    
+    # Try to detect GitHub repository from git remote
+    repo_name = "n8n-workflows"  # Default
+    try:
+        result = subprocess.run(
+            ["git", "config", "--get", "remote.origin.url"],
+            capture_output=True,
+            text=True,
+            check=True
+        )
+        remote_url = result.stdout.strip()
+        # Extract repo name from URL (handles both https and ssh formats)
+        if "github.com" in remote_url:
+            if remote_url.endswith(".git"):
+                remote_url = remote_url[:-4]
+            parts = remote_url.split("/")
+            if len(parts) >= 2:
+                repo_name = parts[-1]
+    except (subprocess.CalledProcessError, FileNotFoundError):
+        # If git is not available or not a git repo, use default
+        pass
 
     # Create/update _config.yml for Jekyll (GitHub Pages)
-    config_content = """# GitHub Pages Configuration
+    config_content = f"""# GitHub Pages Configuration
 theme: null
 title: N8N Workflows Repository
 description: Browse and search 2000+ n8n workflow automation templates
-baseurl: "/n8n-workflows"
-url: "https://zie619.github.io"
+baseurl: "/{repo_name}"
+url: ""  # Will be auto-detected by GitHub Pages
 
 # Build settings
 markdown: kramdown
@@ -282,7 +304,8 @@ def main():
     if verify_github_pages_structure():
         print("\n✨ GitHub Pages setup complete!")
         print("\nDeployment will be available at:")
-        print("   https://zie619.github.io/n8n-workflows/")
+        print("   https://[YOUR_USERNAME].github.io/n8n-workflows/")
+        print("   (Replace [YOUR_USERNAME] with your GitHub username)")
         print(
             "\nNote: It may take a few minutes for changes to appear after pushing to GitHub."
         )

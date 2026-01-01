@@ -662,7 +662,7 @@
       ]
     }
   },
-  "name": "Googlesheetstool Workflow",
+  "name": "Googlesheetstool Fluxo de trabalho",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -675,7 +675,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Googlesheetstool Workflow. This workflow integrates 14 different services: stickyNote, formTrigger, filter, code, scheduleTrigger. It contains 23 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Googlesheetstool Workflow. Este fluxo de trabalho integra 14 serviços diferentes: pegajosoNota, formulárioTrigger, filtro, código, programação Trigger. Contém 23 nós e segue as melhores práticas para lidar com erros e segurança.",
   "tags": [
     "automation",
     "n8n",

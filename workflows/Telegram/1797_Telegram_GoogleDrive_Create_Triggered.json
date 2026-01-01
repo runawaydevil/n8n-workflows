@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Save new Files received on Telegram to Google Drive",
+  "name": "Salve novos arquivos recebidos no Telegram para o Google Drive",
   "tags": [
     "automation",
     "n8n",
@@ -168,6 +168,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Save new Files received on Telegram to Google Drive. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Guarde novos arquivos recebidos no Telegram para o Google Drive. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "notes": "Excellent quality workflow: Save new Files received on Telegram to Google Drive. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

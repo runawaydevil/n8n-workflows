@@ -599,7 +599,7 @@
       ]
     }
   },
-  "name": "Youtube Workflow",
+  "name": "Fluxo de trabalho do Youtube",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -612,7 +612,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Youtube Workflow. This workflow integrates 10 different services: stickyNote, youTube, httpRequest, filter, scheduleTrigger. It contains 20 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Fluxo de trabalho do Youtube. Este fluxo de trabalho integra 10 serviços diferentes: pegajosoNota, YouTube, httpRequest, filter, schedule Trigger. Contém 20 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "tags": [
     "automation",
     "n8n",

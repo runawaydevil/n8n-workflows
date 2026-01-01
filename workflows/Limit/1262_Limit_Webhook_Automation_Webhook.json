@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "AI Voice Chat using Webhook, Memory Manager, OpenAI, Google Gemini & ElevenLabs",
+  "name": "AI Voice Chat usando Webhook, Gerente de Memória, OpenAI, Google Gemini e Onze Labs",
   "tags": [
     "automation",
     "n8n",
@@ -557,6 +557,6 @@
       ]
     }
   },
-  "description": "Automated workflow: AI Voice Chat using Webhook, Memory Manager, OpenAI, Google Gemini & ElevenLabs. This workflow integrates 12 different services: webhook, stickyNote, httpRequest, lmChatGoogleGemini, chainLlm. It contains 23 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: AI Voice Chat usando Webhook, Gerente de Memória, OpenAI, Google Gemini e Onze Labs. Este fluxo de trabalho integra 12 serviços diferentes: webhook, pegajosoNota, httpRequest, lmChatGoogleGemini, chainLlm. Contém 23 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: AI Voice Chat using Webhook, Memory Manager, OpenAI, Google Gemini & ElevenLabs. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

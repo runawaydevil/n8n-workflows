@@ -1,6 +1,6 @@
 {
   "id": "84",
-  "name": "Get a pipeline in CircleCI",
+  "name": "Pegue um oleoduto em CircleCI",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -61,7 +61,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Get a pipeline in CircleCI. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Consiga um oleoduto em CircleCI. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-ba8d317f",
     "versionId": "1.0.0",

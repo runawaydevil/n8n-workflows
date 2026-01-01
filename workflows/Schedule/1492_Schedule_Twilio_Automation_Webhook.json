@@ -1916,7 +1916,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Twiliotrigger Workflow. This workflow integrates 13 different services: stickyNote, airtable, toolHttpRequest, scheduleTrigger, agent. It contains 51 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Twiliotrigger Workflow. Este fluxo de trabalho integra 13 serviços diferentes: pegajoso Nota, airtable, ferramenta HttpPedido, horário Trigger, agente. Contém 51 nós e segue as melhores práticas para lidar com erros e segurança.",
   "tags": [
     "automation",
     "n8n",

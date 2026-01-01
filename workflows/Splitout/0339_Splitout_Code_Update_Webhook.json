@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Printify Automation - Update Title and Description - AlexK1919",
+  "name": "Imprimir Automação Atualizar Título e Descrição AlexK1919",
   "tags": [
     "automation",
     "n8n",
@@ -1259,6 +1259,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Printify Automation - Update Title and Description - AlexK1919. This workflow integrates 14 different services: stickyNote, httpRequest, googleSheetsTrigger, code, splitOut. It contains 38 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Imprimir Automação - Atualizar Título e Descrição - AlexK1919. Este fluxo de trabalho integra 14 serviços diferentes: FolhasTrigger, código, separado. Contém 38 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Printify Automation - Update Title and Description - AlexK1919. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

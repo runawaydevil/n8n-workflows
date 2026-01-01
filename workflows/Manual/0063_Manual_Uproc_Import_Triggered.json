@@ -1,6 +1,6 @@
 {
   "id": "113",
-  "name": "Get DNS entries",
+  "name": "Obter entradas DNS",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -77,7 +77,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Get DNS entries. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Obter entradas DNS. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-c120fa0c",
     "versionId": "1.0.0",

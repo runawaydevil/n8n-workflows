@@ -365,7 +365,7 @@
       ]
     }
   },
-  "name": "Localfiletrigger Workflow",
+  "name": "Arquivamento local Fluxo de trabalho",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -378,7 +378,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Localfiletrigger Workflow. This workflow integrates 12 different services: stickyNote, code, agent, readWriteFile, splitOut. It contains 21 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Localfiletrigger Workflow. Este fluxo de trabalho integra 12 serviços diferentes: pegajoso Nota, código, agente, arquivo de leitura, separado. Contém 21 nós e segue as melhores práticas para lidar com erros e segurança.",
   "tags": [
     "automation",
     "n8n",

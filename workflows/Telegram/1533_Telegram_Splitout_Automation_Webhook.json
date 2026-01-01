@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Summarize YouTube Videos & Chat About Content with GPT-4o-mini via Telegram",
+  "name": "Resumir vídeos e conversas no YouTube sobre conteúdo com GPT-4o-mini via Telegram",
   "tags": [
     "automation",
     "n8n",
@@ -689,6 +689,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Summarize YouTube Videos & Chat About Content with GPT-4o-mini via Telegram. This workflow integrates 18 different services: webhook, telegramTrigger, stickyNote, telegram, code. It contains 34 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Resumir vídeos e conversas no YouTube sobre conteúdo com GPT-4o-mini via Telegram. Este fluxo de trabalho integra 18 serviços diferentes: webhook, telegrama Trigger, pegajosoNota, telegrama, código. Contém 34 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Summarize YouTube Videos & Chat About Content with GPT-4o-mini via Telegram. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

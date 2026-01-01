@@ -1,6 +1,6 @@
 {
   "id": "141",
-  "name": "Assign values to variables using the Set node",
+  "name": "Atribuir valores às variáveis usando o nó Set",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -77,7 +77,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Assign values to variables using the Set node. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Atribuir valores a variáveis usando o nó Set. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-47af7cf0",
     "versionId": "1.0.0",

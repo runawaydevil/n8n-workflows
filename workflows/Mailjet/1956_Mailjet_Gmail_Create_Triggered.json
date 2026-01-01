@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Forward Netflix emails to multiple email addresses with GMail and Mailjet",
+  "name": "Envie e-mails da Netflix para vários endereços de e-mail com GMail e Mailjet",
   "tags": [
     "automation",
     "n8n",
@@ -198,6 +198,6 @@
   },
   "versionId": "6e57d138-9909-46ac-bde4-b59bde72b3e1",
   "connections": {},
-  "description": "Automated workflow: Forward Netflix emails to multiple email addresses with GMail and Mailjet. This workflow integrates 5 different services: stickyNote, gmailTrigger, splitOut, mailjet, set. It contains 7 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Envie e-mails da Netflix para vários endereços de e-mail com GMail e Mailjet. Este fluxo de trabalho integra 5 serviços diferentes: pegajosoNota, gmailTrigger, splitOut, mailjet, set. Contém 7 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Forward Netflix emails to multiple email addresses with GMail and Mailjet. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

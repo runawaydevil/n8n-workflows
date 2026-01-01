@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "AI powered SEO Keyword Research Automation - The vibe Marketer",
+  "name": "AI powered SEO Keyword Research Automation - The Vibe Marketer",
   "tags": [
     "automation",
     "n8n",
@@ -913,6 +913,6 @@
       ]
     }
   },
-  "description": "Automated workflow: AI powered SEO Keyword Research Automation - The vibe Marketer. This workflow integrates 14 different services: webhook, stickyNote, code, agent, splitOut. It contains 41 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado, motorizado por SEO. Este fluxo de trabalho integra 14 serviços diferentes: webhook, pegajoso Nota, código, agente, separado. Contém 41 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: AI powered SEO Keyword Research Automation - The vibe Marketer. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

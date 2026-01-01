@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Image-Based Data Extraction API using Gemini AI",
+  "name": "API de extração de dados baseada em imagens usando Gemini AI",
   "tags": [
     "automation",
     "n8n",
@@ -483,6 +483,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Image-Based Data Extraction API using Gemini AI. This workflow integrates 7 different services: webhook, stickyNote, httpRequest, set, respondToWebhook. It contains 18 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: API de extração de dados baseada em imagens usando Gemini AI. Este fluxo de trabalho integra 7 serviços diferentes: webhook, pegajosoNota, httpRequest, set, responseToWebhook. Contém 18 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Image-Based Data Extraction API using Gemini AI. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

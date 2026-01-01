@@ -1,6 +1,6 @@
 {
   "id": "20",
-  "name": "Create, update and get a contact in Google Contacts",
+  "name": "Criar, atualizar e obter um contato no Google Contatos",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -114,7 +114,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Create, update and get a contact in Google Contacts. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: criar, atualizar e ter um contato no Google Contacts. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-cf94e9dd",
     "versionId": "1.0.0",

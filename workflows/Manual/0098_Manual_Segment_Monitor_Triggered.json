@@ -1,6 +1,6 @@
 {
   "id": "122",
-  "name": "Track an event in Segment",
+  "name": "Rastreie um evento em Segmento",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -61,7 +61,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Track an event in Segment. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Rastreie um evento em Segment. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-551df213",
     "versionId": "1.0.0",

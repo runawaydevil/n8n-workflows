@@ -283,7 +283,7 @@
       ]
     }
   },
-  "name": "Manualtrigger Workflow",
+  "name": "Fluxo de trabalho manual",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -296,7 +296,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Manualtrigger Workflow. This workflow integrates 9 different services: stickyNote, httpRequest, itemLists, merge, set. It contains 15 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Fluxo de trabalho manual. Este fluxo de trabalho integra 9 serviços diferentes: pegajosoNota, httpRequest, itemLists, merge, set. Contém 15 nós e segue as melhores práticas para lidar com erros e segurança.",
   "meta": {
     "instanceId": "workflow-b531d50d",
     "versionId": "1.0.0",

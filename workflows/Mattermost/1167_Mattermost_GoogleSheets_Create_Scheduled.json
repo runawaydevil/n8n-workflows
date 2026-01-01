@@ -93,8 +93,8 @@
     }
   ],
   "connections": {},
-  "name": "Mattermost Workflow",
-  "description": "Automated workflow: Mattermost Workflow. This workflow processes data and performs automated tasks.",
+  "name": "O fluxo de trabalho mais importante",
+  "description": "Fluxo de trabalho automatizado: O fluxo de trabalho mais importante. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,

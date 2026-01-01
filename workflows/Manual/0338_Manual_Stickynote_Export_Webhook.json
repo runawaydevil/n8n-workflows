@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Capture Website Screenshots with Bright Data Web Unlocker and Save to Disk",
+  "name": "Capture imagens do site com Bright Data Web Desbloquear e Salvar para Disco",
   "tags": [
     "automation",
     "n8n",
@@ -274,6 +274,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Capture Website Screenshots with Bright Data Web Unlocker and Save to Disk. This workflow integrates 6 different services: stickyNote, httpRequest, readWriteFile, set, stopAndError. It contains 9 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Capture imagens de sites com Bright Data Web Unlocker e Salve em Disco. Este fluxo de trabalho integra 6 serviços diferentes: pegajosoNota, httpRequest, readWriteFile, set, stopError. Contém 9 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Capture Website Screenshots with Bright Data Web Unlocker and Save to Disk. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

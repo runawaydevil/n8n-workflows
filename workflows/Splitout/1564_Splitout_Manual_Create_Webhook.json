@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Search LinkedIn companies and add them to Airtable CRM",
+  "name": "Busca ligada Em empresas e adicione-as ao Airtable CRM",
   "tags": [
     "automation",
     "n8n",
@@ -932,6 +932,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Search LinkedIn companies and add them to Airtable CRM. This workflow integrates 9 different services: stickyNote, httpRequest, airtable, splitOut, set. It contains 20 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Busca ligada Nas empresas e acrescente-as à Airtable CRM. Este fluxo de trabalho integra 9 serviços diferentes: pegajosoNota, httpRequest, airtable, splitOut, set. Contém 20 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "notes": "Excellent quality workflow: Search LinkedIn companies and add them to Airtable CRM. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

@@ -244,7 +244,7 @@
   "pinData": {},
   "connections": {},
   "name": "Mysql Workflow",
-  "description": "Automated workflow: Mysql Workflow. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Mysql Workflow. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,

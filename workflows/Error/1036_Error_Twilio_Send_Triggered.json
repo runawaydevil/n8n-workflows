@@ -1,6 +1,6 @@
 {
   "id": "56",
-  "name": "Send an SMS when a workflow fails",
+  "name": "Envie um SMS quando um fluxo de trabalho falhar",
   "nodes": [
     {
       "name": "Error Trigger",
@@ -62,7 +62,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Send an SMS when a workflow fails. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Envie um SMS quando um fluxo de trabalho falhar. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-c80b0bca",
     "versionId": "1.0.0",

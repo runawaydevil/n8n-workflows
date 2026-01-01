@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "PG&E Daily Cost Tracker",
+  "name": "PG&E Rastreador Diário de Custos",
   "tags": [
     "automation",
     "n8n",
@@ -348,6 +348,6 @@
   },
   "versionId": "0d0d4991-e9c1-4f51-be90-bb8337e40bc2",
   "connections": {},
-  "description": "Automated workflow: PG&E Daily Cost Tracker. This workflow integrates 6 different services: stickyNote, wait, scheduleTrigger, set, airtop. It contains 15 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: PG&E Rastreador diário de custos. Este fluxo de trabalho integra 6 serviços diferentes: pegajoso Anote, espere, agenda Trigger, pronto, airtop. Contém 15 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: PG&E Daily Cost Tracker. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

@@ -1,6 +1,6 @@
 {
   "id": "107",
-  "name": "Get a volume and add it to your bookshelf",
+  "name": "Pegue um volume e adicione à sua estante",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -103,7 +103,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Get a volume and add it to your bookshelf. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Pegue um volume e adicione na estante. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-cde05d0c",
     "versionId": "1.0.0",

@@ -697,7 +697,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Whatsapptrigger Workflow. This workflow integrates 16 different services: stickyNote, httpRequest, textSplitterRecursiveCharacterTextSplitter, vectorStoreInMemory, agent. It contains 35 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: O fluxo de trabalho do aplicativo. Este fluxo de trabalho integra 16 serviços diferentes: pegajosoNota, httpRequest, textoSplitterRecursivoCharacterTextSplitter, vetorStoreInMemory, agente. Contém 35 nós e segue as melhores práticas para lidar com erros e segurança.",
   "tags": [
     "automation",
     "n8n",

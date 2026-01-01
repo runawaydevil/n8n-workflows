@@ -1,6 +1,6 @@
 {
   "id": "88",
-  "name": "Get the current weather data for a city",
+  "name": "Obter os dados meteorológicos atuais para uma cidade",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -60,7 +60,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Get the current weather data for a city. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Pegue os dados meteorológicos atuais para uma cidade. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-c91a06d7",
     "versionId": "1.0.0",

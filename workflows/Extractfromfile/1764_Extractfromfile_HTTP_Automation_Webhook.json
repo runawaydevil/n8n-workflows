@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Attachments Gmail to drive and google sheets",
+  "name": "Anexos Gmail para dirigir e google folhas",
   "tags": [
     "automation",
     "n8n",
@@ -643,6 +643,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Attachments Gmail to drive and google sheets. This workflow integrates 13 different services: stickyNote, httpRequest, gmailTrigger, chainLlm, googleDrive. It contains 25 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Anexos Gmail para dirigir e usar no Google. Este fluxo de trabalho integra 13 serviços diferentes: Dirija. Contém 25 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Attachments Gmail to drive and google sheets. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

@@ -370,6 +370,6 @@
   },
   "versionId": "f4bb34b0-7561-4d77-beac-8f6988a0ed64",
   "connections": {},
-  "description": "Automated workflow: Addon for Workflow Nodes Update Check Template. This workflow integrates 7 different services: stickyNote, code, n8n, set, gmail. It contains 16 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Addon for Workflow Nodes Update Check Template. Este fluxo de trabalho integra 7 serviços diferentes: pegajosoNota, código, n8n, conjunto, gmail. Contém 16 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "notes": "Excellent quality workflow: Addon for Workflow Nodes Update Check Template. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

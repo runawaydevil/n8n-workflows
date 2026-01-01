@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "📄🛠️PDF2Blog",
+  "name": "Tradução e Sincronia:",
   "tags": [
     "automation",
     "n8n",
@@ -324,6 +324,6 @@
       ]
     }
   },
-  "description": "Automated workflow: 📄🛠️PDF2Blog. This workflow integrates 11 different services: stickyNote, formTrigger, code, agent, ghost. It contains 14 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: PDF2Blog. Este fluxo de trabalho integra 11 serviços diferentes: pegajosoNota, formulárioTrigger, código, agente, fantasma. Contém 14 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: 📄🛠️PDF2Blog. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

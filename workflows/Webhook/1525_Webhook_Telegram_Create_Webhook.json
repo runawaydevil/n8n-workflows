@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Send Telegram Alerts for New WooCommerce Orders",
+  "name": "Envie alertas para as novas ordens do WooCommerce",
   "tags": [
     "automation",
     "n8n",
@@ -208,6 +208,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Send Telegram Alerts for New WooCommerce Orders. This workflow integrates 6 different services: webhook, stickyNote, telegram, code, stopAndError. It contains 9 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Envie alertas para novas ordens do WooCommerce. Este fluxo de trabalho integra 6 serviços diferentes: webhook, pegajosoNota, telegrama, código, paradaError. Contém 9 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Send Telegram Alerts for New WooCommerce Orders. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

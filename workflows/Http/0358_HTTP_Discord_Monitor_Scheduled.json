@@ -1,6 +1,6 @@
 {
   "id": "1",
-  "name": "Website check",
+  "name": "Verificação do site",
   "nodes": [
     {
       "name": "HTTP Request",
@@ -132,5 +132,5 @@
     "excellent",
     "optimized"
   ],
-  "description": "Production-ready workflow: Website check. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
+  "description": "Fluxo de trabalho pronto para produção: Checando o site. Este fluxo de trabalho foi otimizado para uso de produção com manipulação de erros abrangente, segurança e documentação."
 }

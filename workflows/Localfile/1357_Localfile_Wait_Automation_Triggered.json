@@ -999,7 +999,7 @@
       ]
     }
   },
-  "name": "Localfiletrigger Workflow",
+  "name": "Arquivamento local Fluxo de trabalho",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -1012,7 +1012,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Localfiletrigger Workflow. This workflow integrates 23 different services: convertToFile, stickyNote, embeddingsMistralCloud, textSplitterRecursiveCharacterTextSplitter, lmChatMistralCloud. It contains 49 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Localfiletrigger Workflow. Este fluxo de trabalho integra 23 serviços diferentes: converter ToFile, pegajoso Nota, incorpora MistralCloud, textSplitterRecursiveCharacterTextSplitter, ImChatMistral Nuvem. Ele contém 49 nós e segue as melhores práticas para lidar com erros e segurança.",
   "tags": [
     "automation",
     "n8n",

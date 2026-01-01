@@ -1,6 +1,6 @@
 {
   "id": "48",
-  "name": "Receive updates when an email is bounced or opened",
+  "name": "Receba atualizações quando um e-mail for enviado ou aberto",
   "nodes": [
     {
       "name": "Postmark Trigger",
@@ -53,7 +53,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Receive updates when an email is bounced or opened. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Receba atualizações quando um e-mail for enviado ou aberto. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-aea17bf0",
     "versionId": "1.0.0",

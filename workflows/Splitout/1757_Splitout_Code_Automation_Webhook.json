@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Publish Image Post to Bluesky",
+  "name": "Publicar imagem para Bluesky",
   "tags": [
     "automation",
     "n8n",
@@ -576,6 +576,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Publish Image Post to Bluesky. This workflow integrates 8 different services: stickyNote, httpRequest, code, splitOut, set. It contains 23 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Publicar Mensagem de Imagem em Bluesky. Este fluxo de trabalho integra 8 serviços diferentes: pegajoso Nota, httpPedido, código, separado, definido. Contém 23 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Publish Image Post to Bluesky. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

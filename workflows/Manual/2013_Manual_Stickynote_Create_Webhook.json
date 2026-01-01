@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Generate 360° Virtual Try-on Videos for Clothing with Kling API",
+  "name": "Gerar vídeos virtuais de 360° para roupas com Kling API",
   "tags": [
     "automation",
     "n8n",
@@ -586,6 +586,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Generate 360° Virtual Try-on Videos for Clothing with Kling API. This workflow integrates 8 different services: stickyNote, httpRequest, wait, switch, set. It contains 24 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Gerar vídeos virtuais de teste 360° para roupas com API Kling. Este fluxo de trabalho integra 8 serviços diferentes: pegajosoNota, httpPedido, espera, interruptor, conjunto. Contém 24 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Generate 360° Virtual Try-on Videos for Clothing with Kling API. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

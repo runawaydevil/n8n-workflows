@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "SHEETS RAG",
+  "name": "RAG DOS FILHOS",
   "tags": [
     "automation",
     "n8n",
@@ -579,6 +579,6 @@
       ]
     }
   },
-  "description": "Automated workflow: SHEETS RAG. This workflow integrates 13 different services: stickyNote, googleDriveTrigger, code, lmChatGoogleGemini, manualChatTrigger. It contains 26 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Rag de folhas. Este fluxo de trabalho integra 13 serviços diferentes: DriveTrigger, código, ImChatGoogleGemini, manual ChatTrigger. Contém 26 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: SHEETS RAG. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

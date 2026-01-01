@@ -1,6 +1,6 @@
 {
   "id": "92",
-  "name": "Sending an SMS using sms77",
+  "name": "Enviando um SMS usando sms77",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -60,7 +60,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Sending an SMS using sms77. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Enviando um SMS usando sms77. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-a5a95251",
     "versionId": "1.0.0",

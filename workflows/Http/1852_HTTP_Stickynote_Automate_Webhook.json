@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Connect Airtable Contacts to telli for Automated AI Voice Call Scheduling",
+  "name": "Conectar contatos da Airtable para telli para programação automática de chamadas de voz da IA",
   "tags": [
     "automation",
     "n8n",
@@ -339,6 +339,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Connect Airtable Contacts to telli for Automated AI Voice Call Scheduling. This workflow integrates 4 different services: airtableTrigger, stickyNote, httpRequest, stopAndError. It contains 11 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Conectar contatos da Airtable para telli para agendamento automático de chamadas de voz. Este fluxo de trabalho integra 4 serviços diferentes: AirtableTrigger, pegajosoNote, httpRequest, stopAndError. Ele contém 11 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Connect Airtable Contacts to telli for Automated AI Voice Call Scheduling. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

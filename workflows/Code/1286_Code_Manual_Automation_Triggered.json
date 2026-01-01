@@ -396,6 +396,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Podcast Digest. This workflow integrates 14 different services: documentJsonInputLoader, stickyNote, itemLists, textSplitterRecursiveCharacterTextSplitter, code. It contains 22 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Podcast Digest. Este fluxo de trabalho integra 14 serviços diferentes: documentoJsonInputLoader, pegajosoNota, itemListas, textoSplitterRecursivoCaracterTextSplitter, código. Contém 22 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Podcast Digest. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

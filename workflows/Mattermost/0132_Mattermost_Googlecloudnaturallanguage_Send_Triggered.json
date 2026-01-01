@@ -1,6 +1,6 @@
 {
   "id": "133",
-  "name": "Analyze the sentiment of feedback and send a message on Mattermost",
+  "name": "Analise o sentimento de feedback e envie uma mensagem sobre Mattermost",
   "nodes": [
     {
       "name": "Typeform Trigger",
@@ -119,7 +119,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Analyze the sentiment of feedback and send a message on Mattermost. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Analise o sentimento de feedback e envie uma mensagem sobre Mattermost. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-c5c2969e",
     "versionId": "1.0.0",

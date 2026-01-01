@@ -35,8 +35,8 @@
     }
   ],
   "connections": {},
-  "name": "Coppertrigger Workflow",
-  "description": "Automated workflow: Coppertrigger Workflow. This workflow processes data and performs automated tasks.",
+  "name": "Fluxo de trabalho de gatilho de cobre",
+  "description": "Fluxo de trabalho automatizado: Fluxo de trabalho de gatilho de cobre. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,

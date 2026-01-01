@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "n8n update",
+  "name": "n8n atualização",
   "tags": [
     "automation",
     "n8n",
@@ -652,6 +652,6 @@
       ]
     }
   },
-  "description": "Automated workflow: n8n update. This workflow integrates 10 different services: stickyNote, httpRequest, telegram, scheduleTrigger, merge. It contains 32 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: atualização n8n. Este fluxo de trabalho integra 10 serviços diferentes: pegajosoNota, httpRequest, telegrama, agendaTrigger, Fusão. Contém 32 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: n8n update. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

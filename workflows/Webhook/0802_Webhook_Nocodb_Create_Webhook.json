@@ -896,7 +896,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Webhook Workflow. This workflow integrates 10 different services: webhook, stickyNote, dropbox, merge, switch. It contains 26 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Fluxo de trabalho Webhook. Este fluxo de trabalho integra 10 serviços diferentes: webhook, pegajosoNota, dropbox, mescla, troca. Contém 26 nós e segue as melhores práticas para lidar com erros e segurança.",
   "tags": [
     "automation",
     "n8n",

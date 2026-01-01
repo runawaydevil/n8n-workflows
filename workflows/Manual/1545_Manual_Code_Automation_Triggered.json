@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "pdf to text",
+  "name": "pdf para texto",
   "tags": [
     "automation",
     "n8n",
@@ -137,6 +137,6 @@
   },
   "versionId": "97b60904-2b34-4a77-b171-d02f87c17134",
   "connections": {},
-  "description": "Automated workflow: pdf to text. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: pdf para texto. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "notes": "Excellent quality workflow: pdf to text. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

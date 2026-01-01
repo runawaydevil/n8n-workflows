@@ -817,7 +817,7 @@
       ]
     }
   },
-  "name": "Itemlists Workflow",
+  "name": "Listas de itens Fluxo de trabalho",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -830,7 +830,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Itemlists Workflow. This workflow integrates 9 different services: itemLists, httpRequest, stickyNote, code, scheduleTrigger. It contains 22 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automático: listas de itens Fluxo de trabalho. Este fluxo de trabalho integra 9 serviços diferentes: itemLists, httpRequest, pegajosoNota, código, programação Trigger. Contém 22 nós e segue as melhores práticas para lidar com erros e segurança.",
   "tags": [
     "automation",
     "n8n",

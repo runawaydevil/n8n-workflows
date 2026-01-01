@@ -392,7 +392,7 @@
       ]
     }
   },
-  "name": "Set Workflow",
+  "name": "Definir fluxo de trabalho",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -405,7 +405,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Set Workflow. This workflow integrates 7 different services: webhook, stickyNote, httpRequest, code, set. It contains 16 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Preparar fluxo de trabalho. Este fluxo de trabalho integra 7 serviços diferentes: webhook, pegajosoNota, httpRequest, código, conjunto. Contém 16 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "tags": [
     "automation",
     "n8n",

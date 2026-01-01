@@ -171,7 +171,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Stickynote Workflow. This workflow integrates 6 different services: stickyNote, stopAndError, memoryBufferWindow, openAi, toolCalculator. It contains 7 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Fluxo de trabalho. Este fluxo de trabalho integra 6 serviços diferentes: pegajosoNota, paradaErro, memóriaBufferWindow, openAi, ferramentaCalculador. Contém 7 nós e segue as melhores práticas para lidar com erros e segurança.",
   "tags": [
     "automation",
     "n8n",

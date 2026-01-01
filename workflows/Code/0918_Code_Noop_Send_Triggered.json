@@ -472,7 +472,7 @@
       ]
     }
   },
-  "name": "Informationextractor Workflow",
+  "name": "Extrator de Informação Fluxo de trabalho",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -485,7 +485,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Informationextractor Workflow. This workflow integrates 14 different services: stickyNote, code, agent, noOp, informationExtractor. It contains 22 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Fluxo de Trabalho Extrator de Informação. Este fluxo de trabalho integra 14 serviços diferentes: pegajoso Nota, código, agente, sem operação, extrator de informações. Contém 22 nós e segue as melhores práticas para lidar com erros e segurança.",
   "tags": [
     "automation",
     "n8n",

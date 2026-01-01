@@ -1,6 +1,6 @@
 {
   "id": "173",
-  "name": "Create and update a channel, and send a message on Twist",
+  "name": "Criar e atualizar um canal, e enviar uma mensagem no Twist",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -120,7 +120,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Create and update a channel, and send a message on Twist. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Criar e atualizar um canal, e enviar uma mensagem em Twist. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-68093446",
     "versionId": "1.0.0",

@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Line Chatbot Handling AI Responses with Groq and Llama3",
+  "name": "Linha Chatbot lidando com IA Responses com Groq e Llama3",
   "tags": [
     "automation",
     "n8n",
@@ -419,6 +419,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Line Chatbot Handling AI Responses with Groq and Llama3. This workflow integrates 5 different services: webhook, stickyNote, httpRequest, set, stopAndError. It contains 15 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Linha Chatbot lidando com IA Responses com Groq e Llama3. Este fluxo de trabalho integra 5 serviços diferentes: webhook, pegajosoNota, httpRequest, set, stopAndError. Contém 15 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Line Chatbot Handling AI Responses with Groq and Llama3. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

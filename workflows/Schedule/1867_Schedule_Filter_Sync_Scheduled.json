@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Spotify Sync Liked Songs to Playlist",
+  "name": "Spotify Sincronia:",
   "tags": [
     "automation",
     "n8n",
@@ -791,6 +791,6 @@
   },
   "versionId": "04d88525-7f76-435b-b70c-a7ace2517815",
   "connections": {},
-  "description": "Automated workflow: Spotify Sync Liked Songs to Playlist. This workflow integrates 13 different services: filter, stickyNote, gotify, scheduleTrigger, merge. It contains 40 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Spotify Sync gostava de músicas para lista de músicas. Este fluxo de trabalho integra 13 serviços diferentes: filtro, pegajosoNota, gotify, agendaTrigger, mesclar. Contém 40 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Spotify Sync Liked Songs to Playlist. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

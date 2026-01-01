@@ -85,8 +85,8 @@
     }
   ],
   "connections": {},
-  "name": "Autopilottrigger Workflow",
-  "description": "Automated workflow: Autopilottrigger Workflow. This workflow processes data and performs automated tasks.",
+  "name": "Fluxo de trabalho do piloto automático",
+  "description": "Fluxo de trabalho automatizado: Fluxo de trabalho piloto automático. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,

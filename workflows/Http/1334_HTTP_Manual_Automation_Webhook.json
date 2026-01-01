@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Analyze Screenshots with AI",
+  "name": "Analise imagens com IA",
   "tags": [
     "automation",
     "n8n",
@@ -264,6 +264,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Analyze Screenshots with AI. This workflow integrates 7 different services: stickyNote, httpRequest, merge, set, stopAndError. It contains 12 nodes and follows best practices for error handling and security.",
+  "description": "Analisar imagens com IA. Este fluxo de trabalho integra 7 serviços diferentes: pegajosoNota, httpRequest, merge, set, stopAndError. Contém 12 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "notes": "Excellent quality workflow: Analyze Screenshots with AI. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

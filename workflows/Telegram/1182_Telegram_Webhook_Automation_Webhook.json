@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "🤖 Telegram Messaging Agent for Text/Audio/Images",
+  "name": "Agente de Mensagens de Telegrama para Texto/Audio/Imagens",
   "tags": [
     "automation",
     "n8n",
@@ -1455,6 +1455,6 @@
       ]
     }
   },
-  "description": "Automated workflow: 🤖 Telegram Messaging Agent for Text/Audio/Images. This workflow integrates 13 different services: textClassifier, webhook, stickyNote, httpRequest, convertToFile. It contains 64 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Agente de Mensagens de Telegrama para Texto/Audio/Imagens. Este fluxo de trabalho integra 13 serviços diferentes: textClassifier, webhook, pegajosoNote, httpRequest, convertToFile. Contém 64 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: 🤖 Telegram Messaging Agent for Text/Audio/Images. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

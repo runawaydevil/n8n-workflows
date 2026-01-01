@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "2. Refresh Pipedrive tokens",
+  "name": "Refresque as fichas do Pipedrive",
   "tags": [
     "automation",
     "n8n",
@@ -1274,6 +1274,6 @@
       ]
     }
   },
-  "description": "Automated workflow: 2. Refresh Pipedrive tokens. This workflow integrates 9 different services: webhook, stickyNote, httpRequest, code, respondToWebhook. It contains 37 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Refresque as fichas do Pipedrive. Este fluxo de trabalho integra 9 serviços diferentes: webhook, pegajosoNota, httpPedido, código, respostaToWebhook. Contém 37 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: 2. Refresh Pipedrive tokens. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

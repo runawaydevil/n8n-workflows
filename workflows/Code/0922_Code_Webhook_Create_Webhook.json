@@ -479,7 +479,7 @@
       ]
     }
   },
-  "name": "If Workflow",
+  "name": "Se o fluxo de trabalho",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -492,7 +492,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: If Workflow. This workflow integrates 8 different services: webhook, stickyNote, code, respondToWebhook, set. It contains 24 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Se o fluxo de trabalho. Este fluxo de trabalho integra 8 serviços diferentes: webhook, pegajoso Nota, código, responda. Para o Webhook, pronto. Contém 24 nós e segue as melhores práticas para lidar com erros e segurança.",
   "tags": [
     "automation",
     "n8n",

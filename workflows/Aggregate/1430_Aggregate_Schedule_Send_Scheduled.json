@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Email Summary Agent",
+  "name": "E-mail Agente Sumário",
   "tags": [
     "automation",
     "n8n",
@@ -252,6 +252,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Email Summary Agent. This workflow integrates 6 different services: stickyNote, scheduleTrigger, stopAndError, gmail, aggregate. It contains 10 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: E-mail Agente Sumário. Este fluxo de trabalho integra 6 serviços diferentes: Trigger, pareError, gmail, agregado. Contém 10 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "notes": "Excellent quality workflow: Email Summary Agent. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

@@ -597,7 +597,7 @@
       ]
     }
   },
-  "name": "Extractfromfile Workflow",
+  "name": "Extrair do fluxo de trabalho de arquivo",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -610,7 +610,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Extractfromfile Workflow. This workflow integrates 13 different services: webhook, stickyNote, outputParserItemList, splitInBatches, chainLlm. It contains 32 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Extrair do fluxo de trabalho de arquivo. Este fluxo de trabalho integra 13 serviços diferentes: webhook, pegajosoNota, saídaParserItemList, split InBatches, ChainLm. Contém 32 nós e segue as melhores práticas para lidar com erros e segurança.",
   "tags": [
     "automation",
     "n8n",

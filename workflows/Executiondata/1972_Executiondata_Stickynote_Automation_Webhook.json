@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Luma AI - Webhook Response v1 - AK",
+  "name": "Luma AI - Resposta Webhook V1 - AK",
   "tags": [
     "automation",
     "n8n",
@@ -452,6 +452,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Luma AI - Webhook Response v1 - AK. This workflow integrates 7 different services: webhook, stickyNote, executionData, airtable, set. It contains 10 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Luma AI - Webhook Response v1 - AK. Este fluxo de trabalho integra 7 serviços diferentes: webhook, pegajosoNota, execução Data, airtable, pronto. Contém 10 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "notes": "Excellent quality workflow: Luma AI - Webhook Response v1 - AK. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

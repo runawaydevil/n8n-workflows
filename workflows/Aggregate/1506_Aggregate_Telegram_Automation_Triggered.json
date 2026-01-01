@@ -273,7 +273,7 @@
       ]
     }
   },
-  "name": "Telegramtrigger Workflow",
+  "name": "Fluxo de Trabalho Telegramtrigger",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -286,7 +286,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Telegramtrigger Workflow. This workflow integrates 7 different services: telegramTrigger, stickyNote, telegram, merge, stopAndError. It contains 15 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Fluxo de Trabalho Telegramtrigger. Este fluxo de trabalho integra 7 serviços diferentes: telegrama Trigger, pegajosoNota, telegrama, mesclar, pararError. Contém 15 nós e segue as melhores práticas para lidar com erros e segurança.",
   "tags": [
     "automation",
     "n8n",

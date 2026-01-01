@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Log errors and avoid sending too many emails",
+  "name": "Registre erros e evite enviar muitos e-mails",
   "tags": [
     "automation",
     "n8n",
@@ -655,6 +655,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Log errors and avoid sending too many emails. This workflow integrates 12 different services: postgres, stickyNote, code, errorTrigger, pushover. It contains 18 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Registre erros e evite enviar muitos e-mails. Esse fluxo de trabalho integra 12 serviços diferentes: pós-gres, pegajosoNota, código, erroTrigger, pushover. Contém 18 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Log errors and avoid sending too many emails. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

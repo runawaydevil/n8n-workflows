@@ -96,8 +96,8 @@
     }
   ],
   "connections": {},
-  "name": "Quickbooks Workflow",
-  "description": "Automated workflow: Quickbooks Workflow. This workflow processes data and performs automated tasks.",
+  "name": "Fluxo de trabalho de livros rápidos",
+  "description": "Fluxo de trabalho automatizado: Fluxo de trabalho de livros rápidos. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,

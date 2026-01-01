@@ -316,7 +316,7 @@
       ]
     }
   },
-  "name": "Googledrivetrigger Workflow",
+  "name": "Googledrivetrigger Fluxo de trabalho",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -329,7 +329,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Googledrivetrigger Workflow. This workflow integrates 9 different services: stickyNote, googleDriveTrigger, code, splitOut, merge. It contains 15 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Googledrivetrigger Workflow. Este fluxo de trabalho integra 9 serviços diferentes: DriveTrigger, código, separação, fusão. Contém 15 nós e segue as melhores práticas para lidar com erros e segurança.",
   "tags": [
     "automation",
     "n8n",

@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "🐋DeepSeek V3 Chat & R1 Reasoning Quick Start",
+  "name": "[InSUBs] Qualidade é InSUBstituível",
   "tags": [
     "automation",
     "n8n",
@@ -492,6 +492,6 @@
       ]
     }
   },
-  "description": "Automated workflow: 🐋DeepSeek V3 Chat & R1 Reasoning Quick Start. This workflow integrates 9 different services: stickyNote, httpRequest, agent, chainLlm, stopAndError. It contains 20 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: \"DeepSeek V3 Chat & R1 Raciocing Quick Start.\" Este fluxo de trabalho integra 9 serviços diferentes: pegajosoNota, httpRequest, agente, chainLlm, stopAndError. Contém 20 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "notes": "Excellent quality workflow: 🐋DeepSeek V3 Chat & R1 Reasoning Quick Start. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

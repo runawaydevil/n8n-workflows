@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Backup n8n Workflows to Bitbucket",
+  "name": "Reforço n8n fluxo de trabalho para Bitbucket",
   "tags": [
     "automation",
     "n8n",
@@ -422,6 +422,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Backup n8n Workflows to Bitbucket. This workflow processes data and performs automated tasks.",
+  "description": "Fluxos de trabalho automáticos: backup n8n para Bitbucket. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "notes": "Excellent quality workflow: Backup n8n Workflows to Bitbucket. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

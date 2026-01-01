@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "WhatsApp starter workflow",
+  "name": "WhatsApp iniciar fluxo de trabalho",
   "tags": [
     "automation",
     "n8n",
@@ -400,6 +400,6 @@
       ]
     }
   },
-  "description": "Automated workflow: WhatsApp starter workflow. This workflow integrates 6 different services: webhook, stickyNote, respondToWebhook, stopAndError, if. It contains 14 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: O fluxo de trabalho do WhatsApp. Este fluxo de trabalho integra 6 serviços diferentes: webhook, pegajosoNota, responda aWebhook, pareError, se. Contém 14 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: WhatsApp starter workflow. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

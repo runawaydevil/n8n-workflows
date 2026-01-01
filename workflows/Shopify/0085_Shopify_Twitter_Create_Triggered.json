@@ -72,7 +72,7 @@
   ],
   "connections": {},
   "name": "Twitter Workflow",
-  "description": "Automated workflow: Twitter Workflow. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Twitter Workflow. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,

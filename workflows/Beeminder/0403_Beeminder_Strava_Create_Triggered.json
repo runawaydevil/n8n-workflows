@@ -1,6 +1,6 @@
 {
   "id": "208",
-  "name": "Add a datapoint to Beeminder when new activity is added to Strava",
+  "name": "Adicione um ponto de dados a Beeminder quando nova atividade é adicionada a Strava",
   "nodes": [
     {
       "name": "Strava Trigger",
@@ -70,7 +70,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Add a datapoint to Beeminder when new activity is added to Strava. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Adicione um ponto de dados para Beeminder quando nova atividade é adicionada a Strava. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-0cba3f23",
     "versionId": "1.0.0",

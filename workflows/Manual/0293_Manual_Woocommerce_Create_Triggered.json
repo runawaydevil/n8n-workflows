@@ -1,6 +1,6 @@
 {
   "id": "187",
-  "name": "Create, update and get a product from WooCommerce",
+  "name": "Criar, atualizar e obter um produto de WooCommerce",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -109,7 +109,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Create, update and get a product from WooCommerce. This workflow processes data and performs automated tasks.",
+  "description": "Criar, atualizar e obter um produto da WooCommerce. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-9c493dbd",
     "versionId": "1.0.0",

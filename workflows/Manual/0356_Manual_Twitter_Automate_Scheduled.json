@@ -150,7 +150,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: TwitterWorkflow. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: TwitterWorkflow. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-23e78fd1",
     "versionId": "1.0.0",

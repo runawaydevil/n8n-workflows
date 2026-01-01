@@ -1,6 +1,6 @@
 {
   "id": "116",
-  "name": "Get all the contacts from GetResponse and update them",
+  "name": "Obter todos os contatos de GetResponse e atualizá-los",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -117,7 +117,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Get all the contacts from GetResponse and update them. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Pegue todos os contatos do GetResponse e atualize-os. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-67fe9b18",
     "versionId": "1.0.0",

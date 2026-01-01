@@ -597,6 +597,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Flux Dev Image Generation Fal.ai. This workflow integrates 8 different services: stickyNote, httpRequest, wait, googleDrive, set. It contains 21 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Flux Dev Image Generation Fal.ai. Este fluxo de trabalho integra 8 serviços diferentes: Dirija, set. Contém 21 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Flux Dev Image Generation Fal.ai. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

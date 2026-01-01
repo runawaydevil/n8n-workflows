@@ -11,7 +11,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "[n8n] Advanced URL Parsing and Shortening Workflow - Switchy.io Integration",
+  "name": "URL avançada de análise e redução de fluxo de trabalho. Integração",
   "tags": [
     "automation",
     "n8n",
@@ -3090,6 +3090,6 @@
       ]
     }
   },
-  "description": "Automated workflow: [n8n] Advanced URL Parsing and Shortening Workflow - Switchy.io Integration. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: URL avançada Processando e Encurtando Fluxo de Trabalho - Integração Switchy.io. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "notes": "Excellent quality workflow: [n8n] Advanced URL Parsing and Shortening Workflow - Switchy.io Integration. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

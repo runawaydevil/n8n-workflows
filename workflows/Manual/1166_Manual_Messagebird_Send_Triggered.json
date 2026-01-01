@@ -1,6 +1,6 @@
 {
   "id": "85",
-  "name": "Sending an SMS with MessageBird",
+  "name": "Enviando um SMS com MessageBird",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -63,7 +63,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Sending an SMS with MessageBird. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Enviando um SMS com MessageBird. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-3d1541b1",
     "versionId": "1.0.0",

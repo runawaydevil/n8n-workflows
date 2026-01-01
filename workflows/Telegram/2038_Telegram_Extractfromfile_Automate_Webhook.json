@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "HR & IT Helpdesk Chatbot with Audio Transcription",
+  "name": "HR & IT Helpdesk Chatbot com transcrição de áudio",
   "tags": [
     "automation",
     "n8n",
@@ -772,6 +772,6 @@
       ]
     }
   },
-  "description": "Automated workflow: HR & IT Helpdesk Chatbot with Audio Transcription. This workflow integrates 18 different services: stickyNote, httpRequest, telegramTrigger, textSplitterRecursiveCharacterTextSplitter, telegram. It contains 39 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: HR & IT Helpdesk Chatbot com transcrição de áudio. Este fluxo de trabalho integra 18 serviços diferentes: pegajosoNota, httpRequest, telegramaTrigger, textoSplitterRecursivoCharacterTextSplitter, telegrama. Contém 39 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: HR & IT Helpdesk Chatbot with Audio Transcription. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

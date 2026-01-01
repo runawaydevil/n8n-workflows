@@ -1,6 +1,6 @@
 {
   "id": "131",
-  "name": "Receive a Mattermost message when a user updates their profile on Facebook",
+  "name": "Receba uma mensagem importante quando um usuário atualiza seu perfil no Facebook",
   "nodes": [
     {
       "name": "Facebook Trigger",
@@ -72,7 +72,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Receive a Mattermost message when a user updates their profile on Facebook. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Receba uma mensagem Mattermost quando um usuário atualiza seu perfil no Facebook. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-9e9f9a48",
     "versionId": "1.0.0",

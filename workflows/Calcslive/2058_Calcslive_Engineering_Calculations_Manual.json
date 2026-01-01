@@ -1,6 +1,6 @@
 {
-  "name": "CalcsLive Demo Workflow Template",
-  "description": "Demonstrates @calcslive/n8n-nodes-calcslive custom node ({{ $env.WEBHOOK_URL }} that brings unit-aware physical quantities (PQ) and calculations to the n8n ecosystem in a composable manner. Example workflow with cylinder mass calculations.",
+  "name": "CalcsLive Modelo Demo Workflow",
+  "description": "Demonstra @calcslive/n8n-nodes-calcslive nó personalizado que traz quantidades físicas conscientes (PQ) e cálculos para o ecossistema n8n de uma forma composível. Exemplo de fluxo de trabalho com cálculos de massa de cilindros.",
   "nodes": [
     {
       "parameters": {},

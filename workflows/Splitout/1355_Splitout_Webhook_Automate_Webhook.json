@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Bitrix24 Open Chanel RAG Chatbot Application Workflow example with Webhook Integration",
+  "name": "Bitrix24 Open Chanel RAG Chatbot Application Workflow exemplo com integração Webhook",
   "tags": [
     "automation",
     "n8n",
@@ -1636,6 +1636,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Bitrix24 Open Chanel RAG Chatbot Application Workflow example with Webhook Integration. This workflow integrates 22 different services: stickyNote, textSplitterRecursiveCharacterTextSplitter, vectorStoreQdrant, chainRetrievalQa, merge. It contains 57 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Bitrix24 Open Chanel RAG Chatbot Application Workflow exemplo com integração Webhook. Este fluxo de trabalho integra 22 serviços diferentes: pegajosoNota, textoSplitterRecursivoCharacterTextSplitter, vetorStore Qdrant, correnteRetrieval Qa, fundir. Contém 57 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Bitrix24 Open Chanel RAG Chatbot Application Workflow example with Webhook Integration. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

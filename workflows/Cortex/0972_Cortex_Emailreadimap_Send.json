@@ -1,6 +1,6 @@
 {
   "id": 4,
-  "name": "Email",
+  "name": "E-mail",
   "nodes": [
     {
       "id": "trigger-858025f9",
@@ -479,7 +479,7 @@
       ]
     }
   },
-  "description": "Automated workflow: Email. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: E-mail. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-3f0e1c05",
     "versionId": "1.0.0",

@@ -1,6 +1,6 @@
 {
   "id": "120",
-  "name": "Create a client in Harvest",
+  "name": "Crie um cliente em Harvest",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -63,7 +63,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Create a client in Harvest. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Crie um cliente em Harvest. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-b1cb6738",
     "versionId": "1.0.0",

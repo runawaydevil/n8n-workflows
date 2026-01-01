@@ -627,7 +627,7 @@
       ]
     }
   },
-  "name": "Agent Workflow",
+  "name": "Agente Workflow",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -640,7 +640,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Agent Workflow. This workflow integrates 12 different services: webhook, stickyNote, httpRequest, airtable, gmailTool. It contains 24 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Agente Workflow. Este fluxo de trabalho integra 12 serviços diferentes: webhook, pegajosoNota, httpRequest, airtable, gmailTool. Contém 24 nós e segue as melhores práticas para lidar com erros e segurança.",
   "meta": {
     "instanceId": "workflow-c3edc45b",
     "versionId": "1.0.0",

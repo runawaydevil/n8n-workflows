@@ -1,6 +1,6 @@
 {
   "id": "140",
-  "name": "Get today's date and day using the Function node",
+  "name": "Pegue a data e o dia de hoje usando o nó Função",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -57,7 +57,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Get today's date and day using the Function node. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Pegue a data e o dia de hoje usando o nó Função. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-42409062",
     "versionId": "1.0.0",

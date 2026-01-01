@@ -1,5 +1,5 @@
 {
-  "name": "Very quick quickstart",
+  "name": "Bem rápido",
   "nodes": [
     {
       "id": "cbb6afcc-f900-434d-ad2e-affb31ccf7a9",
@@ -141,7 +141,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Very quick quickstart. This workflow integrates 4 different services: n8nTrainingCustomerDatastore, stickyNote, manualTrigger, set. It contains 6 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Muito rápido. Este fluxo de trabalho integra 4 serviços diferentes: Datastore, pegajosoNota, manual Trigger, pronto. Ele contém 6 nós e segue as melhores práticas para lidar com erros e segurança.",
   "meta": {
     "instanceId": "workflow-ca9aa4ab",
     "versionId": "1.0.0",

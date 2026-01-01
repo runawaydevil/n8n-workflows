@@ -234,7 +234,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Stickynote Workflow. This workflow integrates 5 different services: stickyNote, itemLists, filter, scheduleTrigger, gmail. It contains 10 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Fluxo de trabalho. Este fluxo de trabalho integra 5 serviços diferentes: pegajosoNota, itemListas, filtro, programação Trigger, Gmail. Contém 10 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "meta": {
     "instanceId": "workflow-80c6d16e",
     "versionId": "1.0.0",

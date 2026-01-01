@@ -1,6 +1,6 @@
 {
   "id": 13,
-  "name": "Creating an Onfleet Task for a new Shopify Fulfillment",
+  "name": "Criando uma Onfleet Tarefa para um novo cumprimento Shopify",
   "nodes": [
     {
       "name": "Shopify Trigger",
@@ -73,7 +73,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Creating an Onfleet Task for a new Shopify Fulfillment. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Criando uma Tarefa Onfleet para um novo Cumprimento Shopify. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-aaa419ac",
     "versionId": "1.0.0",

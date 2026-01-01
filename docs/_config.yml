@@ -1,9 +1,9 @@
 # GitHub Pages Configuration
 theme: null
-title: N8N Workflows Repository
-description: Browse and search 2000+ n8n workflow automation templates
+title: Coleção de Workflows N8N (Traduzido)
+description: Navegue e pesquise mais de 2000 workflows de automação n8n traduzidos para português
 baseurl: "/n8n-workflows"
-url: "https://zie619.github.io"
+url: ""  # Will be auto-detected by GitHub Pages
 
 # Build settings
 markdown: kramdown

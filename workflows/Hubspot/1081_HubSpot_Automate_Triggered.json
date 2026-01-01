@@ -37,8 +37,8 @@
     }
   ],
   "connections": {},
-  "name": "Hubspottrigger Workflow",
-  "description": "Automated workflow: Hubspottrigger Workflow. This workflow processes data and performs automated tasks.",
+  "name": "Fluxo de trabalho Hubspottrigger",
+  "description": "Fluxo de trabalho automatizado: Fluxo de trabalho Hubspottrigger. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,

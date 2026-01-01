@@ -1,6 +1,6 @@
 {
   "id": "105",
-  "name": "Create a new member, update the information of the member, create a note and a post for the membe...",
+  "name": "Criar um novo membro, atualizar a informação do membro, criar uma nota e um post para o membe...",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -132,7 +132,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Create a new member, update the information of the member, create a note and a post for the member in Orbit. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Criar um novo membro, atualizar as informações do membro, criar uma nota e um post para o membro em Orbit. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-e3913e1b",
     "versionId": "1.0.0",

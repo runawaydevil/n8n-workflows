@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Create Threads on Bluesky",
+  "name": "Criar tópicos em Bluesky",
   "tags": [
     "automation",
     "n8n",
@@ -767,6 +767,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Create Threads on Bluesky. This workflow integrates 8 different services: stickyNote, httpRequest, wait, code, scheduleTrigger. It contains 30 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Criar tópicos em Bluesky. Este fluxo de trabalho integra 8 serviços diferentes: pegajosoNota, httpRequest, espera, código, agendaTrigger. Contém 30 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Create Threads on Bluesky. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

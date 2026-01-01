@@ -129,7 +129,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Stickynote Workflow. This workflow integrates 4 different services: lmOpenHuggingFaceInference, stickyNote, chainLlm, chatTrigger. It contains 4 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Fluxo de trabalho. Este fluxo de trabalho integra 4 serviços diferentes: lmOpenHuggingFaceInference, pegajosoNota, chainLlm, chatTrigger. Contém 4 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "tags": [
     "automation",
     "n8n",

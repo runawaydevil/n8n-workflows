@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "spy tool",
+  "name": "ferramenta de espionagem",
   "tags": [
     "automation",
     "n8n",
@@ -541,6 +541,6 @@
       ]
     }
   },
-  "description": "Automated workflow: spy tool. This workflow integrates 9 different services: stickyNote, httpRequest, formTrigger, wait, code. It contains 21 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: ferramenta de espionagem. Este fluxo de trabalho integra 9 serviços diferentes: pegajosoNota, httpPedido, formulárioTrigger, espera, código. Contém 21 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: spy tool. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Use XMLRPC via HttpRequest-node to post on Wordpress.com",
+  "name": "Use XMLRPC via HttpRequest-node para postar no Wordpress.com",
   "tags": [
     "automation",
     "n8n",
@@ -307,6 +307,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Use XMLRPC via HttpRequest-node to post on Wordpress.com. This workflow integrates 9 different services: stickyNote, httpRequest, code, set, stopAndError. It contains 13 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Use XMLRPC via HttpRequest-node para postar no Wordpress.com. Este fluxo de trabalho integra 9 serviços diferentes: pegajosoNota, httpRequest, código, conjunto, paradaError. Contém 13 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Use XMLRPC via HttpRequest-node to post on Wordpress.com. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

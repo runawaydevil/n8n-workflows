@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Generate Instagram Content from Top Trends with AI Image Generation",
+  "name": "Gere conteúdo do Instagram das melhores tendências com geração de imagens de IA",
   "tags": [
     "automation",
     "n8n",
@@ -1737,6 +1737,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Generate Instagram Content from Top Trends with AI Image Generation. This workflow integrates 13 different services: stickyNote, httpRequest, facebookGraphApi, telegram, code. It contains 64 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Gere conteúdo do Instagram de Top Trends com geração de imagens de IA. Este fluxo de trabalho integra 13 serviços diferentes: pegajosoNota, httpRequest, facebookGraphApi, telegrama, código. Contém 64 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Generate Instagram Content from Top Trends with AI Image Generation. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

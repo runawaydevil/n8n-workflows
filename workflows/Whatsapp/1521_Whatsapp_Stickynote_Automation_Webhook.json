@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "AI Customer-Support Assistant · WhatsApp Ready · Works for Any Business",
+  "name": "Assistente de Apoio ao Cliente. App Pronto · Funciona para qualquer negócio",
   "tags": [
     "automation",
     "n8n",
@@ -466,6 +466,6 @@
       ]
     }
   },
-  "description": "Automated workflow: AI Customer-Support Assistant · WhatsApp Ready · Works for Any Business. This workflow integrates 10 different services: stickyNote, code, toolHttpRequest, agent, memoryPostgresChat. It contains 17 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Assistente de Apoio ao Cliente, WhatsApp Pronto, funciona para qualquer negócio. Este fluxo de trabalho integra 10 serviços diferentes: HttpRequest, agente, memoryPostgres Conversa. Contém 17 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "notes": "Excellent quality workflow: AI Customer-Support Assistant · WhatsApp Ready · Works for Any Business. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

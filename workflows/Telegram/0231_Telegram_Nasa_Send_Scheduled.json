@@ -1,6 +1,6 @@
 {
   "id": "174",
-  "name": "Send the Astronomy Picture of the day daily to a Telegram channel",
+  "name": "Envie a imagem astronômica do dia diariamente para um canal de Telegram",
   "nodes": [
     {
       "name": "Cron",
@@ -91,7 +91,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Send the Astronomy Picture of the day daily to a Telegram channel. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Envie o retrato de astronomia do dia diariamente para um canal de Telegram. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-6c70ad6b",
     "versionId": "1.0.0",

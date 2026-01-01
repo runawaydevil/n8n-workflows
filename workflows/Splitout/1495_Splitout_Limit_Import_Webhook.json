@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Insert and retrieve documents",
+  "name": "Inserir e recuperar documentos",
   "tags": [
     "automation",
     "n8n",
@@ -682,6 +682,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Insert and retrieve documents. This workflow integrates 16 different services: stickyNote, httpRequest, textSplitterRecursiveCharacterTextSplitter, code, splitOut. It contains 32 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Inserir e recuperar documentos. Este fluxo de trabalho integra 16 serviços diferentes: pegajosoNota, httpRequest, textoSplitterRecursivoCharacterTextSplitter, código, separado. Contém 32 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Insert and retrieve documents. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

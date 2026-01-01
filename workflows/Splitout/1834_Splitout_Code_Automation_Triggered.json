@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "AI Logo Sheet Extractor to Airtable",
+  "name": "Extrator de Folhas de Logo AI para Airtable",
   "tags": [
     "automation",
     "n8n",
@@ -1710,6 +1710,6 @@
       ]
     }
   },
-  "description": "Automated workflow: AI Logo Sheet Extractor to Airtable. This workflow integrates 15 different services: stickyNote, formTrigger, airtable, code, agent. It contains 45 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Extrator de Folhas de Logo AI para Airtable. Este fluxo de trabalho integra 15 serviços diferentes: pegajosoNota, formulárioTrigger, airtable, código, agente. Contém 45 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: AI Logo Sheet Extractor to Airtable. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

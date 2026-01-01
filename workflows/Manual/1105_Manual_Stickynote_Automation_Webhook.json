@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Text to Speech (OpenAI)",
+  "name": "Texto para o discurso (OpenAI)",
   "tags": [
     "automation",
     "n8n",
@@ -266,6 +266,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Text to Speech (OpenAI). This workflow integrates 5 different services: stickyNote, httpRequest, set, stopAndError, manualTrigger. It contains 10 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: texto para fala (OpenAI). Este fluxo de trabalho integra 5 serviços diferentes: pegajosoNota, httpRequest, set, stopAndError, manualTrigger. Contém 10 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "notes": "Excellent quality workflow: Text to Speech (OpenAI). This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

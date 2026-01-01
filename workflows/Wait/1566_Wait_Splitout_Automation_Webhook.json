@@ -582,7 +582,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Lmchatopenai Workflow. This workflow integrates 15 different services: convertToFile, stickyNote, httpRequest, wait, code. It contains 27 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Lmchatopenai fluxo de trabalho. Este fluxo de trabalho integra 15 serviços diferentes: converter ToFile, pegajosoNota, httpRequest, espere, código. Contém 27 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "tags": [
     "automation",
     "n8n",

@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Resume Screening & Behavioral Interviews with Gemini, Elevenlabs, & Notion ATS copy",
+  "name": "Retomar a Triagem e Comportamento Entrevistas com Gemini, Onze Laboratórios, & Notion ATS cópia",
   "tags": [
     "automation",
     "n8n",
@@ -2121,6 +2121,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Resume Screening & Behavioral Interviews with Gemini, Elevenlabs, & Notion ATS copy. This workflow integrates 20 different services: notionTool, stickyNote, merge, extractFromFile, wait. It contains 77 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Retomar a Triagem e Comportamento Entrevistas com Gemini, Onze Laboratórios, & Notion ATS cópia. Este fluxo de trabalho integra 20 serviços diferentes: notionTool, pegajosoNote, mesclar, extrair DeFile, espere. Contém 77 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Resume Screening & Behavioral Interviews with Gemini, Elevenlabs, & Notion ATS copy. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

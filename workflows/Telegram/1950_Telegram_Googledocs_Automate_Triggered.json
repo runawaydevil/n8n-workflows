@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "🧠 Give Your AI Agent Chatbot Long Term Memory Tools Router",
+  "name": "Dê ao seu agente de IA Chatbot ferramentas de memória de longo prazo Router",
   "tags": [
     "automation",
     "n8n",
@@ -1010,6 +1010,6 @@
       ]
     }
   },
-  "description": "Automated workflow: 🧠 Give Your AI Agent Chatbot Long Term Memory Tools Router. This workflow integrates 14 different services: stickyNote, telegram, agent, chainLlm, switch. It contains 47 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Dê ao seu agente de IA Chatbot ferramentas de memória de longo prazo Router. Este fluxo de trabalho integra 14 serviços diferentes: notas pegajosas, telegrama, agente, chainLlm, interruptor. Ele contém 47 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: 🧠 Give Your AI Agent Chatbot Long Term Memory Tools Router. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

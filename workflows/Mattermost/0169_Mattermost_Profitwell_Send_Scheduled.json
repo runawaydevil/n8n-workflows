@@ -1,6 +1,6 @@
 {
   "id": "146",
-  "name": "Send financial metrics monthly to Mattermost",
+  "name": "Envie métricas financeiras mensalmente para Mattermost",
   "nodes": [
     {
       "name": "ProfitWell",
@@ -90,7 +90,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Send financial metrics monthly to Mattermost. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Envie métricas financeiras mensais para Mattermost. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-a9978bf1",
     "versionId": "1.0.0",

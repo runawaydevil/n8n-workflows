@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "line message api demo",
+  "name": "mensagem de linha api demo",
   "tags": [
     "automation",
     "n8n",
@@ -414,6 +414,6 @@
       ]
     }
   },
-  "description": "Automated workflow: line message api demo. This workflow integrates 7 different services: webhook, stickyNote, httpRequest, set, stopAndError. It contains 14 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: mensagem de linha api demo. Este fluxo de trabalho integra 7 serviços diferentes: webhook, pegajosoNota, httpRequest, set, stopAndError. Contém 14 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: line message api demo. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

@@ -1,6 +1,6 @@
 {
   "id": "61",
-  "name": "Receive updates when a customer is created in HelpScout",
+  "name": "Receba atualizações quando um cliente é criado no HelpScout",
   "nodes": [
     {
       "name": "HelpScout Trigger",
@@ -51,7 +51,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Receive updates when a customer is created in HelpScout. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Receba atualizações quando um cliente é criado no HelpScout. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-ed78d85b",
     "versionId": "1.0.0",

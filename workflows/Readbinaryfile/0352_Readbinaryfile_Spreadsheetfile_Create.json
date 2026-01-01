@@ -71,8 +71,8 @@
     }
   ],
   "connections": {},
-  "name": "Readbinaryfile Workflow",
-  "description": "Automated workflow: Readbinaryfile Workflow. This workflow processes data and performs automated tasks.",
+  "name": "Arquivo de leitura Fluxo de trabalho",
+  "description": "Fluxo de trabalho automatizado: Arquivo de leitura fluxo de trabalho. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,

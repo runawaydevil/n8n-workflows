@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Create_Unique_Jira_tickets_from_Splunk_alerts",
+  "name": "\"Criar bilhetes de Splunk\"",
   "tags": [
     "automation",
     "n8n",
@@ -399,6 +399,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Create_Unique_Jira_tickets_from_Splunk_alerts. This workflow integrates 6 different services: webhook, stickyNote, set, stopAndError, jira. It contains 13 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Criar bilhetes Unique Jira de Splunk Alerts. Este fluxo de trabalho integra 6 serviços diferentes: webhook, pegajosoNota, conjunto, paradaError, jira. Contém 13 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Create_Unique_Jira_tickets_from_Splunk_alerts. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

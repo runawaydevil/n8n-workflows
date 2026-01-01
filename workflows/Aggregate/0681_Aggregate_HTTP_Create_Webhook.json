@@ -1656,7 +1656,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Lmchatopenai Workflow. This workflow integrates 16 different services: stickyNote, httpRequest, airtable, agent, merge. It contains 58 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Lmchatopenai fluxo de trabalho. Este fluxo de trabalho integra 16 serviços diferentes: pegajosoNota, httpRequest, airtable, agente, Fusão. Contém 58 nós e segue as melhores práticas para lidar com erros e segurança.",
   "meta": {
     "instanceId": "workflow-f2e2013e",
     "versionId": "1.0.0",

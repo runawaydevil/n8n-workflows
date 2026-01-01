@@ -1,6 +1,6 @@
 {
   "id": "130",
-  "name": "Get all the tasks in Flow",
+  "name": "Receba todas as tarefas em Flow",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -62,7 +62,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Get all the tasks in Flow. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Receba todas as tarefas em Flow. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-ef7dcb7d",
     "versionId": "1.0.0",

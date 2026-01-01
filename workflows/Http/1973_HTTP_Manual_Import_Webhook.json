@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "upload-post images",
+  "name": "upload-post imagens",
   "tags": [
     "automation",
     "n8n",
@@ -414,6 +414,6 @@
       ]
     }
   },
-  "description": "Automated workflow: upload-post images. This workflow integrates 6 different services: stickyNote, httpRequest, code, merge, stopAndError. It contains 18 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: imagens de upload-post. Este fluxo de trabalho integra 6 serviços diferentes: pegajosoNota, httpRequest, código, mesclar, pararError. Contém 18 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: upload-post images. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

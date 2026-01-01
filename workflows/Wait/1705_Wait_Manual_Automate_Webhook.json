@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Fully automated Video Captions generation with json2video",
+  "name": "Totalmente automatizado. Produção de legendas de vídeo com json2video",
   "tags": [
     "automation",
     "n8n",
@@ -490,6 +490,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Fully automated Video Captions generation with json2video. This workflow integrates 8 different services: stickyNote, httpRequest, wait, set, stopAndError. It contains 16 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Geração de legendas de vídeo totalmente automatizada com json2video. Este fluxo de trabalho integra 8 serviços diferentes: pegajosoNota, httpPedido, espera, conjunto, paradaError. Contém 16 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "notes": "Excellent quality workflow: Fully automated Video Captions generation with json2video. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

@@ -1,6 +1,6 @@
 {
   "id": "54",
-  "name": "Create a coupon on Paddle",
+  "name": "Crie um cupom no remo",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -63,7 +63,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Create a coupon on Paddle. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Crie um cupom no remo. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-dd0d289c",
     "versionId": "1.0.0",

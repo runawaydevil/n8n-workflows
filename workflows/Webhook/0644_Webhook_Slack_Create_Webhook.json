@@ -4975,7 +4975,7 @@
       ]
     }
   },
-  "name": "Thehiveprojecttrigger Workflow",
+  "name": "O projeto da colmeia Fluxo de trabalho",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -4988,7 +4988,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Thehiveprojecttrigger Workflow. This workflow integrates 12 different services: webhook, stickyNote, httpRequest, theHiveProjectTrigger, theHiveProject. It contains 94 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: O fluxo de trabalho do gatilho da colmeia. Este fluxo de trabalho integra 12 serviços diferentes: webhook, pegajosoNota, httpRequest, o HiveProjectTrigger, o HiveProject. Contém 94 nós e segue as melhores práticas para lidar com erros e segurança.",
   "tags": [
     "automation",
     "n8n",

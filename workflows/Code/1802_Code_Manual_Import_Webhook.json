@@ -437,6 +437,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Tiktok Downloader. This workflow integrates 6 different services: stickyNote, httpRequest, code, googleDrive, stopAndError. It contains 16 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Tiktok Downloader. Este fluxo de trabalho integra 6 serviços diferentes: pegajosoNota, httpPedido, código, googleDrive, paradaError. Contém 16 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "notes": "Excellent quality workflow: Tiktok Downloader. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

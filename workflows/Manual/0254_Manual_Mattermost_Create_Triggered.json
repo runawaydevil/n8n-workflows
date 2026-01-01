@@ -1,6 +1,6 @@
 {
   "id": "178",
-  "name": "Create a channel, add a member, and post a message to the channel",
+  "name": "Criar um canal, adicionar um membro, e postar uma mensagem no canal",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -103,7 +103,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Create a channel, add a member, and post a message to the channel. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Criar um canal, adicionar um membro e postar uma mensagem no canal. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-fd61b482",
     "versionId": "1.0.0",

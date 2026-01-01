@@ -38,14 +38,22 @@ app.add_middleware(GZipMiddleware, minimum_size=1000)
 
 # Security: Configure CORS properly - restrict origins in production
 # For local development, you can use localhost
-# For production, replace with your actual domain
+# For production, set GITHUB_PAGES_URL environment variable
 ALLOWED_ORIGINS = [
     "http://localhost:3000",
     "http://localhost:8000",
     "http://localhost:8080",
-    "https://zie619.github.io",  # GitHub Pages
-    "https://n8n-workflows-1-xxgm.onrender.com",  # Community deployment
 ]
+
+# Add GitHub Pages URL from environment variable if set
+github_pages_url = os.environ.get("GITHUB_PAGES_URL")
+if github_pages_url:
+    ALLOWED_ORIGINS.append(github_pages_url)
+
+# Add any additional origins from environment variable (comma-separated)
+additional_origins = os.environ.get("CORS_ADDITIONAL_ORIGINS", "")
+if additional_origins:
+    ALLOWED_ORIGINS.extend([origin.strip() for origin in additional_origins.split(",") if origin.strip()])
 
 app.add_middleware(
     CORSMiddleware,
@@ -202,27 +210,35 @@ class StatsResponse(BaseModel):
 @app.get("/")
 async def root():
     """Serve the main documentation page."""
+    # Try docs/index.html first (for GitHub Pages version), then static/index.html
+    docs_dir = Path("docs")
     static_dir = Path("static")
-    index_file = static_dir / "index.html"
-    if not index_file.exists():
+    
+    docs_index = docs_dir / "index.html"
+    static_index = static_dir / "index.html"
+    
+    if docs_index.exists():
+        return FileResponse(str(docs_index))
+    elif static_index.exists():
+        return FileResponse(str(static_index))
+    else:
         return HTMLResponse(
             """
         <html><body>
-        <h1>Setup Required</h1>
-        <p>Static files not found. Please ensure the static directory exists with index.html</p>
-        <p>Current directory: """
+        <h1>Configuração Necessária</h1>
+        <p>Arquivos estáticos não encontrados. Por favor, certifique-se de que o diretório docs ou static existe com index.html</p>
+        <p>Diretório atual: """
             + str(Path.cwd())
             + """</p>
         </body></html>
         """
         )
-    return FileResponse(str(index_file))
 
 
 @app.get("/health")
 async def health_check():
     """Health check endpoint."""
-    return {"status": "healthy", "message": "N8N Workflow API is running"}
+    return {"status": "healthy", "message": "API de Workflows N8N está em execução"}
 
 
 @app.get("/api/stats", response_model=StatsResponse)
@@ -232,7 +248,7 @@ async def get_stats():
         stats = db.get_stats()
         return StatsResponse(**stats)
     except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Error fetching stats: {str(e)}")
+            raise HTTPException(status_code=500, detail=f"Erro ao buscar estatísticas: {str(e)}")
 
 
 @app.get("/api/workflows", response_model=SearchResponse)
@@ -301,7 +317,7 @@ async def search_workflows(
         )
     except Exception as e:
         raise HTTPException(
-            status_code=500, detail=f"Error searching workflows: {str(e)}"
+            status_code=500, detail=f"Erro ao buscar workflows: {str(e)}"
         )
 
 
@@ -312,20 +328,20 @@ async def get_workflow_detail(filename: str, request: Request):
         # Security: Validate filename to prevent path traversal
         if not validate_filename(filename):
             print(f"Security: Blocked path traversal attempt for filename: {filename}")
-            raise HTTPException(status_code=400, detail="Invalid filename format")
+            raise HTTPException(status_code=400, detail="Formato de nome de arquivo inválido")
 
         # Security: Rate limiting
         client_ip = request.client.host if request.client else "unknown"
         if not check_rate_limit(client_ip):
             raise HTTPException(
-                status_code=429, detail="Rate limit exceeded. Please try again later."
+                status_code=429, detail="Limite de taxa excedido. Por favor, tente novamente mais tarde."
             )
 
         # Get workflow metadata from database
         workflows, _ = db.search_workflows(f'filename:"{filename}"', limit=1)
         if not workflows:
             raise HTTPException(
-                status_code=404, detail="Workflow not found in database"
+                status_code=404, detail="Workflow não encontrado no banco de dados"
             )
 
         workflow_meta = workflows[0]
@@ -364,7 +380,7 @@ async def get_workflow_detail(filename: str, request: Request):
     except HTTPException:
         raise
     except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Error loading workflow: {str(e)}")
+        raise HTTPException(status_code=500, detail=f"Erro ao carregar workflow: {str(e)}")
 
 
 @app.get("/api/workflows/{filename}/download")
@@ -374,13 +390,13 @@ async def download_workflow(filename: str, request: Request):
         # Security: Validate filename to prevent path traversal
         if not validate_filename(filename):
             print(f"Security: Blocked path traversal attempt for filename: {filename}")
-            raise HTTPException(status_code=400, detail="Invalid filename format")
+            raise HTTPException(status_code=400, detail="Formato de nome de arquivo inválido")
 
         # Security: Rate limiting
         client_ip = request.client.host if request.client else "unknown"
         if not check_rate_limit(client_ip):
             raise HTTPException(
-                status_code=429, detail="Rate limit exceeded. Please try again later."
+                status_code=429, detail="Limite de taxa excedido. Por favor, tente novamente mais tarde."
             )
 
         # Only search within the workflows directory
@@ -406,7 +422,7 @@ async def download_workflow(filename: str, request: Request):
         if not json_files:
             print(f"File {filename} not found in workflows directory")
             raise HTTPException(
-                status_code=404, detail=f"Workflow file '{filename}' not found"
+                status_code=404, detail=f"Arquivo de workflow '{filename}' não encontrado"
             )
 
         file_path = json_files[0]
@@ -418,7 +434,7 @@ async def download_workflow(filename: str, request: Request):
             print(
                 f"Security: Blocked final attempt to access file outside workflows: {file_path}"
             )
-            raise HTTPException(status_code=403, detail="Access denied")
+            raise HTTPException(status_code=403, detail="Acesso negado")
 
         return FileResponse(
             str(file_path), media_type="application/json", filename=filename
@@ -428,7 +444,7 @@ async def download_workflow(filename: str, request: Request):
     except Exception as e:
         print(f"Error downloading workflow {filename}: {str(e)}")
         raise HTTPException(
-            status_code=500, detail=f"Error downloading workflow: {str(e)}"
+            status_code=500, detail=f"Erro ao baixar workflow: {str(e)}"
         )
 
 
@@ -439,13 +455,13 @@ async def get_workflow_diagram(filename: str, request: Request):
         # Security: Validate filename to prevent path traversal
         if not validate_filename(filename):
             print(f"Security: Blocked path traversal attempt for filename: {filename}")
-            raise HTTPException(status_code=400, detail="Invalid filename format")
+            raise HTTPException(status_code=400, detail="Formato de nome de arquivo inválido")
 
         # Security: Rate limiting
         client_ip = request.client.host if request.client else "unknown"
         if not check_rate_limit(client_ip):
             raise HTTPException(
-                status_code=429, detail="Rate limit exceeded. Please try again later."
+                status_code=429, detail="Limite de taxa excedido. Por favor, tente novamente mais tarde."
             )
 
         # Only search within the workflows directory
@@ -757,11 +773,26 @@ async def global_exception_handler(request, exc):
 
 # Mount static files AFTER all routes are defined
 static_dir = Path("static")
+docs_dir = Path("docs")
+
 if static_dir.exists():
     app.mount("/static", StaticFiles(directory="static"), name="static")
     print(f"✅ Static files mounted from {static_dir.absolute()}")
+
+if docs_dir.exists():
+    app.mount("/docs", StaticFiles(directory="docs"), name="docs")
+    print(f"✅ Docs files mounted from {docs_dir.absolute()}")
+
+# Mount public directory for images
+public_dir = Path("public")
+if public_dir.exists():
+    app.mount("/public", StaticFiles(directory="public"), name="public")
+    print(f"✅ Public files mounted from {public_dir.absolute()}")
 else:
-    print(f"❌ Warning: Static directory not found at {static_dir.absolute()}")
+    print(f"⚠️  Warning: Public directory not found at {public_dir.absolute()}")
+
+if not static_dir.exists() and not docs_dir.exists():
+    print(f"❌ Warning: Neither static nor docs directory found")
 
 
 def create_static_directory():

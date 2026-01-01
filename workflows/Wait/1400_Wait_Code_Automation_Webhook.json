@@ -1776,6 +1776,6 @@
       ]
     }
   },
-  "description": "Automated workflow: AutoQoutesV2_template. This workflow integrates 10 different services: stickyNote, httpRequest, wait, code, readWriteFile. It contains 53 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: AutoQoutesV2_template. Este fluxo de trabalho integra 10 serviços diferentes: pegajosoNota, httpPedido, espera, código, arquivo de leitura. Contém 53 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: AutoQoutesV2_template. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

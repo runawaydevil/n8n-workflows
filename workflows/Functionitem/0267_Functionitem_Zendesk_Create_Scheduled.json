@@ -487,7 +487,7 @@
     }
   },
   "name": "Noop Workflow",
-  "description": "Automated workflow: Noop Workflow. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Noop Workflow. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,

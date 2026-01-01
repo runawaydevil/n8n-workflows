@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "YouTube Videos with AI Summaries on Discord",
+  "name": "Vídeos do YouTube com resumos da IA em discórdia",
   "tags": [
     "automation",
     "n8n",
@@ -397,6 +397,6 @@
       ]
     }
   },
-  "description": "Automated workflow: YouTube Videos with AI Summaries on Discord. This workflow integrates 8 different services: stickyNote, httpRequest, rssFeedReadTrigger, discord, set. It contains 15 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: vídeos do YouTube com resumos de IA na Discórdia. Este fluxo de trabalho integra 8 serviços diferentes: pegajosoNota, httpRequest, rssFeedReadTrigger, discórdia, conjunto. Contém 15 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: YouTube Videos with AI Summaries on Discord. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

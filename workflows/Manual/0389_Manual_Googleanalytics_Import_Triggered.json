@@ -1,6 +1,6 @@
 {
   "id": "205",
-  "name": "Get analytics of a website and store it Airtable",
+  "name": "Obter análise de um site e armazená-lo Airtable",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -132,7 +132,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Get analytics of a website and store it Airtable. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Obter análise de um site e armazená-lo Airtable. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-05c237dc",
     "versionId": "1.0.0",

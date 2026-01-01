@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "SearchApi AI Agent",
+  "name": "PesquisaApi Al Agente",
   "tags": [
     "automation",
     "n8n",
@@ -216,6 +216,6 @@
       ]
     }
   },
-  "description": "Automated workflow: SearchApi AI Agent. This workflow integrates 7 different services: stickyNote, agent, stopAndError, lmChatOpenAi, memoryBufferWindow. It contains 10 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: agente de IA SearchApi. Este fluxo de trabalho integra 7 serviços diferentes: pegajosoNota, agente, pararErro, lmChatOpenAi, memóriaBufferWindow. Contém 10 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "notes": "Excellent quality workflow: SearchApi AI Agent. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

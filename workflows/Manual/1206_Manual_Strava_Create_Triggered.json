@@ -1,6 +1,6 @@
 {
   "id": "93",
-  "name": "Create, update, and get activity in Strava",
+  "name": "Criar, atualizar e obter atividade em Strava",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -105,7 +105,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Create, update, and get activity in Strava. This workflow processes data and performs automated tasks.",
+  "description": "Criar, atualizar e obter atividade em Strava. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-17cf8df9",
     "versionId": "1.0.0",

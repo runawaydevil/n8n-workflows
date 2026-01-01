@@ -1060,7 +1060,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Httprequest Workflow. This workflow integrates 9 different services: filter, httpRequest, stickyNote, clearbit, scheduleTrigger. It contains 20 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Httprequest Workflow. Este fluxo de trabalho integra 9 serviços diferentes: filtro, httpRequest, pegajosoNota, clearbit, agenda Trigger. Contém 20 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "tags": [
     "automation",
     "n8n",

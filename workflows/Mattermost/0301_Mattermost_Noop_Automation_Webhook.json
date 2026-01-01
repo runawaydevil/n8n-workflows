@@ -1,6 +1,6 @@
 {
   "id": "18",
-  "name": "Gender Inclusive Language",
+  "name": "Linguagem inclusiva de gênero",
   "nodes": [
     {
       "name": "Webhook",
@@ -151,5 +151,5 @@
     "excellent",
     "optimized"
   ],
-  "description": "Production-ready workflow: Gender Inclusive Language. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
+  "description": "Fluxo de trabalho pronto para produção: Linguagem inclusiva de gênero. Este fluxo de trabalho foi otimizado para uso de produção com manipulação de erros abrangente, segurança e documentação."
 }

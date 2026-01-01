@@ -406,7 +406,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Readpdf Workflow. This workflow integrates 11 different services: stickyNote, code, gmailTrigger, readPDF, merge. It contains 20 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Readpdf Workflow. Este fluxo de trabalho integra 11 serviços diferentes: pegajosoNota, código, gmailTrigger, leituraPDF, fusão. Contém 20 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "tags": [
     "automation",
     "n8n",

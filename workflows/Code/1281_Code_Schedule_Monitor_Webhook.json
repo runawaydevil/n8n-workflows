@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "AI-Powered Information Monitoring with OpenAI, Google Sheets, Jina AI and Slack",
+  "name": "Monitoramento de informações com o OpenAI, Google Sheets, Jina AI e Slack",
   "tags": [
     "automation",
     "n8n",
@@ -1041,6 +1041,6 @@
       ]
     }
   },
-  "description": "Automated workflow: AI-Powered Information Monitoring with OpenAI, Google Sheets, Jina AI and Slack. This workflow integrates 14 different services: textClassifier, stickyNote, httpRequest, code, scheduleTrigger. It contains 40 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: monitoramento de informações com energia de IA com OpenAI, Planilhas Google, Jina AI e Slack. Este fluxo de trabalho integra 14 serviços diferentes: textClassifier, pegajosoNota, httpRequest, código, agendaTrigger. Contém 40 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: AI-Powered Information Monitoring with OpenAI, Google Sheets, Jina AI and Slack. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

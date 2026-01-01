@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "POC - Chatbot Order by Sheet Data",
+  "name": "POC - Chatbot Ordem por Folha de Dados",
   "tags": [
     "automation",
     "n8n",
@@ -398,6 +398,6 @@
       ]
     }
   },
-  "description": "Automated workflow: POC - Chatbot Order by Sheet Data. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: POC - Chatbot Ordem por Dados de Folha. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "notes": "Excellent quality workflow: POC - Chatbot Order by Sheet Data. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

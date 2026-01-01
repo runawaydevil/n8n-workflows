@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "LinkedIn Leads Scraping & Enrichment (Main)",
+  "name": "LinkedIn lidera o Raspamento e Enriquecimento",
   "tags": [
     "automation",
     "n8n",
@@ -4911,6 +4911,6 @@
       ]
     }
   },
-  "description": "Automated workflow: LinkedIn Leads Scraping & Enrichment (Main). This workflow integrates 13 different services: stickyNote, formTrigger, httpRequest, googleSheetsTrigger, scheduleTrigger. It contains 112 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: LinkedIn lidera o Raspamento e Enriquecimento. Este fluxo de trabalho integra 13 serviços diferentes: pegajosoNota, formulárioTrigger, httpRequest, Google LençóisTrigger, horário Trigger. Contém 112 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: LinkedIn Leads Scraping & Enrichment (Main). This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Moving metrics from Google Sheets to Orbit",
+  "name": "Movendo métricas do Google Sheets para Orbit",
   "nodes": [
     {
       "id": "trigger-c3ff08d0",
@@ -177,7 +177,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Moving metrics from Google Sheets to Orbit. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Mudando métricas do Google Sheets para Orbit. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-5b9120e5",
     "versionId": "1.0.0",

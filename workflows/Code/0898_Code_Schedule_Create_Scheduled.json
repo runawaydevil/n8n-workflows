@@ -1572,7 +1572,7 @@
       ]
     }
   },
-  "name": "Memorybufferwindow Workflow",
+  "name": "Vitrine da memória Fluxo de trabalho",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -1585,7 +1585,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Memorybufferwindow Workflow. This workflow integrates 18 different services: stickyNote, httpRequest, formTrigger, code, scheduleTrigger. It contains 62 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Fluxo de trabalho da janela da memória. Este fluxo de trabalho integra 18 serviços diferentes: pegajosoNota, httpRequest, formTrigger, código, programação Trigger. Contém 62 nós e segue as melhores práticas para lidar com erros e segurança.",
   "tags": [
     "automation",
     "n8n",

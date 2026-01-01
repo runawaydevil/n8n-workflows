@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "youtube chapter generator",
+  "name": "gerador de capítulo do youtube",
   "tags": [
     "automation",
     "n8n",
@@ -445,6 +445,6 @@
       ]
     }
   },
-  "description": "Automated workflow: youtube chapter generator. This workflow integrates 10 different services: stickyNote, youTube, httpRequest, lmChatGoogleGemini, chainLlm. It contains 19 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: gerador de capítulos do YouTube. Este fluxo de trabalho integra 10 serviços diferentes: pegajosoNota, YouTube, httpRequest, lmChatGoogleGemini, chainLlm. Contém 19 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: youtube chapter generator. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

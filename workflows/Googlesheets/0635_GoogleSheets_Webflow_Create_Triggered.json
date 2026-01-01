@@ -216,7 +216,7 @@
       ]
     }
   },
-  "name": "Code Workflow",
+  "name": "Fluxo de trabalho de código",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -229,7 +229,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Code Workflow. This workflow integrates 5 different services: stickyNote, code, stopAndError, webflowTrigger, googleSheets. It contains 8 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Código de fluxo de trabalho. Este fluxo de trabalho integra 5 serviços diferentes: pegajosoNota, código, paradaErro, webflowTrigger, google Lençóis. Ele contém 8 nós e segue as melhores práticas para lidar com erros e segurança.",
   "meta": {
     "instanceId": "workflow-6e0aba25",
     "versionId": "1.0.0",

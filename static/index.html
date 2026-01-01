@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
 
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>⚡ N8N Workflow Documentation</title>
+  <title>⚡ Documentação de Workflows N8N</title>
   <script src="https://cdn.jsdelivr.net/npm/mermaid@10.6.1/dist/mermaid.min.js"></script>
   <style>
     /* Modern CSS Reset and Base */
@@ -15,31 +15,22 @@
     }
 
     :root {
-      --primary: #3b82f6;
-      --primary-dark: #2563eb;
+      --primary: #dc2626;
+      --primary-dark: #b91c1c;
       --success: #10b981;
       --warning: #f59e0b;
-      --error: #ef4444;
+      --error: #dc2626;
       --bg: #ffffff;
       --bg-secondary: #f8fafc;
       --bg-tertiary: #f1f5f9;
-      --text: #1e293b;
-      --text-secondary: #64748b;
-      --text-muted: #94a3b8;
+      --text: #000000;
+      --text-secondary: #4a5568;
+      --text-muted: #718096;
       --text-modal: #4a5568;
       --border: #e2e8f0;
+      --header-bg: #1a202c;
       --shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1), 0 1px 2px -1px rgb(0 0 0 / 0.1);
       --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
-    }
-
-    [data-theme="dark"] {
-      --bg: #0f172a;
-      --bg-secondary: #1e293b;
-      --bg-tertiary: #334155;
-      --text: #f8fafc;
-      --text-secondary: #cbd5e1;
-      --text-muted: #64748b;
-      --border: #475569;
     }
 
     body {
@@ -58,23 +49,53 @@
 
     /* Header */
     .header {
-      background: var(--bg-secondary);
+      background: var(--header-bg);
       border-bottom: 1px solid var(--border);
       padding: 2rem 0;
-      text-align: center;
+      color: white;
+    }
+
+    .header .container {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 1.5rem;
+      flex-wrap: wrap;
     }
 
     .title {
       font-size: 2.5rem;
       font-weight: 700;
-      margin-bottom: 0.5rem;
-      color: var(--primary);
+      margin: 0;
+      color: white;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0.75rem;
+      flex-wrap: wrap;
+    }
+
+    .logo-image {
+      height: 8rem;
+      width: auto;
+      object-fit: contain;
+      display: inline-block;
+      vertical-align: middle;
+      flex-shrink: 0;
+    }
+
+    .header-content {
+      display: flex;
+      flex-direction: column;
+      gap: 0.25rem;
+      align-items: center;
+      text-align: center;
     }
 
     .subtitle {
       font-size: 1.125rem;
-      color: var(--text-secondary);
-      margin-bottom: 2rem;
+      color: rgba(255, 255, 255, 0.9);
+      margin: 0;
     }
 
     .stats {
@@ -612,6 +633,15 @@
         font-size: 2rem;
       }
 
+      .logo-image {
+        height: 6.4rem;
+      }
+
+      .header .container {
+        flex-direction: column;
+        text-align: center;
+      }
+
       .stats {
         gap: 1rem;
       }
@@ -649,8 +679,13 @@
     <!-- Header -->
     <header class="header">
       <div class="container">
-        <h1 class="title">⚡ N8N Workflow Documentation</h1>
-        <p class="subtitle">Lightning-fast workflow browser with instant search</p>
+        <img src="/public/n8nrd.png" alt="N8N Logo" class="logo-image" onerror="console.warn('Logo image not found at /public/n8nrd.png'); this.style.display='none';">
+        <div class="header-content">
+          <h1 class="title">
+            ⚡ Documentação de Workflows N8N
+          </h1>
+          <p class="subtitle">Navegador de workflows ultrarrápido com busca instantânea</p>
+        </div>
         <div class="stats">
           <div class="stat">
             <span class="stat-number" id="totalCount">0</span>
@@ -658,15 +693,15 @@
           </div>
           <div class="stat">
             <span class="stat-number" id="activeCount">0</span>
-            <span class="stat-label">Active</span>
+            <span class="stat-label">Ativos</span>
           </div>
           <div class="stat">
             <span class="stat-number" id="nodeCount">0</span>
-            <span class="stat-label">Total Nodes</span>
+            <span class="stat-label">Total de Nós</span>
           </div>
           <div class="stat">
             <span class="stat-number" id="integrationCount">0</span>
-            <span class="stat-label">Integrations</span>
+            <span class="stat-label">Integrações</span>
           </div>
         </div>
       </div>
@@ -677,7 +712,7 @@
       <div class="container">
         <div class="search-section">
           <input type="text" id="searchInput" class="search-input"
-            placeholder="Search workflows by name, description, or integration...">
+            placeholder="Pesquisar workflows por nome, descrição ou integração...">
         </div>
 
         <div class="filter-section">
@@ -693,19 +728,19 @@
           </div>
 
           <div class="filter-group">
-            <label for="complexityFilter">Complexity:</label>
+            <label for="complexityFilter">Complexidade:</label>
             <select id="complexityFilter">
-              <option value="all">All Levels</option>
-              <option value="low">Low (≤5 nodes)</option>
-              <option value="medium">Medium (6-15 nodes)</option>
-              <option value="high">High (16+ nodes)</option>
+              <option value="all">Todos os Níveis</option>
+              <option value="low">Baixa (≤5 nós)</option>
+              <option value="medium">Média (6-15 nós)</option>
+              <option value="high">Alta (16+ nós)</option>
             </select>
           </div>
 
           <div class="filter-group">
-            <label for="categoryFilter">Category:</label>
+            <label for="categoryFilter">Categoria:</label>
             <select id="categoryFilter">
-              <option value="all">All Categories</option>
+              <option value="all">Todas as Categorias</option>
               <!-- Categories will be populated dynamically -->
             </select>
           </div>
@@ -713,7 +748,7 @@
           <div class="filter-group">
             <label>
               <input type="checkbox" id="activeOnly">
-              Active only
+              Apenas Ativos
             </label>
           </div>
 
@@ -721,7 +756,7 @@
         </div>
 
         <div class="results-info">
-          <span id="resultsCount">Loading...</span>
+          <span id="resultsCount">Carregando...</span>
         </div>
       </div>
     </div>
@@ -732,14 +767,14 @@
         <!-- Loading State -->
         <div id="loadingState" class="state loading">
           <div class="icon">⚡</div>
-          <h3>Loading workflows...</h3>
+          <h3>Carregando workflows...</h3>
           <p>Please wait while we fetch your workflow data</p>
         </div>
 
         <!-- Error State -->
         <div id="errorState" class="state error hidden">
           <div class="icon">❌</div>
-          <h3>Error Loading Workflows</h3>
+          <h3>Erro ao Carregar Workflows</h3>
           <p id="errorMessage">Something went wrong. Please try again.</p>
           <button id="retryBtn" class="retry-btn">Retry</button>
         </div>
@@ -747,8 +782,8 @@
         <!-- No Results State -->
         <div id="noResultsState" class="state hidden">
           <div class="icon">🔍</div>
-          <h3>No workflows found</h3>
-          <p>Try adjusting your search terms or filters</p>
+          <h3>Nenhum workflow encontrado</h3>
+          <p>Tente ajustar seus termos de busca ou filtros</p>
         </div>
 
         <!-- Workflows Grid -->
@@ -758,7 +793,7 @@
 
         <!-- Load More -->
         <div id="loadMoreContainer" class="load-more hidden">
-          <button id="loadMoreBtn" class="load-more-btn">Load More</button>
+          <button id="loadMoreBtn" class="load-more-btn">Carregar Mais</button>
         </div>
       </div>
     </main>
@@ -772,53 +807,53 @@
         </div>
         <div class="modal-body">
           <div class="workflow-detail">
-            <h4>Description</h4>
-            <p id="modalDescription">Loading...</p>
+            <h4>Descrição</h4>
+            <p id="modalDescription">Carregando...</p>
           </div>
 
           <div class="workflow-detail">
-            <h4>Statistics</h4>
-            <div id="modalStats">Loading...</div>
+            <h4>Estatísticas</h4>
+            <div id="modalStats">Carregando...</div>
           </div>
 
           <div class="workflow-detail">
-            <h4>Integrations</h4>
-            <div id="modalIntegrations">Loading...</div>
+            <h4>Integrações</h4>
+            <div id="modalIntegrations">Carregando...</div>
           </div>
 
           <div class="workflow-detail">
-            <h4>Actions</h4>
+            <h4>Ações</h4>
             <div class="workflow-actions">
-              <a id="downloadBtn" class="action-btn primary" href="#" download>📥 Download JSON</a>
-              <button id="viewJsonBtn" class="action-btn">📄 View JSON</button>
-              <button id="viewDiagramBtn" class="action-btn">📊 View Diagram</button>
+              <a id="downloadBtn" class="action-btn primary" href="#" download>📥 Baixar JSON</a>
+              <button id="viewJsonBtn" class="action-btn">📄 Ver JSON</button>
+              <button id="viewDiagramBtn" class="action-btn">📊 Ver Diagrama</button>
             </div>
           </div>
 
           <div class="workflow-detail hidden" id="jsonSection">
             <div class="section-header">
-              <h4>Workflow JSON</h4>
-              <button id="copyJsonBtn" class="copy-btn" title="Copy JSON to clipboard">
-                📋 Copy
+              <h4>JSON do Workflow</h4>
+              <button id="copyJsonBtn" class="copy-btn" title="Copiar JSON para área de transferência">
+                📋 Copiar
               </button>
             </div>
-            <div class="json-viewer" id="jsonViewer">Loading...</div>
+            <div class="json-viewer" id="jsonViewer">Carregando...</div>
           </div>
 
           <div class="workflow-detail hidden" id="diagramSection">
             <div class="section-header">
-              <h4>Workflow Diagram</h4>
+              <h4>Diagrama do Workflow</h4>
               <div class="diagram-controls">
-                <button id="zoomInBtn" class="zoom-btn" title="Zoom In">🔍+</button>
-                <button id="zoomOutBtn" class="zoom-btn" title="Zoom Out">🔍-</button>
-                <button id="zoomResetBtn" class="zoom-btn" title="Reset Zoom">🔄</button>
-                <button id="copyDiagramBtn" class="copy-btn" title="Copy diagram code to clipboard">
-                  📋 Copy
+                <button id="zoomInBtn" class="zoom-btn" title="Aumentar Zoom">🔍+</button>
+                <button id="zoomOutBtn" class="zoom-btn" title="Diminuir Zoom">🔍-</button>
+                <button id="zoomResetBtn" class="zoom-btn" title="Redefinir Zoom">🔄</button>
+                <button id="copyDiagramBtn" class="copy-btn" title="Copiar código do diagrama para área de transferência">
+                  📋 Copiar
                 </button>
               </div>
             </div>
             <div id="diagramContainer" class="diagram-container">
-              <div id="diagramViewer">Loading diagram...</div>
+              <div id="diagramViewer">Carregando diagrama...</div>
             </div>
           </div>
         </div>
@@ -916,9 +951,9 @@
             startOnLoad: false,
             theme: 'base',
             themeVariables: {
-              primaryColor: '#3b82f6',
-              primaryTextColor: '#1e293b',
-              primaryBorderColor: '#2563eb',
+              primaryColor: '#dc2626',
+              primaryTextColor: '#000000',
+              primaryBorderColor: '#b91c1c',
               lineColor: '#64748b',
               secondaryColor: '#f1f5f9',
               tertiaryColor: '#f8fafc'
@@ -1381,7 +1416,7 @@
                         
                         ${workflow.integrations.length > 0 ? `
                             <div class="workflow-integrations">
-                                <h4 class="integrations-title">Integrations (${workflow.integrations.length})</h4>
+                                <h4 class="integrations-title">Integrações (${workflow.integrations.length})</h4>
                                 <div class="integrations-list">
                                     ${integrations}
                                     ${moreIntegrations}
@@ -1401,11 +1436,11 @@
         const category = this.getWorkflowCategory(workflow.filename);
         this.elements.modalStats.innerHTML = `
                     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 1rem;">
-                        <div><strong>Status:</strong> ${workflow.active ? 'Active' : 'Inactive'}</div>
+                        <div><strong>Status:</strong> ${workflow.active ? 'Ativo' : 'Inativo'}</div>
                         <div><strong>Trigger:</strong> ${workflow.trigger_type}</div>
-                        <div><strong>Complexity:</strong> ${workflow.complexity}</div>
-                        <div><strong>Nodes:</strong> ${workflow.node_count}</div>
-                        <div><strong>Category:</strong> ${this.escapeHtml(category)}</div>
+                        <div><strong>Complexidade:</strong> ${workflow.complexity}</div>
+                        <div><strong>Nós:</strong> ${workflow.node_count}</div>
+                        <div><strong>Categoria:</strong> ${this.escapeHtml(category)}</div>
                     </div>
                 `;
 
@@ -1415,7 +1450,7 @@
             .map(integration => `<span class="integration-tag">${this.escapeHtml(integration)}</span>`)
             .join(' ');
         } else {
-          this.elements.modalIntegrations.textContent = 'No integrations found';
+          this.elements.modalIntegrations.textContent = 'Nenhuma integração encontrada';
         }
 
         // Set download link
@@ -1458,7 +1493,7 @@
           this.elements.viewJsonBtn.textContent = '📄 View JSON';
         } else {
           try {
-            this.elements.jsonViewer.textContent = 'Loading...';
+            this.elements.jsonViewer.textContent = 'Carregando...';
             this.elements.jsonSection.classList.remove('hidden');
             this.elements.viewJsonBtn.textContent = '📄 Hide JSON';
 
@@ -1467,7 +1502,7 @@
             this.currentJsonData = jsonString;
             this.elements.jsonViewer.textContent = jsonString;
           } catch (error) {
-            this.elements.jsonViewer.textContent = 'Error loading JSON: ' + error.message;
+            this.elements.jsonViewer.textContent = 'Erro ao carregar JSON: ' + error.message;
             this.currentJsonData = null;
           }
         }
@@ -1483,7 +1518,7 @@
           this.elements.viewDiagramBtn.textContent = '📊 View Diagram';
         } else {
           try {
-            this.elements.diagramViewer.textContent = 'Loading diagram...';
+            this.elements.diagramViewer.textContent = 'Carregando diagrama...';
             this.elements.diagramSection.classList.remove('hidden');
             this.elements.viewDiagramBtn.textContent = '📊 Hide Diagram';
 
@@ -1507,7 +1542,7 @@
               }, 100);
             }
           } catch (error) {
-            this.elements.diagramViewer.textContent = 'Error loading diagram: ' + error.message;
+            this.elements.diagramViewer.textContent = 'Erro ao carregar diagrama: ' + error.message;
             this.currentDiagramData = null;
           }
         }
@@ -1700,7 +1735,7 @@
         if (!button) return;
 
         const originalText = button.innerHTML;
-        button.innerHTML = '✅ Copied!';
+        button.innerHTML = '✅ Copiado!';
         button.classList.add('copied');
 
         setTimeout(() => {
@@ -1713,7 +1748,7 @@
         const button = document.getElementById(buttonId);
         if (!button) return;
 
-        button.innerHTML = '📋 Copy';
+        button.innerHTML = '📋 Copiar';
         button.classList.remove('copied');
       }
     }

@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "🗨️Ollama Chat",
+  "name": "\"Ollama Chat\"",
   "tags": [
     "automation",
     "n8n",
@@ -322,6 +322,6 @@
   },
   "versionId": "5175454a-91b7-4c57-890d-629bd4e8d2fd",
   "connections": {},
-  "description": "Automated workflow: 🗨️Ollama Chat. This workflow integrates 5 different services: stickyNote, lmOllama, chainLlm, set, chatTrigger. It contains 14 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Ollama Chat. Este fluxo de trabalho integra 5 serviços diferentes: pegajoso, lmOllama, chainLlm, set, chatTrigger. Contém 14 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: 🗨️Ollama Chat. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

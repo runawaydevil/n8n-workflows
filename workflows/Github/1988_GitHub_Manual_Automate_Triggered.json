@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "[OPS] Restore workflows from GitHub to n8n",
+  "name": "[OPS] Restaurar fluxos de trabalho de GitHub para n8n",
   "tags": [
     "automation",
     "n8n",
@@ -428,6 +428,6 @@
   },
   "versionId": "b7a0e558-1c40-4ff8-aaed-b6e3a8ab6b8c",
   "connections": {},
-  "description": "Automated workflow: [OPS] Restore workflows from GitHub to n8n. This workflow integrates 8 different services: stickyNote, n8n, merge, set, manualTrigger. It contains 17 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: [OPS] Restaurar fluxos de trabalho de GitHub para n8n. Este fluxo de trabalho integra 8 serviços diferentes: pegajosoNota, n8n, mesclar, definir, manual Trigger. Contém 17 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "notes": "Excellent quality workflow: [OPS] Restore workflows from GitHub to n8n. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

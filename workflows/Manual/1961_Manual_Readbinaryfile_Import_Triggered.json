@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "How to automatically import CSV files into postgres",
+  "name": "Como importar automaticamente arquivos CSV em pós-gres",
   "tags": [
     "automation",
     "n8n",
@@ -178,6 +178,6 @@
       ]
     }
   },
-  "description": "Automated workflow: How to automatically import CSV files into postgres. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Como importar automaticamente arquivos CSV em pós-gres. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "notes": "Excellent quality workflow: How to automatically import CSV files into postgres. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

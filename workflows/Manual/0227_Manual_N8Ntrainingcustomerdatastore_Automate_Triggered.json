@@ -185,7 +185,7 @@
     }
   ],
   "connections": {},
-  "name": "Manualtrigger Workflow",
+  "name": "Fluxo de trabalho manual",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -198,7 +198,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Manualtrigger Workflow. This workflow integrates 5 different services: stickyNote, switch, manualTrigger, if, n8nTrainingCustomerDatastore. It contains 9 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Fluxo de trabalho manual. Este fluxo de trabalho integra 5 serviços diferentes: pegajoso Nota, troca, manual Trigger, se, N8n TreiningCliente Datastore. Contém 9 nós e segue as melhores práticas para lidar com erros e segurança.",
   "meta": {
     "instanceId": "workflow-18dd5293",
     "versionId": "1.0.0",

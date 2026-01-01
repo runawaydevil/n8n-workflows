@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Optimise images uploaded to GDrive",
+  "name": "Otimizar imagens enviadas para o GDrive",
   "nodes": [
     {
       "id": "a6fac2bb-4079-4872-9cc9-17b1016d2fcc",
@@ -428,7 +428,7 @@
       ]
     }
   },
-  "description": "Automated workflow: Optimise images uploaded to GDrive. This workflow integrates 5 different services: stickyNote, httpRequest, googleDriveTrigger, googleDrive, stopAndError. It contains 17 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Optimize imagens enviadas para o GDrive. Este fluxo de trabalho integra 5 serviços diferentes: pegajosoNota, httpRequest, googleDriveTrigger, googleDrive, stopAndError. Contém 17 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "tags": [
     "automation",
     "n8n",

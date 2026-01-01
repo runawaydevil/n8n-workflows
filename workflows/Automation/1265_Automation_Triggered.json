@@ -188,7 +188,7 @@
     }
   },
   "name": "Lmchatopenai Workflow",
-  "description": "Automated workflow: Lmchatopenai Workflow. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automático: Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,

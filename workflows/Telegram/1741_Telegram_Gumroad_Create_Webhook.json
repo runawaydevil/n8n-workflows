@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "2. Add Beehiiv newsletter subscribers from Gumroad sales",
+  "name": "2. Adicione os assinantes da newsletter Beehiiv das vendas da Gumroad",
   "tags": [
     "automation",
     "n8n",
@@ -480,6 +480,6 @@
       ]
     }
   },
-  "description": "Automated workflow: 2. Add Beehiiv newsletter subscribers from Gumroad sales. This workflow integrates 7 different services: stickyNote, httpRequest, telegram, set, stopAndError. It contains 16 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Adicione assinantes de newsletter Beehiiv de vendas Gumroad. Este fluxo de trabalho integra 7 serviços diferentes: pegajosoNota, httpRequest, telegrama, conjunto, paradaError. Contém 16 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "notes": "Excellent quality workflow: 2. Add Beehiiv newsletter subscribers from Gumroad sales. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

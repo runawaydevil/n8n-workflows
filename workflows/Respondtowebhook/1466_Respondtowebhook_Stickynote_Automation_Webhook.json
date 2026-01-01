@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "TEMPLATE - Multi Methods API Endpoint",
+  "name": "TEMPLATO - Multimétodos API Endpoint",
   "tags": [
     "automation",
     "n8n",
@@ -1103,6 +1103,6 @@
       ]
     }
   },
-  "description": "Automated workflow: TEMPLATE - Multi Methods API Endpoint. This workflow integrates 5 different services: webhook, stickyNote, airtable, respondToWebhook, stopAndError. It contains 32 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: TEMPLATO - Multi Métodos API Endpoint. Este fluxo de trabalho integra 5 serviços diferentes: webhook, pegajosoNota, airtable, responder aWebhook, pararError. Contém 32 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: TEMPLATE - Multi Methods API Endpoint. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

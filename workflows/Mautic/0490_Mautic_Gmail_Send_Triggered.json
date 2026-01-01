@@ -11,7 +11,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Unsubscribe Mautic contacts from automated unsubscribe emails",
+  "name": "Descreva contatos Mautic de e-mails automatizados",
   "tags": [
     "automation",
     "n8n",
@@ -377,6 +377,6 @@
   },
   "versionId": "",
   "connections": {},
-  "description": "Automated workflow: Unsubscribe Mautic contacts from automated unsubscribe emails. This workflow integrates 7 different services: stickyNote, mautic, code, gmailTrigger, set. It contains 16 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Descreva contatos Mautic de e-mails automatizados. Este fluxo de trabalho integra 7 serviços diferentes: pegajoso Nota, Mautic, código, GmailTrigger, conjunto. Contém 16 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "notes": "Excellent quality workflow: Unsubscribe Mautic contacts from automated unsubscribe emails. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

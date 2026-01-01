@@ -217,7 +217,7 @@
   ],
   "connections": {},
   "name": "Googlesheets Workflow",
-  "description": "Automated workflow: Googlesheets Workflow. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Googlesheets Workflow. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,

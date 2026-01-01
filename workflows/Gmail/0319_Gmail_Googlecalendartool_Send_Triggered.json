@@ -306,7 +306,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Stickynote Workflow. This workflow integrates 8 different services: textClassifier, stickyNote, gmailTrigger, agent, stopAndError. It contains 13 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Fluxo de trabalho. Este fluxo de trabalho integra 8 serviços diferentes: textClassifier, pegajosoNota, gmailTrigger, agente, stopAndError. Contém 13 nós e segue as melhores práticas para lidar com erros e segurança.",
   "tags": [
     "automation",
     "n8n",

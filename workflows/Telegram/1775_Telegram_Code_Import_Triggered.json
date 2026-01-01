@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "AI-Driven WooCommerce Product Importer with SEO",
+  "name": "AI-Driven WooCommerce Importador de Produto com SEO",
   "tags": [
     "automation",
     "n8n",
@@ -778,6 +778,6 @@
       ]
     }
   },
-  "description": "Automated workflow: AI-Driven WooCommerce Product Importer with SEO. This workflow integrates 11 different services: stickyNote, telegram, code, chainLlm, outputParserStructured. It contains 20 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: importador de produtos WooCommerce com SEO. Este fluxo de trabalho integra 11 serviços diferentes: nota pegajosa, telegrama, código, correnteLlm, saídaParserStructured. Contém 20 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "notes": "Excellent quality workflow: AI-Driven WooCommerce Product Importer with SEO. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

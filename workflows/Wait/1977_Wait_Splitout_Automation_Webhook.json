@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Test Webhooks in n8n Without Changing WEBHOOK_URL (PostBin & BambooHR Example)",
+  "name": "Teste Webhooks em N8n Sem mudar WEBHOOK_URL (PostBin & BambooHR Exemplo)",
   "tags": [
     "automation",
     "n8n",
@@ -1604,6 +1604,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Test Webhooks in n8n Without Changing WEBHOOK_URL (PostBin & BambooHR Example). This workflow integrates 20 different services: stickyNote, merge, outputParserAutofixing, lmChatOpenAi, postBin. It contains 73 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Teste Webhooks em n8n sem mudar WEBHOOK_URL (Exemplo PostBin & BambooHR). Este fluxo de trabalho integra 20 serviços diferentes: pegajosoNota, mescla, saídaParserAutofixing, lmChatOpenAi, postBin. Contém 73 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Test Webhooks in n8n Without Changing WEBHOOK_URL (PostBin & BambooHR Example). This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

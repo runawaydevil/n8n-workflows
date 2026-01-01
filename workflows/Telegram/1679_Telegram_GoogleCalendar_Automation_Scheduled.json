@@ -271,6 +271,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Google Calendar Event Reminder. This workflow integrates 8 different services: stickyNote, telegram, scheduleTrigger, agent, stopAndError. It contains 12 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Google Calendar Event Reminder. Este fluxo de trabalho integra 8 serviços diferentes: Trigger, agente, pare Error. Contém 12 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "notes": "Excellent quality workflow: Google Calendar Event Reminder. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

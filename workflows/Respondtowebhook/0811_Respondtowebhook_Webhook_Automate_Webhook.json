@@ -203,7 +203,7 @@
     }
   },
   "name": "Webhook Workflow",
-  "description": "Automated workflow: Webhook Workflow. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Fluxo de trabalho Webhook. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,

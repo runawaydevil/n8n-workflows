@@ -1,6 +1,6 @@
 {
   "id": 83,
-  "name": "New WooCommerce Customer to Mautic",
+  "name": "Novo cliente WooCommerce para Mautic",
   "nodes": [
     {
       "name": "Check for Existing",
@@ -153,7 +153,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: New WooCommerce Customer to Mautic. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Novo cliente WooCommerce para Mautic. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-530232f0",
     "versionId": "1.0.0",

@@ -1,6 +1,6 @@
 {
   "id": 82,
-  "name": "New WooCommerce refund to Slack",
+  "name": "Novo reembolso WooCommerce para Slack",
   "nodes": [
     {
       "name": "Order Updated",
@@ -132,7 +132,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: New WooCommerce refund to Slack. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Novo reembolso do WooCommerce ao Slack. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-1a23d2be",
     "versionId": "1.0.0",

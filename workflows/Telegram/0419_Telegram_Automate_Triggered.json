@@ -151,8 +151,8 @@
       ]
     }
   },
-  "name": "Agent Workflow",
-  "description": "Automated workflow: Agent Workflow. This workflow processes data and performs automated tasks.",
+  "name": "Agente Workflow",
+  "description": "Fluxo de trabalho automatizado: Agente Workflow. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,

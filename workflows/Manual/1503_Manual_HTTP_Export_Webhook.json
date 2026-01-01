@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Export Zammad Objects Users, Roles, Groups and Organizations to Excel",
+  "name": "Exportar objetos do Zammed Usuários, papéis, grupos e organizações para o Excel",
   "tags": [
     "automation",
     "n8n",
@@ -689,6 +689,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Export Zammad Objects Users, Roles, Groups and Organizations to Excel. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Exportar objetos Zamad Usuários, papéis, grupos e organizações para o Excel. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "notes": "Excellent quality workflow: Export Zammad Objects Users, Roles, Groups and Organizations to Excel. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

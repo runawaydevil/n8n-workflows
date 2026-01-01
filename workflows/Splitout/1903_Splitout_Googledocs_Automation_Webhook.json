@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "🦙👁️👁️ Find the Best Local Ollama Vision Models by Comparison",
+  "name": "Encontre os melhores modelos locais de visão de Ollama por comparação",
   "tags": [
     "automation",
     "n8n",
@@ -527,6 +527,6 @@
       ]
     }
   },
-  "description": "Automated workflow: 🦙👁️👁️ Find the Best Local Ollama Vision Models by Comparison. This workflow integrates 10 different services: stickyNote, httpRequest, splitOut, googleDrive, set. It contains 24 nodes and follows best practices for error handling and security.",
+  "description": "Encontre os melhores modelos locais de visão de Ollama por comparação. Este fluxo de trabalho integra 10 serviços diferentes: pegajosoNota, httpRequest, splitOut, google Dirija, set. Contém 24 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: 🦙👁️👁️ Find the Best Local Ollama Vision Models by Comparison. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

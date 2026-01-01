@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "[n8n] - Shopify Orders to D365 Business Central Sales Orders / Sales Invoices",
+  "name": "[n8n] - Compre encomendas para D365 Business Central de vendas / faturas de vendas",
   "tags": [
     "automation",
     "n8n",
@@ -2005,6 +2005,6 @@
       ]
     }
   },
-  "description": "Automated workflow: [n8n] - Shopify Orders to D365 Business Central Sales Orders / Sales Invoices. This workflow integrates 12 different services: shopify, stickyNote, httpRequest, filter, code. It contains 61 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Compre encomendas para a D365. Este fluxo de trabalho integra 12 serviços diferentes: Shopify, pegajosoNota, httpPedido, filtro, código. Contém 61 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: [n8n] - Shopify Orders to D365 Business Central Sales Orders / Sales Invoices. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

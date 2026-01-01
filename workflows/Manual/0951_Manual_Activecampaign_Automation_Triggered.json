@@ -1,5 +1,5 @@
 {
-  "name": "Manualtrigger Workflow",
+  "name": "Fluxo de trabalho manual",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -64,7 +64,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Manualtrigger Workflow. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Fluxo de trabalho manual. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-829640c5",
     "versionId": "1.0.0",

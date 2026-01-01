@@ -1,6 +1,6 @@
 {
   "id": "91",
-  "name": "Create a new user in Intercom",
+  "name": "Criar um novo usuário no Intercom",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -62,7 +62,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Create a new user in Intercom. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Criar um novo usuário no Intercom. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-48b91a54",
     "versionId": "1.0.0",

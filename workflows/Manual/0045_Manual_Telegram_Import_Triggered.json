@@ -1,6 +1,6 @@
 {
   "id": "110",
-  "name": "Get SSL Certificate",
+  "name": "Obter certificado SSL",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -117,7 +117,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Get SSL Certificate. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Pegue o certificado SSL. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-0d5af560",
     "versionId": "1.0.0",

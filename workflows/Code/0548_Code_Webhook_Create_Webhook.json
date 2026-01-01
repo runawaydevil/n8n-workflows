@@ -1085,7 +1085,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Slack Workflow. This workflow integrates 23 different services: stickyNote, textSplitterRecursiveCharacterTextSplitter, chainRetrievalQa, lmChatOpenAi, if. It contains 52 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Slack Workflow. Este fluxo de trabalho integra 23 serviços diferentes: pegajosoNota, textoSplitterRecursivoCharacterTextSplitter, chainRetrievalQa, lmChatOpenAi, se. Contém 52 nós e segue as melhores práticas para lidar com erros e segurança.",
   "tags": [
     "automation",
     "n8n",

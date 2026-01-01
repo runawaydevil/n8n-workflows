@@ -1,5 +1,5 @@
 {
-  "name": "Updating Shopify tags on Onfleet events",
+  "name": "Atualizando etiquetas do Shopify em eventos da Onfleet",
   "nodes": [
     {
       "name": "Onfleet Trigger",
@@ -63,7 +63,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Updating Shopify tags on Onfleet events. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Atualizando etiquetas do Shopify em eventos da Onfleet. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-74fa2c87",
     "versionId": "1.0.0",

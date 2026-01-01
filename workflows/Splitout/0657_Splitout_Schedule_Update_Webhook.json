@@ -917,7 +917,7 @@
       ]
     }
   },
-  "name": "Splitout Workflow",
+  "name": "Fluxo de trabalho dividido",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -930,7 +930,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Splitout Workflow. This workflow integrates 7 different services: stickyNote, httpRequest, scheduleTrigger, splitOut, set. It contains 27 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: fluxo de trabalho dividido. Este fluxo de trabalho integra 7 serviços diferentes: pegajosoNota, httpRequest, agendaTrigger, splitOut, set. Contém 27 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "meta": {
     "instanceId": "workflow-88e4bb21",
     "versionId": "1.0.0",

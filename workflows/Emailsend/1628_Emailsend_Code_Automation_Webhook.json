@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Property Lead Contact Enrichment from CRM",
+  "name": "Imóveis Lead Contato Enriquecimento de CRM",
   "tags": [
     "automation",
     "n8n",
@@ -426,6 +426,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Property Lead Contact Enrichment from CRM. This workflow integrates 10 different services: stickyNote, httpRequest, spreadsheetFile, code, scheduleTrigger. It contains 22 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Property Lead Contato Enriquecimento do CRM. Este fluxo de trabalho integra 10 serviços diferentes: pegajosoNota, httpRequest, planilhaArquivo, código, programação Trigger. Contém 22 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Property Lead Contact Enrichment from CRM. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

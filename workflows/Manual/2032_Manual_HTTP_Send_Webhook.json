@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Perform an email search with Icypeas (single)",
+  "name": "Faça uma busca por e-mail com Icypeas (solteiro)",
   "tags": [
     "automation",
     "n8n",
@@ -229,6 +229,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Perform an email search with Icypeas (single). This workflow integrates 5 different services: stickyNote, httpRequest, code, stopAndError, manualTrigger. It contains 8 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Faça uma busca por e-mail com Icypeas (solteiro). Este fluxo de trabalho integra 5 serviços diferentes: pegajosoNota, httpPedido, código, paradaError, manualTrigger. Ele contém 8 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Perform an email search with Icypeas (single). This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

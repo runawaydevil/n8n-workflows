@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Agent with custom HTTP Request",
+  "name": "Agente com pedido HTTP personalizado",
   "tags": [
     "automation",
     "n8n",
@@ -517,6 +517,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Agent with custom HTTP Request. This workflow integrates 11 different services: stickyNote, httpRequest, markdown, agent, set. It contains 23 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Agente com pedido HTTP personalizado. Este fluxo de trabalho integra 11 serviços diferentes: pegajosoNota, httpRequest, markdown, agente, definido. Contém 23 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Agent with custom HTTP Request. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

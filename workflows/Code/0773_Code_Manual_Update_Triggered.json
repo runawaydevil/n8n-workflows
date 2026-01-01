@@ -1,5 +1,5 @@
 {
-  "name": "Automatically Update YouTube Video Descriptions with Inserted Text",
+  "name": "Atualizar automaticamente as descrições de vídeo do YouTube com texto inserido",
   "tags": [
     "automation",
     "n8n",
@@ -210,7 +210,7 @@
   },
   "versionId": "50fd0bcb-7441-45eb-ab58-ca2a7de78516",
   "connections": {},
-  "description": "Automated workflow: Automatically Update YouTube Video Descriptions with Inserted Text. This workflow integrates 6 different services: stickyNote, youTube, code, set, manualTrigger. It contains 9 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Atualizar automaticamente as descrições de vídeo do YouTube com texto inserido. Este fluxo de trabalho integra 6 serviços diferentes: Trigger. Contém 9 nós e segue as melhores práticas para lidar com erros e segurança.",
   "meta": {
     "instanceId": "workflow-6e4b7747",
     "versionId": "1.0.0",

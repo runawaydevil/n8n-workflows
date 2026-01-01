@@ -1291,7 +1291,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Slack Workflow. This workflow integrates 17 different services: filter, stickyNote, code, lmChatGoogleGemini, scheduleTrigger. It contains 55 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Slack Workflow. Este fluxo de trabalho integra 17 serviços diferentes: filtro, pegajosoNota, código, lmChatGoogleGemini, agendaTrigger. Contém 55 nós e segue as melhores práticas para lidar com erros e segurança.",
   "tags": [
     "automation",
     "n8n",

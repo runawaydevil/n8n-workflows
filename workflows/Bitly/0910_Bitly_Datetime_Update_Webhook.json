@@ -2516,7 +2516,7 @@
       ]
     }
   },
-  "name": "Agent Workflow",
+  "name": "Agente Workflow",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -2529,7 +2529,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Agent Workflow. This workflow integrates 97 different services: vectorStoreInMemory, if, gumroadTrigger, wait, toolSerpApi. It contains 142 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Agente Workflow. Este fluxo de trabalho integra 97 serviços diferentes: vetorStoreInMemory, se, gumroadTrigger, espere, ferramentaSerpApi. Contém 142 nós e segue as melhores práticas para lidar com erros e segurança.",
   "tags": [
     "automation",
     "n8n",

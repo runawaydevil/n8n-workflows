@@ -376,7 +376,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Stravatrigger Workflow. This workflow integrates 9 different services: stickyNote, code, lmChatGoogleGemini, agent, stravaTrigger. It contains 17 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Stravatrigger Workflow. Este fluxo de trabalho integra 9 serviços diferentes: pegajoso, código, lmChatGoogleGemini, agente, estravaTrigger. Contém 17 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "tags": [
     "automation",
     "n8n",

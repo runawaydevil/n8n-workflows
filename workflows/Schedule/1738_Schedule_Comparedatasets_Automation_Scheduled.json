@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "GoogleSheets MySQL Integration",
+  "name": "Google Folhas Integração MySQL",
   "tags": [
     "automation",
     "n8n",
@@ -566,6 +566,6 @@
       ]
     }
   },
-  "description": "Automated workflow: GoogleSheets MySQL Integration. This workflow integrates 10 different services: stickyNote, mySql, scheduleTrigger, noOp, set. It contains 17 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Google Folhas Integração MySQL. Este fluxo de trabalho integra 10 serviços diferentes: pegajosoNota, mySql, agendaTrigger, noOp, definido. Contém 17 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "notes": "Excellent quality workflow: GoogleSheets MySQL Integration. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

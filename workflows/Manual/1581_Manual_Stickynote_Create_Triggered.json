@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "OpenAI Assistant workflow: uploa file, create an Assistant, chat with it!",
+  "name": "OpenAI Assistant fluxo de trabalho: uploa arquivo, criar um assistente, conversar com ele!",
   "tags": [
     "automation",
     "n8n",
@@ -311,6 +311,6 @@
       ]
     }
   },
-  "description": "Automated workflow: OpenAI Assistant workflow: uploa file, create an Assistant, chat with it!. This workflow integrates 6 different services: stickyNote, googleDrive, stopAndError, manualTrigger, openAi. It contains 14 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: OpenAI Assistente de fluxo de trabalho: uploa arquivo, criar um assistente, conversar com ele! Este fluxo de trabalho integra 6 serviços diferentes: Dirija, pareError, manualTrigger, abra Ai. Contém 14 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: OpenAI Assistant workflow: uploa file, create an Assistant, chat with it!. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

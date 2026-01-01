@@ -1,6 +1,6 @@
 {
   "id": "57",
-  "name": "Send a cocktail recipe every day via a Telegram",
+  "name": "Enviar uma receita de coquetel todos os dias através de um Telegram",
   "nodes": [
     {
       "name": "Telegram",
@@ -103,5 +103,5 @@
     "excellent",
     "optimized"
   ],
-  "description": "Production-ready workflow: Send a cocktail recipe every day via a Telegram. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
+  "description": "Fluxo de trabalho pronto para produção: Envie uma receita de coquetel todos os dias através de um Telegram. Este fluxo de trabalho foi otimizado para uso de produção com manipulação de erros abrangente, segurança e documentação."
 }

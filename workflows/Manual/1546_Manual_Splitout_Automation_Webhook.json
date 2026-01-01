@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Scrape Latest 20 TechCrunch Articles",
+  "name": "Scrape Últimos 20 artigos da TechCrunch",
   "tags": [
     "automation",
     "n8n",
@@ -417,6 +417,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Scrape Latest 20 TechCrunch Articles. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Últimos 20 artigos da TechCrunch. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "notes": "Excellent quality workflow: Scrape Latest 20 TechCrunch Articles. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

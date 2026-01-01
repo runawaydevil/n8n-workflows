@@ -1,6 +1,6 @@
 {
   "id": 14,
-  "name": "Onfleet Driver signup message in Slack",
+  "name": "Mensagem de inscrição do motorista em Slack",
   "nodes": [
     {
       "name": "Onfleet Trigger",
@@ -76,7 +76,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Onfleet Driver signup message in Slack. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Mensagem de inscrição do motorista em Slack. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-ce006993",
     "versionId": "1.0.0",

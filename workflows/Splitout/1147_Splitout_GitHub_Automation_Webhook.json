@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Restore your credentials from GitHub",
+  "name": "Restaure suas credenciais do GitHub",
   "tags": [
     "automation",
     "n8n",
@@ -368,6 +368,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Restore your credentials from GitHub. This workflow integrates 10 different services: stickyNote, httpRequest, splitOut, n8n, set. It contains 14 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Restaure suas credenciais do GitHub. Este fluxo de trabalho integra 10 serviços diferentes: pegajosoNota, httpRequest, splitOut, n8n, set. Contém 14 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Restore your credentials from GitHub. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

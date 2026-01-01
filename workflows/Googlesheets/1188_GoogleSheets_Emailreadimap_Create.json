@@ -1,6 +1,6 @@
 {
   "id": 90,
-  "name": "Extract expenses from emails and add to Google Sheet",
+  "name": "Extrair despesas de e-mails e adicionar ao Google Sheet",
   "nodes": [
     {
       "id": "trigger-ce75c2bc",
@@ -240,7 +240,7 @@
       ]
     }
   },
-  "description": "Automated workflow: Extract expenses from emails and add to Google Sheet. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Extrair despesas de e-mails e adicionar ao Google Sheet. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-53444285",
     "versionId": "1.0.0",

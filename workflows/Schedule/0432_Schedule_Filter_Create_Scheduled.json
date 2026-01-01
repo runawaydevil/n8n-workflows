@@ -216,7 +216,7 @@
       ]
     }
   },
-  "name": "Hubspot Workflow",
+  "name": "Fluxo de trabalho Hubspot",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -229,7 +229,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Hubspot Workflow. This workflow integrates 6 different services: stickyNote, filter, hubspot, scheduleTrigger, stopAndError. It contains 9 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho do Hubspot. Este fluxo de trabalho integra 6 serviços diferentes: pegajosoNota, filtro, hubspot, cronogramaTrigger, stopAndError. Contém 9 nós e segue as melhores práticas para lidar com erros e segurança.",
   "tags": [
     "automation",
     "n8n",

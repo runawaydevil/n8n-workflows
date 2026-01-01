@@ -318,7 +318,7 @@
       ]
     }
   },
-  "name": "Splitout Workflow",
+  "name": "Fluxo de trabalho dividido",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -331,7 +331,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Splitout Workflow. This workflow integrates 9 different services: webhook, stickyNote, httpRequest, splitOut, respondToWebhook. It contains 16 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: fluxo de trabalho dividido. Este fluxo de trabalho integra 9 serviços diferentes: webhook, pegajosoNota, httpRequest, splitOut, responseToWebhook. Contém 16 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "tags": [
     "automation",
     "n8n",

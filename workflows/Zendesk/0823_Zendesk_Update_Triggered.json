@@ -1,6 +1,6 @@
 {
   "id": "33",
-  "name": "Receive updates for support in Zendesk",
+  "name": "Receba atualizações para suporte no Zendesk",
   "nodes": [
     {
       "name": "Zendesk Trigger",
@@ -54,7 +54,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Receive updates for support in Zendesk. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Receba atualizações para suporte no Zendesk. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-1fc62402",
     "versionId": "1.0.0",

@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Line Save File to Google Drive and Log File's URL",
+  "name": "Line Save File para a URL do Google Drive e Log File",
   "tags": [
     "automation",
     "n8n",
@@ -974,6 +974,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Line Save File to Google Drive and Log File's URL. This workflow integrates 9 different services: webhook, stickyNote, httpRequest, code, merge. It contains 40 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Line Save File para a URL do Google Drive e Log File. Este fluxo de trabalho integra 9 serviços diferentes: webhook, pegajosoNota, httpRequest, código, mescla. Contém 40 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Line Save File to Google Drive and Log File's URL. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

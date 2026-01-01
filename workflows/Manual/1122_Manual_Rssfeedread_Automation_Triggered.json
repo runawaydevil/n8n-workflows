@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Read RSS feed from two different sources",
+  "name": "Leia feed RSS de duas fontes diferentes",
   "tags": [
     "automation",
     "n8n",
@@ -107,6 +107,6 @@
   },
   "versionId": "8ad423d4-cf25-4b30-85c0-c50a26238e81",
   "connections": {},
-  "description": "Automated workflow: Read RSS feed from two different sources. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Leia feed RSS de duas fontes diferentes. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "notes": "Excellent quality workflow: Read RSS feed from two different sources. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

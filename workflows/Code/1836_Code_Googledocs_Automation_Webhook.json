@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Tech Radar",
+  "name": "Radar Técnico",
   "tags": [
     "automation",
     "n8n",
@@ -1380,6 +1380,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Tech Radar. This workflow integrates 26 different services: stickyNote, textSplitterRecursiveCharacterTextSplitter, executeWorkflow, if, cron. It contains 65 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Radar Técnico. Este fluxo de trabalho integra 26 serviços diferentes: pegajosoNota, textoSplitterRecursivoCharacterTextSplitter, execute Workflow, se, cron. Contém 65 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Tech Radar. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

@@ -172,7 +172,7 @@
       ]
     }
   },
-  "name": "Set Workflow",
+  "name": "Definir fluxo de trabalho",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -185,7 +185,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Set Workflow. This workflow integrates 7 different services: stickyNote, code, scheduleTrigger, n8n, googleDrive. It contains 7 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Preparar fluxo de trabalho. Este fluxo de trabalho integra 7 serviços diferentes: Dirija. Contém 7 nós e segue as melhores práticas para lidar com erros e segurança.",
   "tags": [
     "automation",
     "n8n",

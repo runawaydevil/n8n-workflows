@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Chat with GitHub OpenAPI Specification using RAG (Pinecone and OpenAI)",
+  "name": "Converse com GitHub OpenAPI Especificação usando RAG (Pinecone e OpenAI)",
   "tags": [
     "automation",
     "n8n",
@@ -443,6 +443,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Chat with GitHub OpenAPI Specification using RAG (Pinecone and OpenAI). This workflow integrates 13 different services: stickyNote, httpRequest, vectorStorePinecone, textSplitterRecursiveCharacterTextSplitter, agent. It contains 23 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Converse com GitHub OpenAPI Specification usando RAG (Pinecone e OpenAI). Este fluxo de trabalho integra 13 serviços diferentes: pegajosoNota, httpRequest, vetorStorePinecone, textoSplitterRecursivoCaracterTextSplitter, agente. Contém 23 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Chat with GitHub OpenAPI Specification using RAG (Pinecone and OpenAI). This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

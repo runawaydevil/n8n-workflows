@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Perplexity Researcher",
+  "name": "Pesquisador de Perplexidade",
   "tags": [
     "automation",
     "n8n",
@@ -218,6 +218,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Perplexity Researcher. This workflow integrates 5 different services: stickyNote, httpRequest, set, stopAndError, executeWorkflowTrigger. It contains 7 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado, Pesquisador de Perplexidade. Este fluxo de trabalho integra 5 serviços diferentes: pegajoso Nota, httpRequest, set, stopAndError, execute WorkflowTrigger. Contém 7 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Perplexity Researcher. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

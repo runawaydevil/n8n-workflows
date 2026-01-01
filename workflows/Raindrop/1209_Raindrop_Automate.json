@@ -109,8 +109,8 @@
     }
   ],
   "connections": {},
-  "name": "Raindrop Workflow",
-  "description": "Automated workflow: Raindrop Workflow. This workflow processes data and performs automated tasks.",
+  "name": "Fluxo de trabalho de gota de chuva",
+  "description": "Fluxo de trabalho de gota de chuva. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,

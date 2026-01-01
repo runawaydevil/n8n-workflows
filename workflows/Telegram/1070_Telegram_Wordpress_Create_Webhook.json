@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "🔍🛠️Generate SEO-Optimized WordPress Content with Perplexity Research",
+  "name": "Gerar palavra otimizada por SEO Press Content with Perplexity Research",
   "tags": [
     "automation",
     "n8n",
@@ -893,6 +893,6 @@
       ]
     }
   },
-  "description": "Automated workflow: 🔍🛠️Generate SEO-Optimized WordPress Content with Perplexity Research. This workflow integrates 13 different services: stickyNote, wordpress, httpRequest, formTrigger, telegram. It contains 37 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Gerar conteúdo WordPress otimizado por SEO com pesquisa de perplexidade. Este fluxo de trabalho integra 13 serviços diferentes: pegajoso, wordpress, httpRequest, formTrigger, telegrama. Contém 37 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: 🔍🛠️Generate SEO-Optimized WordPress Content with Perplexity Research. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

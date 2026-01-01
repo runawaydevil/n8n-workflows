@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Write a WordPress post with AI (starting from a few keywords)",
+  "name": "Escreva um post WordPress com IA (começando com algumas palavras-chave)",
   "tags": [
     "automation",
     "n8n",
@@ -1190,6 +1190,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Write a WordPress post with AI (starting from a few keywords). This workflow integrates 13 different services: stickyNote, formTrigger, wordpress, httpRequest, code. It contains 48 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: escreva um post WordPress com IA (começando a partir de algumas palavras-chave). Este fluxo de trabalho integra 13 serviços diferentes: pegajosoNota, formulárioTrigger, wordpress, httpRequest, código. Contém 48 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Write a WordPress post with AI (starting from a few keywords). This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

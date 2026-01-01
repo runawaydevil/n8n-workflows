@@ -1,6 +1,6 @@
 {
   "id": "340",
-  "name": "Email body parser by aprenden8n.com",
+  "name": "E-mail corpo parser by aprenden8n.com",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -84,7 +84,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Email body parser by aprenden8n.com. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: E-mail corpo parser por aprenden8n.com. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-72e0f1c5",
     "versionId": "1.0.0",

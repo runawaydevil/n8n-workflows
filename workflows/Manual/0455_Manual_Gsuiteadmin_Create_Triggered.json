@@ -1,6 +1,6 @@
 {
   "id": "215",
-  "name": "Create, update, and get a user using the G Suite Admin node",
+  "name": "Criar, atualizar e obter um usuário usando o G Suite Admin node",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -105,7 +105,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Create, update, and get a user using the G Suite Admin node. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: criar, atualizar e obter um usuário usando o nó G Suite Admin. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-7bec066c",
     "versionId": "1.0.0",

@@ -132,7 +132,7 @@
   ],
   "connections": {},
   "name": "Ftp Workflow",
-  "description": "Automated workflow: Ftp Workflow. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Ftp Workflow. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,

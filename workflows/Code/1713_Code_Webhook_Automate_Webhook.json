@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Workflow dashboard with mermaid.js",
+  "name": "Painel de fluxo de trabalho com sereia. js",
   "tags": [
     "automation",
     "n8n",
@@ -537,6 +537,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Workflow dashboard with mermaid.js. This workflow integrates 10 different services: webhook, stickyNote, code, n8n, switch. It contains 18 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Painel de fluxo de trabalho com sereia.Js. Este fluxo de trabalho integra 10 serviços diferentes: webhook, pegajoso Nota, código, n8n, interruptor. Contém 18 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Workflow dashboard with mermaid.js. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

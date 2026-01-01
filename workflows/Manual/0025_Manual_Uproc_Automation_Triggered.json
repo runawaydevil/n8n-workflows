@@ -1,6 +1,6 @@
 {
   "id": "104",
-  "name": "location_by_ip",
+  "name": "localização",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -144,7 +144,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: location_by_ip. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: location_by_ip. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-f6b69431",
     "versionId": "1.0.0",

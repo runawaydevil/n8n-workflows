@@ -1,6 +1,6 @@
 {
   "id": "82",
-  "name": "Create a new list, add a new contact to the list, update the contact, and get all contacts in the...",
+  "name": "Criar uma nova lista, adicionar um novo contato à lista, atualizar o contato, e obter todos os contatos no...",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -125,7 +125,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Create a new list, add a new contact to the list, update the contact, and get all contacts in the list. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Criar uma nova lista, adicionar um novo contato à lista, atualizar o contato, e obter todos os contatos na lista. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-afd4198e",
     "versionId": "1.0.0",

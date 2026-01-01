@@ -1,6 +1,6 @@
 {
   "id": "81",
-  "name": "Execute a command that gives the hard disk memory used on the host machine",
+  "name": "Execute um comando que dê a memória do disco rígido usado na máquina host",
   "nodes": [
     {
       "name": "Execute Command",
@@ -122,7 +122,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Execute a command that gives the hard disk memory used on the host machine. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Execute um comando que dê a memória do disco rígido usada na máquina hospedeira. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-90cd6cc8",
     "versionId": "1.0.0",

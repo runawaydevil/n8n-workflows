@@ -98,8 +98,8 @@
       ]
     }
   },
-  "name": "Executecommand Workflow",
-  "description": "Automated workflow: Executecommand Workflow. This workflow processes data and performs automated tasks.",
+  "name": "Executar fluxo de trabalho de comando",
+  "description": "Fluxo de trabalho automatizado: Executar comando de fluxo de trabalho. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,

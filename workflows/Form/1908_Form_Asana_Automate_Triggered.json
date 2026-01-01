@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Automate Your Customer Service With WhatsApp Business Cloud & Asana",
+  "name": "Automatize seu serviço ao cliente com WhatsApp Business Cloud e Asana",
   "tags": [
     "automation",
     "n8n",
@@ -186,6 +186,6 @@
   },
   "versionId": "1aedd3d7-f980-46dd-ac0b-af085e3dcf05",
   "connections": {},
-  "description": "Automated workflow: Automate Your Customer Service With WhatsApp Business Cloud & Asana. This workflow integrates 4 different services: asana, stickyNote, formTrigger, whatsApp. It contains 7 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Automatize seu serviço ao cliente com o quê? App Business Cloud & Asana. Este fluxo de trabalho integra 4 serviços diferentes: asana, pegajosoNota, formulárioTrigger, whatsApp. Contém 7 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Automate Your Customer Service With WhatsApp Business Cloud & Asana. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

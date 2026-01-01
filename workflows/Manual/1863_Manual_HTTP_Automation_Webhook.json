@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Fine-tuning with OpenAI models",
+  "name": "Afinação com modelos OpenAI",
   "tags": [
     "automation",
     "n8n",
@@ -328,6 +328,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Fine-tuning with OpenAI models. This workflow integrates 9 different services: stickyNote, httpRequest, agent, googleDrive, stopAndError. It contains 14 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Boa adaptação com modelos OpenAI. Este fluxo de trabalho integra 9 serviços diferentes: pegajosoNota, httpRequest, agente, googleDrive, paradaError. Contém 14 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Fine-tuning with OpenAI models. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

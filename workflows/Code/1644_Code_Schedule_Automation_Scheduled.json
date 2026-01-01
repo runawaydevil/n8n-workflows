@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "UTM Link Creator & QR Code Generator with Scheduled Google Analytics Reports",
+  "name": "UTM Link Creator & QR Gerador de Código com Relatórios Agendados do Google Analytics",
   "tags": [
     "automation",
     "n8n",
@@ -485,6 +485,6 @@
       ]
     }
   },
-  "description": "Automated workflow: UTM Link Creator & QR Code Generator with Scheduled Google Analytics Reports. This workflow integrates 13 different services: stickyNote, googleAnalyticsTool, httpRequest, airtable, code. It contains 18 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: UTM Link Creator & QR Gerador de Código com Relatórios Agendados do Google Analytics. Este fluxo de trabalho integra 13 serviços diferentes: Ferramenta, pedido de http, agenda, código. Contém 18 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: UTM Link Creator & QR Code Generator with Scheduled Google Analytics Reports. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

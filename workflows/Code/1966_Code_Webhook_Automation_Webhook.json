@@ -1647,6 +1647,6 @@
       ]
     }
   },
-  "description": "Automated workflow: puq-docker-immich-deploy. This workflow integrates 9 different services: webhook, stickyNote, code, switch, set. It contains 41 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Puq-docker-immich-deploy. Este fluxo de trabalho integra 9 serviços diferentes: webhook, pegajoso Nota, código, interruptor, conjunto. Contém 41 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: puq-docker-immich-deploy. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

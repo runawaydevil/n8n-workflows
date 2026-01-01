@@ -1,6 +1,6 @@
 {
   "id": "125",
-  "name": "Create a contact in Drift",
+  "name": "Criar um contato em Drift",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -61,7 +61,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Create a contact in Drift. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Criar um contato em Drift. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-76e5645c",
     "versionId": "1.0.0",

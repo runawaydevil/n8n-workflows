@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "OpenAI Personal Shopper with RAG and WooCommerce",
+  "name": "OpenAI Personal Shopper com RAG e WooCommerce",
   "tags": [
     "automation",
     "n8n",
@@ -701,6 +701,6 @@
       ]
     }
   },
-  "description": "Automated workflow: OpenAI Personal Shopper with RAG and WooCommerce. This workflow integrates 18 different services: stickyNote, httpRequest, textSplitterTokenSplitter, vectorStoreQdrant, agent. It contains 34 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Comprador pessoal OpenAI com RAG e WooCommerce. Este fluxo de trabalho integra 18 serviços diferentes: pegajosoNota, httpRequest, textoSplitterTokenSplitter, vetorStore Qdrant, agente. Contém 34 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: OpenAI Personal Shopper with RAG and WooCommerce. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

@@ -151,7 +151,7 @@
   ],
   "connections": {},
   "name": "Typeformtrigger Workflow",
-  "description": "Automated workflow: Typeformtrigger Workflow. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Fluxo de trabalho do tipo trigger. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,

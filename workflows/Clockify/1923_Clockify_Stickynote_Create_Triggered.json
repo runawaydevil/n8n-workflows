@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Add new clients from Notion to Clockify",
+  "name": "Adicione novos clientes de Notion para Clockify",
   "tags": [
     "automation",
     "n8n",
@@ -137,6 +137,6 @@
   },
   "versionId": "5edc08ae-df38-4c7f-9367-36dac7578351",
   "connections": {},
-  "description": "Automated workflow: Add new clients from Notion to Clockify. This workflow integrates 3 different services: notionTrigger, clockify, stickyNote. It contains 4 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Adicione novos clientes de Notion para Cloperify. Este fluxo de trabalho integra 3 serviços diferentes: noçãoTrigger, clockify, pegajosoNota. Contém 4 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "notes": "Excellent quality workflow: Add new clients from Notion to Clockify. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

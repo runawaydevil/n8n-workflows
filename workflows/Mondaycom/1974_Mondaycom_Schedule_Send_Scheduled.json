@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Microsoft Outlook AI Email Assistant",
+  "name": "Assistente de Email do Microsoft Outlook AI",
   "tags": [
     "automation",
     "n8n",
@@ -814,6 +814,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Microsoft Outlook AI Email Assistant. This workflow integrates 15 different services: microsoftOutlook, stickyNote, markdown, airtable, scheduleTrigger. It contains 29 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Assistente de Email do Microsoft Outlook AI. Este fluxo de trabalho integra 15 serviços diferentes: microsoftOutlook, pegajosoNote, marcação, airtable, agenda Trigger. Contém 29 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Microsoft Outlook AI Email Assistant. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

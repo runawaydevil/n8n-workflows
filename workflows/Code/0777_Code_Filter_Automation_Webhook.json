@@ -1067,6 +1067,6 @@
       ]
     }
   },
-  "description": "Automated workflow: mails2notion V2. This workflow integrates 15 different services: filter, httpRequest, stickyNote, airtable, code. It contains 42 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: mails2notion V2. Este fluxo de trabalho integra 15 serviços diferentes: filtro, httpRequest, pegajosoNota, airtable, código. Contém 42 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: mails2notion V2. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

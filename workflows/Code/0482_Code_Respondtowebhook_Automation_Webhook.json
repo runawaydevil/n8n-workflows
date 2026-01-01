@@ -11,7 +11,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "[n8n] YouTube Channel Advanced RSS Feeds Generator",
+  "name": "Canal do YouTube Gerador avançado de feeds RSS",
   "tags": [
     "automation",
     "n8n",
@@ -710,5 +710,5 @@
   },
   "staticData": "",
   "connections": {},
-  "description": "Production-ready workflow: [n8n] YouTube Channel Advanced RSS Feeds Generator. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
+  "description": "Fluxo de trabalho pronto para produção: YouTube Channel Gerador de Feeds RSS Avançado. Este fluxo de trabalho foi otimizado para uso de produção com manipulação de erros abrangente, segurança e documentação."
 }

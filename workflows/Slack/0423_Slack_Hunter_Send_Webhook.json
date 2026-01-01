@@ -341,7 +341,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Slack Workflow. This workflow integrates 8 different services: stickyNote, formTrigger, httpRequest, hunter, stopAndError. It contains 14 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Slack Workflow. Este fluxo de trabalho integra 8 serviços diferentes: pegajoso, formulárioTrigger, httpRequest, Hunter, stopAndError. Contém 14 nós e segue as melhores práticas para lidar com erros e segurança.",
   "meta": {
     "instanceId": "workflow-54225e57",
     "versionId": "1.0.0",

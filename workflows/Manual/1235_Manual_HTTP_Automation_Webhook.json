@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Google Trend Data Extract, Summarization with Bright Data & Google Gemini",
+  "name": "Extrato de Dados de Tendência do Google, Resumição com Dados Brilhantes e Google Gemini",
   "tags": [
     "automation",
     "n8n",
@@ -628,6 +628,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Google Trend Data Extract, Summarization with Bright Data & Google Gemini. This workflow integrates 12 different services: stickyNote, httpRequest, lmChatGoogleGemini, readWriteFile, chainLlm. It contains 26 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Extrato de Dados de Tendência do Google, Resumição com Dados Brilhantes e Google Gemini. Este fluxo de trabalho integra 12 serviços diferentes: pegajosoNota, httpRequest, lmChatGoogleGemini, readWriteFile, chainLlm. Contém 26 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Google Trend Data Extract, Summarization with Bright Data & Google Gemini. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

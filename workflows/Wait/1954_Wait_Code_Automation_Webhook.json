@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Namesilo Bulk Domain Availability [Template]",
+  "name": "Nomesilo Bulk Domain Availability",
   "tags": [
     "automation",
     "n8n",
@@ -253,6 +253,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Namesilo Bulk Domain Availability [Template]. This workflow integrates 9 different services: convertToFile, stickyNote, httpRequest, wait, code. It contains 13 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Nomesilo Bulk Domain Availability. Este fluxo de trabalho integra 9 serviços diferentes: converter ToFile, pegajosoNota, httpRequest, espere, código. Contém 13 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Namesilo Bulk Domain Availability [Template]. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

@@ -1,6 +1,6 @@
 {
   "id": "176",
-  "name": "Get the logo, icon, and information of a company and store it in Airtable",
+  "name": "Pegue o logotipo, ícone e informação de uma empresa e armazene-o no Airtable",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -129,7 +129,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Get the logo, icon, and information of a company and store it in Airtable. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Pegue o logotipo, ícone e informações de uma empresa e armazene no Airtable. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-9b5be2ec",
     "versionId": "1.0.0",

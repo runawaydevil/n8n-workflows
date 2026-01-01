@@ -300,7 +300,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Lmchatopenai Workflow. This workflow integrates 6 different services: webhook, stickyNote, agent, respondToWebhook, stopAndError. It contains 12 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Lmchatopenai fluxo de trabalho. Este fluxo de trabalho integra 6 serviços diferentes: webhook, pegajosoNota, agente, responda aWebhook, pareAndError. Contém 12 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "tags": [
     "automation",
     "n8n",

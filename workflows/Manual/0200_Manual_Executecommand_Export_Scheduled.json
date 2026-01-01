@@ -1,6 +1,6 @@
 {
   "id": "15",
-  "name": "Tools / Backup Gitlab",
+  "name": "Ferramentas / Backup Gitlab",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -142,7 +142,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Tools / Backup Gitlab. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Ferramentas / Backup Gitlab. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-a2d2ee22",
     "versionId": "1.0.0",

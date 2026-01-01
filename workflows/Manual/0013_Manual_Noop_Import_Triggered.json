@@ -1,6 +1,6 @@
 {
   "id": "1028",
-  "name": "Loading data into a spreadsheet",
+  "name": "Carregando dados em uma planilha",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -98,7 +98,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Loading data into a spreadsheet. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Carregando dados em uma planilha. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-fb002e7a",
     "versionId": "1.0.0",

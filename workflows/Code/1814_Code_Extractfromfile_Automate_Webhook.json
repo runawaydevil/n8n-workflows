@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "n8n workflow deployer",
+  "name": "implantador de fluxo de trabalho n8n",
   "tags": [
     "automation",
     "n8n",
@@ -752,6 +752,6 @@
       ]
     }
   },
-  "description": "Automated workflow: n8n workflow deployer. This workflow integrates 9 different services: stickyNote, httpRequest, googleDriveTrigger, code, googleDrive. It contains 31 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Implantador de fluxo de trabalho n8n. Este fluxo de trabalho integra 9 serviços diferentes: pegajosoNota, httpRequest, googleDriveTrigger, código, google Dirija. Contém 31 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: n8n workflow deployer. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

@@ -914,7 +914,7 @@
       ]
     }
   },
-  "name": "Memorybufferwindow Workflow",
+  "name": "Vitrine da memória Fluxo de trabalho",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -927,7 +927,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Memorybufferwindow Workflow. This workflow integrates 16 different services: microsoftOutlook, httpRequest, stickyNote, toolHttpRequest, code. It contains 33 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Fluxo de trabalho da janela da memória. Este fluxo de trabalho integra 16 serviços diferentes: microsoftOutlook, httpRequest, pegajosoNota, ferramenta HttpPedido, código. Contém 33 nós e segue as melhores práticas para lidar com erros e segurança.",
   "tags": [
     "automation",
     "n8n",

@@ -628,7 +628,7 @@
       ]
     }
   },
-  "name": "Chattrigger Workflow",
+  "name": "Fluxo de trabalho Chattrigger",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -641,7 +641,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Chattrigger Workflow. This workflow integrates 18 different services: stickyNote, textSplitterTokenSplitter, splitInBatches, vectorStoreQdrant, agent. It contains 33 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Fluxo de Trabalho Chattrigger. Este fluxo de trabalho integra 18 serviços diferentes: TokenSplitter, splitInBatches, vetorStore Qdrant, agente. Contém 33 nós e segue as melhores práticas para lidar com erros e segurança.",
   "tags": [
     "automation",
     "n8n",

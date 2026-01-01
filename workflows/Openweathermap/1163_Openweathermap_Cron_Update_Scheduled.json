@@ -1,6 +1,6 @@
 {
   "id": "84",
-  "name": "Send daily weather updates to a phone number using the Vonage node",
+  "name": "Envie atualizações diárias do tempo para um número de telefone usando o nó Vonage",
   "nodes": [
     {
       "name": "Vonage",
@@ -88,7 +88,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Send daily weather updates to a phone number using the Vonage node. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Envie atualizações diárias para um número de telefone usando o nó Vonage. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-1700ab50",
     "versionId": "1.0.0",

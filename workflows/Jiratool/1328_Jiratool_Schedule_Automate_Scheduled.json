@@ -952,7 +952,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Lmchatopenai Workflow. This workflow integrates 18 different services: textClassifier, notionTool, stickyNote, scheduleTrigger, agent. It contains 42 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Lmchatopenai fluxo de trabalho. Este fluxo de trabalho integra 18 serviços diferentes: textClassifier, notionTool, pegajosoNote, agenda Trigger, agente. Contém 42 nós e segue as melhores práticas para lidar com erros e segurança.",
   "tags": [
     "automation",
     "n8n",

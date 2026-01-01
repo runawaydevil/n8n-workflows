@@ -95,8 +95,8 @@
     }
   ],
   "connections": {},
-  "name": "Gotowebinar Workflow",
-  "description": "Automated workflow: Gotowebinar Workflow. This workflow processes data and performs automated tasks.",
+  "name": "Ir para Webinar Workflow",
+  "description": "Fluxo de trabalho automatizado: Ir para Webinar Workflow. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,

@@ -1,6 +1,6 @@
 {
   "id": "127",
-  "name": "Create a user profile in Vero",
+  "name": "Crie um perfil de usuário em Vero",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -61,7 +61,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Create a user profile in Vero. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Crie um perfil de usuário em Vero. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-227968a8",
     "versionId": "1.0.0",

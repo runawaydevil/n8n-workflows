@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Post on X",
+  "name": "Postar em X",
   "tags": [
     "automation",
     "n8n",
@@ -275,6 +275,6 @@
   },
   "versionId": "9129144f-d078-48f8-825a-7f8bbda4570b",
   "connections": {},
-  "description": "Automated workflow: Post on X. This workflow integrates 5 different services: stickyNote, formTrigger, set, airtop, executeWorkflowTrigger. It contains 9 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Postar no X. Este fluxo de trabalho integra 5 serviços diferentes: pegajosoNota, formulárioTrigger, conjunto, airtop, executarWorkflowTrigger. Contém 9 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Post on X. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

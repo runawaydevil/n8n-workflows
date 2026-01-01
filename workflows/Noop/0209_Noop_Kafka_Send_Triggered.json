@@ -1,6 +1,6 @@
 {
   "id": "166",
-  "name": "Receive messages from a topic and send an SMS",
+  "name": "Receba mensagens de um tópico e envie um SMS",
   "nodes": [
     {
       "name": "Kafka Trigger",
@@ -105,7 +105,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Receive messages from a topic and send an SMS. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Receba mensagens de um tópico e envie um SMS. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-07d92b55",
     "versionId": "1.0.0",

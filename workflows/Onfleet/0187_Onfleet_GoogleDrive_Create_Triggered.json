@@ -1,5 +1,5 @@
 {
-  "name": "Create an Onfleet task when a file in Google Drive is updated",
+  "name": "Crie uma tarefa Onfleet quando um arquivo no Google Drive é atualizado",
   "nodes": [
     {
       "name": "Google Drive Trigger",
@@ -67,7 +67,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Create an Onfleet task when a file in Google Drive is updated. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Crie uma tarefa Onfleet quando um arquivo no Google Drive é atualizado. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-a2b59a80",
     "versionId": "1.0.0",

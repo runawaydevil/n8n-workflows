@@ -263,7 +263,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Stickynote Workflow. This workflow integrates 6 different services: postgresTool, stickyNote, agent, stopAndError, lmChatOpenAi. It contains 12 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Fluxo de trabalho. Este fluxo de trabalho integra 6 serviços diferentes: pós-gres Ferramenta, pegajosoNota, agente, pareErro, ImChatOpen Ai. Contém 12 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "meta": {
     "instanceId": "workflow-c79ffb5f",
     "versionId": "1.0.0",

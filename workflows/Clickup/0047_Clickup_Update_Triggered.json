@@ -1,6 +1,6 @@
 {
   "id": "110",
-  "name": "Receive updates for events in ClickUp",
+  "name": "Receba atualizações para eventos em ClickUp",
   "nodes": [
     {
       "name": "ClickUp Trigger",
@@ -52,7 +52,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Receive updates for events in ClickUp. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Receba atualizações para eventos em ClickUp. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-234e1b54",
     "versionId": "1.0.0",

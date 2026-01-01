@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "RAG AI Agent with Milvus and Cohere",
+  "name": "RAG AI Agente com Milvus e Cohere",
   "tags": [
     "automation",
     "n8n",
@@ -386,6 +386,6 @@
       ]
     }
   },
-  "description": "Automated workflow: RAG AI Agent with Milvus and Cohere. This workflow integrates 13 different services: stickyNote, googleDriveTrigger, textSplitterRecursiveCharacterTextSplitter, agent, googleDrive. It contains 18 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: agente de IA com Milvus e Cohere. Este fluxo de trabalho integra 13 serviços diferentes: DriveTrigger, textSplitterRecursivoCharacterTextSplitter, agente, Google Dirija. Contém 18 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: RAG AI Agent with Milvus and Cohere. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

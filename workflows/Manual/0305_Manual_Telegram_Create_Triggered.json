@@ -1,6 +1,6 @@
 {
   "id": "191",
-  "name": "Create a screenshot of a website and send it to a telegram channel",
+  "name": "Criar uma imagem de um site e enviá-lo para um canal de telegrama",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -85,7 +85,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Create a screenshot of a website and send it to a telegram channel. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Crie uma imagem de um site e envie para um canal de telegramas. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-815e0d5a",
     "versionId": "1.0.0",

@@ -387,7 +387,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Noop Workflow. This workflow integrates 8 different services: stickyNote, httpRequest, hubspot, set, stopAndError. It contains 14 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Noop Workflow. Este fluxo de trabalho integra 8 serviços diferentes: pegajosoNota, httpRequest, hubspot, set, stopError. Contém 14 nós e segue as melhores práticas para lidar com erros e segurança.",
   "meta": {
     "instanceId": "workflow-b46d7437",
     "versionId": "1.0.0",

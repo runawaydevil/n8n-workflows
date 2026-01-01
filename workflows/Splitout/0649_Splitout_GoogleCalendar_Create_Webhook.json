@@ -1576,7 +1576,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Gmail Workflow. This workflow integrates 19 different services: stickyNote, scheduleTrigger, merge, switch, lmChatOpenAi. It contains 68 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Gmail Workflow. Este fluxo de trabalho integra 19 serviços diferentes: pegajoso Nota, horário Ativar, fundir, trocar, ImChatOpen Ai. Contém 68 nós e segue as melhores práticas para lidar com erros e segurança.",
   "tags": [
     "automation",
     "n8n",

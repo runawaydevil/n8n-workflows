@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "MongoDB Agent",
+  "name": "MongoDB Agente",
   "tags": [
     "automation",
     "n8n",
@@ -219,6 +219,6 @@
       ]
     }
   },
-  "description": "Automated workflow: MongoDB Agent. This workflow integrates 8 different services: stickyNote, agent, mongoDbTool, stopAndError, lmChatOpenAi. It contains 9 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: MongoDB Agente. Este fluxo de trabalho integra 8 serviços diferentes: pegajoso Nota, agente, MongoDbTool, pareError, lmChatOpenAi. Contém 9 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: MongoDB Agent. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

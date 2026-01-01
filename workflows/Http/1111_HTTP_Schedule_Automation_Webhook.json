@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Automating Betting Data Retrieval with TheOddsAPI and Airtable",
+  "name": "Automatizando a recuperação de dados com TheOddsAPI e Airtable",
   "tags": [
     "automation",
     "n8n",
@@ -647,6 +647,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Automating Betting Data Retrieval with TheOddsAPI and Airtable. This workflow integrates 6 different services: stickyNote, httpRequest, airtable, scheduleTrigger, merge. It contains 14 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Automatizando a recuperação de dados com TheOdds API e Airtable. Este fluxo de trabalho integra 6 serviços diferentes: pegajosoNota, httpRequest, airtable, agendaTrigger, mesclar. Contém 14 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Automating Betting Data Retrieval with TheOddsAPI and Airtable. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

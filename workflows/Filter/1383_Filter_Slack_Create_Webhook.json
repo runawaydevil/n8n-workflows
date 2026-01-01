@@ -544,7 +544,7 @@
       ]
     }
   },
-  "name": "Lineartrigger Workflow",
+  "name": "Fluxo de Trabalho Lineartrigger",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -557,7 +557,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Lineartrigger Workflow. This workflow integrates 11 different services: filter, httpRequest, stickyNote, linearTrigger, merge. It contains 16 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Fluxo de trabalho linear. Este fluxo de trabalho integra 11 serviços diferentes: filtro, httpRequest, pegajosoNota, linearTrigger, mesclar. Contém 16 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "tags": [
     "automation",
     "n8n",

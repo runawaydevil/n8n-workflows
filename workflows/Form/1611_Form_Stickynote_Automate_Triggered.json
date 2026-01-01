@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Automated Form Submission Data Storage in Airtable",
+  "name": "Armazenagem automática de dados em Airtable",
   "tags": [
     "automation",
     "n8n",
@@ -254,6 +254,6 @@
   },
   "versionId": "3363354f-4c97-4090-a2ff-3139e663549b",
   "connections": {},
-  "description": "Automated workflow: Automated Form Submission Data Storage in Airtable. This workflow integrates 3 different services: stickyNote, formTrigger, airtable. It contains 4 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Depósito automático de dados de envio de formulário em Airtable. Este fluxo de trabalho integra 3 serviços diferentes: pegajosoNota, formulárioTrigger, airtable. Contém 4 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "notes": "Excellent quality workflow: Automated Form Submission Data Storage in Airtable. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

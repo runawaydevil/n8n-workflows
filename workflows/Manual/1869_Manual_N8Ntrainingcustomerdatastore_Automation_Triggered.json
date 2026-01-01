@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "itemMatching() example",
+  "name": "exemplo de itemMatching()",
   "tags": [
     "automation",
     "n8n",
@@ -178,6 +178,6 @@
   },
   "versionId": "02e18c8e-1bec-4170-a2d0-72ec6e063273",
   "connections": {},
-  "description": "Automated workflow: itemMatching() example. This workflow integrates 5 different services: stickyNote, code, set, manualTrigger, n8nTrainingCustomerDatastore. It contains 8 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: exemplo itemMatching(). Este fluxo de trabalho integra 5 serviços diferentes: pegajoso Nota, código, conjunto, manualTrigger, N8nTrainingClienteDatastore. Ele contém 8 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: itemMatching() example. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

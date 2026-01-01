@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Stripe Payment Order Sync – Auto Retrieve Customer & Product Purchased",
+  "name": "Stripe Payment Order Sync – Recuperar Automático Cliente e Produto Comprado",
   "tags": [
     "automation",
     "n8n",
@@ -201,6 +201,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Stripe Payment Order Sync – Auto Retrieve Customer & Product Purchased. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Stripe Payment Order Sync - Auto Recupere Cliente e Produto Comprado. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "notes": "Excellent quality workflow: Stripe Payment Order Sync – Auto Retrieve Customer & Product Purchased. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Agentic Telegram AI bot with LangChain nodes and new tools",
+  "name": "Agentic Telegram AI bot com nós LangChain e novas ferramentas",
   "tags": [
     "automation",
     "n8n",
@@ -333,6 +333,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Agentic Telegram AI bot with LangChain nodes and new tools. This workflow integrates 9 different services: telegramTrigger, stickyNote, telegram, toolHttpRequest, telegramTool. It contains 14 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: bot Agentic Telegram IA com nós LangChain e novas ferramentas. Este fluxo de trabalho integra 9 serviços diferentes: telegrama Trigger, pegajosoNota, telegrama, ferramenta HttpRequest, ferramenta de telegrama. Contém 14 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Agentic Telegram AI bot with LangChain nodes and new tools. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

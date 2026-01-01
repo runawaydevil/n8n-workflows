@@ -1,6 +1,6 @@
 {
   "id": "42",
-  "name": "Receive updates when a form submission occurs in your Webflow website",
+  "name": "Receba atualizações quando uma submissão de formulário ocorrer em seu site Webflow",
   "nodes": [
     {
       "name": "Webflow Trigger",
@@ -50,7 +50,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Receive updates when a form submission occurs in your Webflow website. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Receba atualizações quando um formulário ocorrer em seu site. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-39b5702e",
     "versionId": "1.0.0",

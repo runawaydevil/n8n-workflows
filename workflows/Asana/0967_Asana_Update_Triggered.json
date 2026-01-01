@@ -1,6 +1,6 @@
 {
   "id": "47",
-  "name": "Receive updates when an event occurs in Asana",
+  "name": "Receba atualizações quando um evento ocorrer em Asana",
   "nodes": [
     {
       "name": "Asana-Trigger",
@@ -50,7 +50,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Receive updates when an event occurs in Asana. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Receba atualizações quando um evento ocorrer em Asana. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-4cfb16a5",
     "versionId": "1.0.0",

@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "AI agent: expense tracker in Google Sheets and n8n chat",
+  "name": "Agente de IA: rastreador de despesas no Google Sheets e bate-papo",
   "tags": [
     "automation",
     "n8n",
@@ -375,6 +375,6 @@
       ]
     }
   },
-  "description": "Automated workflow: AI agent: expense tracker in Google Sheets and n8n chat. This workflow integrates 10 different services: stickyNote, agent, informationExtractor, stopAndError, lmChatOpenAi. It contains 13 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Agente de IA: rastreador de despesas no Google Sheets e bate-papo. Este fluxo de trabalho integra 10 serviços diferentes: pegajosoNota, agente, informationExtractor, stopAndError, ImChatOpen Ai. Contém 13 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: AI agent: expense tracker in Google Sheets and n8n chat. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

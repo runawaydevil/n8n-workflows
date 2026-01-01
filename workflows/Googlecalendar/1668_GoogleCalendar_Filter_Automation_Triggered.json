@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Calendar_scheduling",
+  "name": "Calendário_agendando",
   "tags": [
     "automation",
     "n8n",
@@ -532,6 +532,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Calendar_scheduling. This workflow integrates 15 different services: stickyNote, itemLists, filter, gmailTrigger, agent. It contains 24 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: agendamento. Este fluxo de trabalho integra 15 serviços diferentes: pegajosoNota, itemListas, filtro, gmailTrigger, agente. Contém 24 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Calendar_scheduling. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

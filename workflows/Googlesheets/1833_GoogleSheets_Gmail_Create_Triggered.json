@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Add new incoming emails to a Google Sheets spreadsheet as a new row.",
+  "name": "Adicione novos e-mails para uma planilha do Google Sheets como uma nova linha.",
   "tags": [
     "automation",
     "n8n",
@@ -200,6 +200,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Add new incoming emails to a Google Sheets spreadsheet as a new row.. This workflow integrates 4 different services: gmailTrigger, stickyNote, googleSheets, stopAndError. It contains 5 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Adicione novos e-mails para uma planilha do Google Sheets como uma nova linha. Este fluxo de trabalho integra 4 serviços diferentes: GmailTrigger, pegajosoNota, Google Lençóis, pare. E Error. Contém 5 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Add new incoming emails to a Google Sheets spreadsheet as a new row.. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Auto - Resume Disabled Workflows",
+  "name": "Auto - Retomar fluxos de trabalho deficientes",
   "tags": [
     "automation",
     "n8n",
@@ -169,6 +169,6 @@
   },
   "versionId": "ff4414a4-de17-43a6-9da2-144a6e4cb773",
   "connections": {},
-  "description": "Automated workflow: Auto - Resume Disabled Workflows. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Auto... Retomar fluxos de trabalho deficientes. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "notes": "Excellent quality workflow: Auto - Resume Disabled Workflows. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

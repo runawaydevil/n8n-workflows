@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Import Odoo Product Images from Google Drive",
+  "name": "Importar imagens do produto Odoo do Google Drive",
   "tags": [
     "automation",
     "n8n",
@@ -746,6 +746,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Import Odoo Product Images from Google Drive. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Importar imagens do produto Odoo do Google Drive. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "notes": "Excellent quality workflow: Import Odoo Product Images from Google Drive. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

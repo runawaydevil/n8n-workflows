@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Translate",
+  "name": "Traduzir",
   "tags": [
     "automation",
     "n8n",
@@ -388,6 +388,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Translate. This workflow integrates 11 different services: convertToFile, stickyNote, formTrigger, googleTranslate, code. It contains 18 nodes and follows best practices for error handling and security.",
+  "description": "Traduzir. Este fluxo de trabalho integra 11 serviços diferentes: ConvertToFile, pegajosoNota, formTrigger, google Traduzir, código. Contém 18 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Translate. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

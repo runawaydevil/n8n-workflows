@@ -1,6 +1,6 @@
 {
   "id": "46",
-  "name": "Cocktail Recipe Sharing",
+  "name": "Recibo de coquetel compartilhado",
   "nodes": [
     {
       "name": "Bannerbear",
@@ -141,5 +141,5 @@
     "excellent",
     "optimized"
   ],
-  "description": "Production-ready workflow: Cocktail Recipe Sharing. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
+  "description": "Fluxo de trabalho pronto para produção: Recipe de coquetel compartilhado. Este fluxo de trabalho foi otimizado para uso de produção com manipulação de erros abrangente, segurança e documentação."
 }

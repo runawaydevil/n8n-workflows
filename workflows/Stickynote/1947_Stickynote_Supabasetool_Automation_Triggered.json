@@ -625,6 +625,6 @@
       ]
     }
   },
-  "description": "Automated workflow: MCP_SUPABASE_AGENT. This workflow integrates 6 different services: stickyNote, supabaseTool, mcpTrigger, stopAndError, embeddingsOpenAi. It contains 28 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: MCP_SUPABASE_AGENT. Este fluxo de trabalho integra 6 serviços diferentes: Ferramenta, McpTrigger, pareErro, incorporação OpenAi. Contém 28 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: MCP_SUPABASE_AGENT. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

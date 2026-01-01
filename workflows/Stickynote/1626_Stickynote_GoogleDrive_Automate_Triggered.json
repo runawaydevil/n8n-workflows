@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "RAG Workflow For Company Documents stored in Google Drive",
+  "name": "RAG Workflow para documentos da empresa armazenados no Google Drive",
   "tags": [
     "automation",
     "n8n",
@@ -501,6 +501,6 @@
       ]
     }
   },
-  "description": "Automated workflow: RAG Workflow For Company Documents stored in Google Drive. This workflow integrates 13 different services: stickyNote, vectorStorePinecone, embeddingsGoogleGemini, googleDriveTrigger, textSplitterRecursiveCharacterTextSplitter. It contains 25 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Fluxo de trabalho para documentos da empresa armazenados no Google Drive. Este fluxo de trabalho integra 13 serviços diferentes: pegajosoNota, vetorStorePinecone, incorporação Google Gemini, Google DriveTrigger, SMSSplitterRecursivoCharacterTextSplitter. Contém 25 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: RAG Workflow For Company Documents stored in Google Drive. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

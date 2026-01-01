@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Scrape Trustpilot Reviews with DeepSeek, Analyze Sentiment with OpenAI",
+  "name": "Scrape Trustpilot Reviews com DeepSeek, Analyze Sentiment com OpenAI",
   "tags": [
     "automation",
     "n8n",
@@ -957,6 +957,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Scrape Trustpilot Reviews with DeepSeek, Analyze Sentiment with OpenAI. This workflow integrates 13 different services: stickyNote, httpRequest, splitOut, informationExtractor, set. It contains 29 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Revisão do piloto de confiança com DeepSeek, Analise Sentiment com OpenAI. Este fluxo de trabalho integra 13 serviços diferentes: pegajosoNota, httpRequest, splitOut, informationExtractor, set. Contém 29 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Scrape Trustpilot Reviews with DeepSeek, Analyze Sentiment with OpenAI. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

@@ -268,7 +268,7 @@
       ]
     }
   },
-  "name": "Postgrestrigger Workflow",
+  "name": "Fluxo de trabalho pós-grestrigger",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -281,7 +281,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Postgrestrigger Workflow. This workflow integrates 7 different services: filter, stickyNote, code, stopAndError, postgresTrigger. It contains 10 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Fluxo de trabalho pós-grestrigger. Este fluxo de trabalho integra 7 serviços diferentes: filtro, pegajosoNota, código, paradaError, pós-gres Trigger. Contém 10 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "meta": {
     "instanceId": "workflow-cb4d239c",
     "versionId": "1.0.0",

@@ -498,7 +498,7 @@
   ],
   "pinData": {},
   "connections": {},
-  "name": "If Workflow",
+  "name": "Se o fluxo de trabalho",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -511,7 +511,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: If Workflow. This workflow integrates 7 different services: stickyNote, filter, hubspot, clearbit, calendlyTrigger. It contains 16 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Se o fluxo de trabalho. Este fluxo de trabalho integra 7 serviços diferentes: pegajosoNota, filtro, hubspot, clearbit, calendly Trigger. Contém 16 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "tags": [
     "automation",
     "n8n",

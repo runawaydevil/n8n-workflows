@@ -385,7 +385,7 @@
       ]
     }
   },
-  "name": "Filter Workflow",
+  "name": "Fluxo de trabalho do filtro",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -398,7 +398,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Filter Workflow. This workflow integrates 7 different services: webhook, filter, stickyNote, clearbit, stopAndError. It contains 15 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Fluxo de trabalho de filtro. Este fluxo de trabalho integra 7 serviços diferentes: webhook, filtro, pegajosoNota, Clearbit, paradaError. Contém 15 nós e segue as melhores práticas para lidar com erros e segurança.",
   "tags": [
     "automation",
     "n8n",

@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "ERP AI chatbot for Odoo sales module",
+  "name": "ERP AI chatbot para módulo de vendas Odoo",
   "tags": [
     "automation",
     "n8n",
@@ -450,6 +450,6 @@
       ]
     }
   },
-  "description": "Automated workflow: ERP AI chatbot for Odoo sales module. This workflow integrates 16 different services: convertToFile, stickyNote, scheduleTrigger, agent, readWriteFile. It contains 22 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Chatbot ERP AI para módulo de vendas Odoo. Este fluxo de trabalho integra 16 serviços diferentes: converter ToFile, pegajosoNota, agenda Trigger, agente, leia o Arquivo. Contém 22 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: ERP AI chatbot for Odoo sales module. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

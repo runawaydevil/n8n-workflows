@@ -253,7 +253,7 @@
       ]
     }
   },
-  "name": "N8Ntrainingcustomerdatastore Workflow",
+  "name": "N8N treinando loja de dados de clientes Fluxo de trabalho",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -266,7 +266,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: N8Ntrainingcustomerdatastore Workflow. This workflow integrates 7 different services: webhook, stickyNote, set, respondToWebhook, stopAndError. It contains 13 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: treinamento de clientes N8N, fluxo de trabalho. Este fluxo de trabalho integra 7 serviços diferentes: webhook, pegajosoNote, definido, responda ao Webhook, pareError. Contém 13 nós e segue as melhores práticas para lidar com erros e segurança.",
   "tags": [
     "automation",
     "n8n",

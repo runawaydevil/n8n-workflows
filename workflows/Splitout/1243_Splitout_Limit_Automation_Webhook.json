@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Agent Milvus tool",
+  "name": "Agente Milvus ferramenta",
   "tags": [
     "automation",
     "n8n",
@@ -590,6 +590,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Agent Milvus tool. This workflow integrates 14 different services: stickyNote, httpRequest, textSplitterRecursiveCharacterTextSplitter, agent, splitOut. It contains 28 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Agente Ferramenta Milvus. Este fluxo de trabalho integra 14 serviços diferentes: pegajosoNota, httpRequest, textoSplitterRecursivoCharacterTextSplitter, agente, separado. Contém 28 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Agent Milvus tool. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

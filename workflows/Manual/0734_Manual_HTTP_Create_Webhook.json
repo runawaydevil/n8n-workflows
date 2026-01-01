@@ -1,5 +1,5 @@
 {
-  "name": "Generate Image Workflow",
+  "name": "Gerar fluxo de trabalho de imagem",
   "tags": [
     "automation",
     "n8n",
@@ -173,7 +173,7 @@
       ]
     }
   },
-  "description": "Automated workflow: Generate Image Workflow. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Gerar fluxo de trabalho de imagem. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-83a0e74a",
     "versionId": "1.0.0",

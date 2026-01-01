@@ -1,6 +1,6 @@
 {
   "id": "6",
-  "name": "Dashboard",
+  "name": "Painel",
   "nodes": [
     {
       "name": "Cron",
@@ -669,5 +669,5 @@
     "excellent",
     "optimized"
   ],
-  "description": "Production-ready workflow: Dashboard. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
+  "description": "Fluxo de trabalho pronto para produção: Painel. Este fluxo de trabalho foi otimizado para uso de produção com manipulação de erros abrangente, segurança e documentação."
 }

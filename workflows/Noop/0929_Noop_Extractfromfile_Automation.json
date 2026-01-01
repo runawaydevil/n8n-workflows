@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "OpenAI e-mail classification - application",
+  "name": "OpenAI classificação de e-mail - aplicação",
   "tags": [
     "automation",
     "n8n",
@@ -359,6 +359,6 @@
       ]
     }
   },
-  "description": "Automated workflow: OpenAI e-mail classification - application. This workflow integrates 8 different services: textClassifier, stickyNote, informationExtractor, stopAndError, lmChatOpenAi. It contains 14 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Classificação de e-mail OpenAI - aplicação. Este fluxo de trabalho integra 8 serviços diferentes: textClassifier, pegajosoNota, informaçõesExtrator, stopAndError, lmChatOpen Ai. Contém 14 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: OpenAI e-mail classification - application. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

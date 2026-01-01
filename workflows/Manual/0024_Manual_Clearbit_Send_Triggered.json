@@ -1,6 +1,6 @@
 {
   "id": "104",
-  "name": "Look up a person using their email in Clearbit",
+  "name": "Procure uma pessoa usando seu e-mail em Clearbit",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -62,7 +62,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Look up a person using their email in Clearbit. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Procure uma pessoa usando seu e-mail em Clearbit. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-eb290aa8",
     "versionId": "1.0.0",

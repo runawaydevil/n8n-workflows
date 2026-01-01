@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Automated Research Report Generation with OpenAI, Wikipedia, Google Search, and Gmail/Telegram",
+  "name": "Geração de relatórios de pesquisa automatizada com OpenAI, Wikipedia, Google Search e Gmail/Telegram",
   "tags": [
     "automation",
     "n8n",
@@ -1143,6 +1143,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Automated Research Report Generation with OpenAI, Wikipedia, Google Search, and Gmail/Telegram. This workflow integrates 18 different services: stickyNote, httpRequest, telegram, toolHttpRequest, code. It contains 43 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Geração automática de relatórios de pesquisa com OpenAI, Wikipedia, Google Search e Gmail/Telegram. Este fluxo de trabalho integra 18 serviços diferentes: pegajosoNota, httpRequest, telegrama, ferramenta HttpPedido, código. Contém 43 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Automated Research Report Generation with OpenAI, Wikipedia, Google Search, and Gmail/Telegram. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

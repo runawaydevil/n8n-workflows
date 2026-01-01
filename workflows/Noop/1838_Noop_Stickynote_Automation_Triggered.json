@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Dynamically switch between LLMs Template",
+  "name": "Mudança dinâmica entre o modelo LLMs",
   "tags": [
     "automation",
     "n8n",
@@ -585,6 +585,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Dynamically switch between LLMs Template. This workflow integrates 10 different services: stickyNote, code, chainLlm, set, stopAndError. It contains 26 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Mudança dinâmica entre o modelo LLMs. Este fluxo de trabalho integra 10 serviços diferentes: pegajosoNota, código, correnteLlm, conjunto, paradaError. Contém 26 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Dynamically switch between LLMs Template. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

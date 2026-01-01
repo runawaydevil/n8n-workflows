@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Build an OpenAI Assistant with Google Drive Integration",
+  "name": "Construir um assistente OpenAI com integração do Google Drive",
   "tags": [
     "automation",
     "n8n",
@@ -362,6 +362,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Build an OpenAI Assistant with Google Drive Integration. This workflow integrates 7 different services: stickyNote, googleDrive, stopAndError, manualTrigger, memoryBufferWindow. It contains 17 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: construir um assistente OpenAI com integração do Google Drive. Este fluxo de trabalho integra 7 serviços diferentes: pegajosoNota, googleDrive, stopAndError, manualTrigger, memóriaBufferWindow. Contém 17 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "notes": "Excellent quality workflow: Build an OpenAI Assistant with Google Drive Integration. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

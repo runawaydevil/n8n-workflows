@@ -44,7 +44,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Ssetrigger Workflow. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Ssetrigger Workflow. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-35e5e6fa",
     "versionId": "1.0.0",

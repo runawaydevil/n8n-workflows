@@ -1,6 +1,6 @@
 {
   "id": "95",
-  "name": "Create an organization in Affinity",
+  "name": "Criar uma organização na Afinidade",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -62,7 +62,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Create an organization in Affinity. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Criar uma organização na Afinidade. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-acc35aee",
     "versionId": "1.0.0",

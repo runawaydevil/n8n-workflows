@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "AutoClip – Automatically Generate Video Clips and Upload to YouTube",
+  "name": "AutoClip – Gerar automaticamente clipes de vídeo e enviar para o YouTube",
   "tags": [
     "automation",
     "n8n",
@@ -1025,6 +1025,6 @@
       ]
     }
   },
-  "description": "Automated workflow: AutoClip – Automatically Generate Video Clips and Upload to YouTube. This workflow integrates 11 different services: stickyNote, httpRequest, code, readWriteFile, merge. It contains 39 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: AutoClip - Gerar automaticamente clipes de vídeo e enviar para o YouTube. Este fluxo de trabalho integra 11 serviços diferentes: pegajosoNota, httpPedido, código, arquivo de leitura, mesclar. Contém 39 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: AutoClip – Automatically Generate Video Clips and Upload to YouTube. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Daylight Saving Time Notification",
+  "name": "Notificação de horário de verão",
   "tags": [
     "automation",
     "n8n",
@@ -334,6 +334,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Daylight Saving Time Notification. This workflow integrates 10 different services: stickyNote, code, scheduleTrigger, set, stopAndError. It contains 12 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Notificação de horário de verão. Este fluxo de trabalho integra 10 serviços diferentes: pegajoso Nota, código, horário Trigger, preparar, parar Error. Contém 12 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "notes": "Excellent quality workflow: Daylight Saving Time Notification. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

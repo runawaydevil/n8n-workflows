@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Summarize Google Drive Documents with Mistral AI and Send via Gmail",
+  "name": "Resumir documentos do Google Drive com IA Mistral e enviar via Gmail",
   "tags": [
     "automation",
     "n8n",
@@ -170,6 +170,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Summarize Google Drive Documents with Mistral AI and Send via Gmail. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Resumir documentos do Google Drive com IA Mistral e enviar via Gmail. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "notes": "Excellent quality workflow: Summarize Google Drive Documents with Mistral AI and Send via Gmail. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

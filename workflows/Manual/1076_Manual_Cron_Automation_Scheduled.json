@@ -1,6 +1,6 @@
 {
   "id": "60",
-  "name": "n8n_mysql_purge_history_greater_than_10_days",
+  "name": "n8n_mysql_purge_história maior do que 10_dias",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -81,7 +81,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: n8n_mysql_purge_history_greater_than_10_days. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: N8n_mysql_purge_history_great_than_10_days. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-a95b5b0f",
     "versionId": "1.0.0",

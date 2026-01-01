@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Streamline data from an n8n form into Google Sheet and Airtable",
+  "name": "Transfira dados de um formulário N8n para o Google Sheet and Airtable",
   "tags": [
     "automation",
     "n8n",
@@ -439,6 +439,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Streamline data from an n8n form into Google Sheet and Airtable. This workflow integrates 8 different services: stickyNote, formTrigger, airtable, code, set. It contains 11 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Transfira dados de um formulário N8 para o Google Sheet and Airtable. Este fluxo de trabalho integra 8 serviços diferentes: pegajoso Nota, formulárioTrigger, airtable, código, conjunto. Ele contém 11 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Streamline data from an n8n form into Google Sheet and Airtable. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

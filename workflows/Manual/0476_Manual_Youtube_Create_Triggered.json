@@ -1,6 +1,6 @@
 {
   "id": "21",
-  "name": "Upload video, create playlist and add video to playlist",
+  "name": "Envie vídeo, crie playlist e adicione vídeo para playlist",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -120,7 +120,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Upload video, create playlist and add video to playlist. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Envie vídeo, crie playlist e adicione vídeo para playlist. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-aa4fb201",
     "versionId": "1.0.0",

@@ -1,6 +1,6 @@
 {
   "id": "123",
-  "name": "Create a ticket in Zendesk",
+  "name": "Crie um ticket no Zendesk",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -61,7 +61,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Create a ticket in Zendesk. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Crie um ticket no Zendesk. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-26c4525d",
     "versionId": "1.0.0",

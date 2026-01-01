@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Multi-Agent Conversation",
+  "name": "Conversa Multi-Agente",
   "tags": [
     "automation",
     "n8n",
@@ -392,6 +392,6 @@
   },
   "versionId": "6c0312e7-7a81-41cd-9403-8ad947100b80",
   "connections": {},
-  "description": "Automated workflow: Multi-Agent Conversation. This workflow integrates 9 different services: stickyNote, code, agent, set, memoryBufferWindow. It contains 18 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Conversa Multi-Agente. Este fluxo de trabalho integra 9 serviços diferentes: pegajoso Nota, código, agente, definido, memória. Contém 18 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Multi-Agent Conversation. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

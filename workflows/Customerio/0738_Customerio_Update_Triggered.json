@@ -1,6 +1,6 @@
 {
   "id": "29",
-  "name": "Receive updates when a subscriber unsubscribes in Customer.io",
+  "name": "Receba atualizações quando um assinante cancelar a inscrição no Cliente. Io",
   "nodes": [
     {
       "name": "Customer.io Trigger",
@@ -51,7 +51,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Receive updates when a subscriber unsubscribes in Customer.io. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Receba atualizações quando um assinante cancelar a inscrição em Customer.io. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-8e09f96f",
     "versionId": "1.0.0",

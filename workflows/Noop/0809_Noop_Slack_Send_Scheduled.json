@@ -1,6 +1,6 @@
 {
   "id": "331",
-  "name": "Check To Do on Notion and send message on Slack",
+  "name": "Verifique a Noção e envie mensagem no Slack",
   "nodes": [
     {
       "name": "Cron",
@@ -160,7 +160,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Check To Do on Notion and send message on Slack. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Verifique para fazer noção e envie mensagem no Slack. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-0aafbafd",
     "versionId": "1.0.0",

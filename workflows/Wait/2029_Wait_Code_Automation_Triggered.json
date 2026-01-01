@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Merge multiple runs into one",
+  "name": "Mesclar múltiplos corre em um",
   "tags": [
     "automation",
     "n8n",
@@ -154,6 +154,6 @@
   },
   "versionId": "0fd71e8c-7938-43a3-acec-fe746a183f9c",
   "connections": {},
-  "description": "Automated workflow: Merge multiple runs into one. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Mesclar múltiplos corre em um. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "notes": "Excellent quality workflow: Merge multiple runs into one. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

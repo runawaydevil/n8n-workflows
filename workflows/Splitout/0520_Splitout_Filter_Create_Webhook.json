@@ -923,7 +923,7 @@
       ]
     }
   },
-  "name": "Toolworkflow Workflow",
+  "name": "Fluxo de trabalho de ferramentas Fluxo de trabalho",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -936,7 +936,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Toolworkflow Workflow. This workflow integrates 17 different services: stickyNote, markdown, filter, httpRequest, agent. It contains 43 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Fluxo de trabalho. Este fluxo de trabalho integra 17 serviços diferentes: pegajosoNota, marcação, filtro, httpRequest, agente. Contém 43 nós e segue as melhores práticas para lidar com erros e segurança.",
   "meta": {
     "instanceId": "workflow-756505fa",
     "versionId": "1.0.0",

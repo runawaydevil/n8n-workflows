@@ -288,7 +288,7 @@
       ]
     }
   },
-  "name": "Respondtowebhook Workflow",
+  "name": "Respondam ao fluxo de trabalho",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -301,7 +301,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Respondtowebhook Workflow. This workflow integrates 6 different services: webhook, stickyNote, clickUp, set, respondToWebhook. It contains 10 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Responda ao fluxo de trabalho. Este fluxo de trabalho integra 6 serviços diferentes: webhook, pegajosoNota, clique Para cima, preparar, responder ao Webhook. Contém 10 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "tags": [
     "automation",
     "n8n",

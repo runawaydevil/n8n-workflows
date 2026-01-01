@@ -1,6 +1,6 @@
 {
   "id": "30",
-  "name": "Receive updates when a subscriber is added to a group and strore the information in Airtable",
+  "name": "Receba atualizações quando um assinante é adicionado a um grupo e estrear as informações no Airtable",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -109,7 +109,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Receive updates when a subscriber is added to a group and strore the information in Airtable. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Receba atualizações quando um assinante é adicionado a um grupo e estrere as informações no Airtable. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-5f4c52f1",
     "versionId": "1.0.0",

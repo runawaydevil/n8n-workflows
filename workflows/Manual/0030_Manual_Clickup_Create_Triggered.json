@@ -1,6 +1,6 @@
 {
   "id": "105",
-  "name": "Create a task in ClickUp",
+  "name": "Crie uma tarefa no Click Para cima",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -65,7 +65,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Create a task in ClickUp. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Crie uma tarefa no ClickUp. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-33ef65b1",
     "versionId": "1.0.0",

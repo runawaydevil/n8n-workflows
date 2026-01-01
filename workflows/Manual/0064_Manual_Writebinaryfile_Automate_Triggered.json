@@ -1,6 +1,6 @@
 {
   "id": 113,
-  "name": "Standup Bot - Override Config",
+  "name": "Standup Bot - Sobrecarregar Config",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -75,7 +75,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Standup Bot - Override Config. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Standup Bot-Override Config. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-6a2be891",
     "versionId": "1.0.0",

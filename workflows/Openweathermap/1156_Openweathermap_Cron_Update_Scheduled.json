@@ -1,6 +1,6 @@
 {
   "id": "82",
-  "name": "Send daily weather updates via a push notification using the Pushcut node",
+  "name": "Envie atualizações diárias do tempo através de uma notificação de push usando o nó Pushcut",
   "nodes": [
     {
       "name": "Pushcut",
@@ -89,7 +89,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Send daily weather updates via a push notification using the Pushcut node. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Envie atualizações diárias do tempo através de uma notificação usando o nó Pushcut. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-884ceeb8",
     "versionId": "1.0.0",

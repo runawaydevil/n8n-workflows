@@ -1,6 +1,6 @@
 {
   "id": "119",
-  "name": "Create, update, and get an entry in Strapi",
+  "name": "Criar, atualizar, e obter uma entrada em Strapi",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -168,5 +168,5 @@
     "excellent",
     "optimized"
   ],
-  "description": "Production-ready workflow: Create, update, and get an entry in Strapi. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
+  "description": "Produção pronta para fluxo de trabalho: criar, atualizar e obter uma entrada em Strapi. Este fluxo de trabalho foi otimizado para uso de produção com manipulação de erros abrangente, segurança e documentação."
 }

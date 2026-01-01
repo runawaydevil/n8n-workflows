@@ -2041,6 +2041,6 @@
       ]
     }
   },
-  "description": "Automated workflow: AI Automated TikTok/Youtube Shorts/Reels Generator. This workflow integrates 13 different services: stickyNote, httpRequest, wait, code, scheduleTrigger. It contains 67 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Al Automatizado TikTok/Youtube Shorts/Reels Generator. Este fluxo de trabalho integra 13 serviços diferentes: pegajosoNota, httpPedido, espera, código, agendaTrigger. Contém 67 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: AI Automated TikTok/Youtube Shorts/Reels Generator. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

@@ -1,6 +1,6 @@
 {
   "id": "158",
-  "name": "Create, update, and get an incident on PagerDuty",
+  "name": "Criar, atualizar, e obter um incidente no PagerDuty",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -103,7 +103,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Create, update, and get an incident on PagerDuty. This workflow processes data and performs automated tasks.",
+  "description": "Criar, atualizar e ter um incidente no PagerDuty. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-fba9263e",
     "versionId": "1.0.0",

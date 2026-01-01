@@ -1,6 +1,6 @@
 {
   "id": "172",
-  "name": "Create a table, and insert and update data in the table in Snowflake",
+  "name": "Criar uma tabela, e inserir e atualizar dados na tabela em Snowflake",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -156,7 +156,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Create a table, and insert and update data in the table in Snowflake. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Criar uma tabela, e inserir e atualizar dados na tabela em Snowflake. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-d2a0b752",
     "versionId": "1.0.0",

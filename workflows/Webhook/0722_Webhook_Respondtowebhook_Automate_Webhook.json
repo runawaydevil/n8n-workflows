@@ -11,7 +11,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Automate Drive-To-Store Lead Generation System (with coupon) on SuiteCRM",
+  "name": "Automatizar Drive-To-Store Sistema de geração de chumbo (com cupom) em SuiteCRM",
   "tags": [
     "automation",
     "n8n",
@@ -948,6 +948,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Automate Drive-To-Store Lead Generation System (with coupon) on SuiteCRM. This workflow integrates 9 different services: webhook, stickyNote, httpRequest, formTrigger, set. It contains 29 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Automatizar Drive-To-Store Sistema de geração de chumbo (com cupom) em SuiteCRM. Este fluxo de trabalho integra 9 serviços diferentes: webhook, pegajosoNota, httpRequest, formTrigger, set. Contém 29 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Automate Drive-To-Store Lead Generation System (with coupon) on SuiteCRM. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

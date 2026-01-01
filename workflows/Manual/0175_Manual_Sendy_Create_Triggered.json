@@ -1,6 +1,6 @@
 {
   "id": "14",
-  "name": "Add a subscriber to a list and create and send a campaign",
+  "name": "Adicione um assinante a uma lista e crie e envie uma campanha",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -91,7 +91,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Add a subscriber to a list and create and send a campaign. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Adicione um assinante a uma lista e crie e envie uma campanha. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-c74b3930",
     "versionId": "1.0.0",

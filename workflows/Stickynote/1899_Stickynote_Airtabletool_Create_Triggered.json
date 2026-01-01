@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Build an MCP server with Airtable",
+  "name": "Construir um servidor MCP com Airtable",
   "tags": [
     "automation",
     "n8n",
@@ -862,6 +862,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Build an MCP server with Airtable. This workflow integrates 9 different services: stickyNote, agent, mcpClientTool, mcpTrigger, stopAndError. It contains 14 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Construa um servidor MCP com Airtable. Este fluxo de trabalho integra 9 serviços diferentes: pegajoso, agente, McpClientTool, McpTrigger, stopAndError. Contém 14 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Build an MCP server with Airtable. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

@@ -573,7 +573,7 @@
       ]
     }
   },
-  "name": "Splitinbatches Workflow",
+  "name": "Splitinbatches fluxo de trabalho",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -586,7 +586,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Splitinbatches Workflow. This workflow integrates 12 different services: stickyNote, httpRequest, googleTasks, merge, set. It contains 22 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automático: Este fluxo de trabalho integra 12 serviços diferentes: Tarefas, fusão, conjunto. Contém 22 nós e segue as melhores práticas para lidar com erros e segurança.",
   "tags": [
     "automation",
     "n8n",

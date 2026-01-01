@@ -1,6 +1,6 @@
 {
   "id": 112,
-  "name": "Standup Bot - Read Config",
+  "name": "Standup Bot - Leia Config",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -75,7 +75,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Standup Bot - Read Config. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Standup Bot - Read Config. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-293f66f1",
     "versionId": "1.0.0",

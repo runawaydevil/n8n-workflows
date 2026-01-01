@@ -1,6 +1,6 @@
 {
   "id": "114",
-  "name": "Send daily weather updates via a message in Line",
+  "name": "Envie atualizações diárias do tempo através de uma mensagem em Line",
   "nodes": [
     {
       "name": "Line",
@@ -86,7 +86,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Send daily weather updates via a message in Line. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Envie atualizações diárias do tempo através de uma mensagem em Line. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-4edb96d3",
     "versionId": "1.0.0",

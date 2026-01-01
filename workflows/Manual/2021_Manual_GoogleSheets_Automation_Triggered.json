@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "ICP Company Scoring",
+  "name": "PIC Pontuação da empresa",
   "tags": [
     "automation",
     "n8n",
@@ -288,6 +288,6 @@
       ]
     }
   },
-  "description": "Automated workflow: ICP Company Scoring. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: ICP Company Scoring. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "notes": "Excellent quality workflow: ICP Company Scoring. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

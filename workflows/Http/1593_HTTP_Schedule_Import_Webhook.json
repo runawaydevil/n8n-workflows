@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Automated Daily Weather Data Fetcher and Storage",
+  "name": "Dados diários automatizados do tempo Fetcher e armazenamento",
   "tags": [
     "automation",
     "n8n",
@@ -305,6 +305,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Automated Daily Weather Data Fetcher and Storage. This workflow integrates 5 different services: stickyNote, httpRequest, airtable, scheduleTrigger, stopAndError. It contains 7 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Dados Meteorológicos Diários Automatizados Fetcher e Armazenamento. Este fluxo de trabalho integra 5 serviços diferentes: pegajosoNota, httpRequest, airtable, agendaTrigger, stopAndError. Contém 7 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Automated Daily Weather Data Fetcher and Storage. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

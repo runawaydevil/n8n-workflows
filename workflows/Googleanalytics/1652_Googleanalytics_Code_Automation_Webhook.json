@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Google analytics template",
+  "name": "Modelo de análise do Google",
   "tags": [
     "automation",
     "n8n",
@@ -975,6 +975,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Google analytics template. This workflow integrates 8 different services: stickyNote, httpRequest, code, scheduleTrigger, googleAnalytics. It contains 34 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Modelo de análise do Google. Este fluxo de trabalho integra 8 serviços diferentes: pegajosoNota, httpRequest, código, agendaTrigger, googleAnalytics. Contém 34 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Google analytics template. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

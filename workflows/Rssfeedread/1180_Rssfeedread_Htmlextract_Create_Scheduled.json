@@ -1,6 +1,6 @@
 {
   "id": 8,
-  "name": "Get only new RSS with Photo",
+  "name": "Obter apenas novo RSS com Foto",
   "nodes": [
     {
       "name": "Cron",
@@ -150,7 +150,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Get only new RSS with Photo. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Obter apenas um novo RSS com foto. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-7f56e0cf",
     "versionId": "1.0.0",

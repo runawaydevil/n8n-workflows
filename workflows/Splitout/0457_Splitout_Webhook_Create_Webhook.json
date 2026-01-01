@@ -1065,7 +1065,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Stickynote Workflow. This workflow integrates 19 different services: stickyNote, merge, lmChatOpenAi, if, chatTrigger. It contains 47 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Fluxo de trabalho. Este fluxo de trabalho integra 19 serviços diferentes: pegajoso Nota, mescla, lmChatOpenAi, se, chatTrigger. Ele contém 47 nós e segue as melhores práticas para lidar com erros e segurança.",
   "tags": [
     "automation",
     "n8n",

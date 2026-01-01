@@ -310,6 +310,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Coinmarketcap Price Agent. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Coinmarket Price Agent. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "notes": "Excellent quality workflow: Coinmarketcap Price Agent. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

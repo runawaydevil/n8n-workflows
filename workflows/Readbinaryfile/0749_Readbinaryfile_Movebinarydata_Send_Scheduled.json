@@ -1,6 +1,6 @@
 {
   "id": "2",
-  "name": "SIGNL4 Alert",
+  "name": "SINAL4 Alerta",
   "nodes": [
     {
       "name": "Cron",
@@ -187,7 +187,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: SIGNL4 Alert. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Alerta de sinal 4. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-791ddef0",
     "versionId": "1.0.0",

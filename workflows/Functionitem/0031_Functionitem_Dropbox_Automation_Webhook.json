@@ -1,6 +1,6 @@
 {
   "id": "105",
-  "name": "screenshot",
+  "name": "imagem",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -217,5 +217,5 @@
     "excellent",
     "optimized"
   ],
-  "description": "Production-ready workflow: screenshot. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
+  "description": "Fluxo de trabalho pronto para produção: captura de tela. Este fluxo de trabalho foi otimizado para uso de produção com manipulação de erros abrangente, segurança e documentação."
 }

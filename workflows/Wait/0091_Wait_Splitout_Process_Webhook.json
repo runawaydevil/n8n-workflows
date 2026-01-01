@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "↔️ Airtable Batch Processing",
+  "name": "Processamento de Lote de Mesa Aérea",
   "tags": [
     "automation",
     "n8n",
@@ -1114,6 +1114,6 @@
       ]
     }
   },
-  "description": "Automated workflow: ↔️ Airtable Batch Processing. This workflow integrates 16 different services: stickyNote, httpRequest, wait, code, splitOut. It contains 41 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Processamento de Lote de Mesa Aérea. Este fluxo de trabalho integra 16 serviços diferentes: pegajoso Nota, httpPedido, espera, código, separado. Contém 41 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: ↔️ Airtable Batch Processing. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

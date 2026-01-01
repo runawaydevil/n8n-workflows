@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "DSP Certificate w/ Google Forms",
+  "name": "Certificado DSP com Formulários Google",
   "tags": [
     "automation",
     "n8n",
@@ -495,6 +495,6 @@
       ]
     }
   },
-  "description": "Automated workflow: DSP Certificate w/ Google Forms. This workflow integrates 9 different services: stickyNote, googleSheetsTrigger, googleSlides, googleDrive, set. It contains 21 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Certificado DSP com Formulários Google. Este fluxo de trabalho integra 9 serviços diferentes: LençóisTrigger, Google Slides, Google Dirija, set. Contém 21 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: DSP Certificate w/ Google Forms. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

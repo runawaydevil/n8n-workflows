@@ -656,7 +656,7 @@
       ]
     }
   },
-  "name": "Telegramtrigger Workflow",
+  "name": "Fluxo de Trabalho Telegramtrigger",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -669,7 +669,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Telegramtrigger Workflow. This workflow integrates 13 different services: telegramTrigger, stickyNote, googleTasksTool, telegram, agent. It contains 31 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Fluxo de Trabalho Telegramtrigger. Este fluxo de trabalho integra 13 serviços diferentes: telegrama Trigger, pegajosoNota, Google TasksTool, telegrama, agente. Contém 31 nós e segue as melhores práticas para lidar com erros e segurança.",
   "tags": [
     "automation",
     "n8n",

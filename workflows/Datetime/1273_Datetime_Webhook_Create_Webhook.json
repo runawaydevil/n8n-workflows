@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "AI-Generated Summary Block for WordPress Posts - with OpenAI, WordPress, Google Sheets & Slack",
+  "name": "Bloco de resumo gerado por IA para WordPress Posts - com OpenAI, WordPress, Google Sheets & Slack",
   "tags": [
     "automation",
     "n8n",
@@ -1046,6 +1046,6 @@
       ]
     }
   },
-  "description": "Automated workflow: AI-Generated Summary Block for WordPress Posts - with OpenAI, WordPress, Google Sheets & Slack. This workflow integrates 18 different services: textClassifier, webhook, stickyNote, httpRequest, markdown. It contains 41 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: bloco de resumo gerado por IA para WordPress Posts - com OpenAI, WordPress, Google Sheets & Slack. Este fluxo de trabalho integra 18 serviços diferentes: textClassifier, webhook, pegajosoNota, httpRequest, markdown. Contém 41 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: AI-Generated Summary Block for WordPress Posts - with OpenAI, WordPress, Google Sheets & Slack. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

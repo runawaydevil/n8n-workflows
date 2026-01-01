@@ -222,7 +222,7 @@
   ],
   "pinData": {},
   "connections": {},
-  "name": "Scheduletrigger Workflow",
+  "name": "Agendador Fluxo de trabalho",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -235,7 +235,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Scheduletrigger Workflow. This workflow integrates 9 different services: stickyNote, scheduleTrigger, splitOut, noOp, set. It contains 10 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Fluxo de trabalho programado. Este fluxo de trabalho integra 9 serviços diferentes: Disparar, separar, não operar, preparar. Contém 10 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "meta": {
     "instanceId": "workflow-f6a0501d",
     "versionId": "1.0.0",

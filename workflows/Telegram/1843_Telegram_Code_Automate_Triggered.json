@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "e-mail Chatbot with both semantic and structured RAG, using Telegram and Pgvector",
+  "name": "e-mail Chatbot com RAG semântica e estruturada, usando Telegram e Pgvector",
   "tags": [
     "automation",
     "n8n",
@@ -502,6 +502,6 @@
       ]
     }
   },
-  "description": "Automated workflow: e-mail Chatbot with both semantic and structured RAG, using Telegram and Pgvector. This workflow integrates 16 different services: telegramTrigger, stickyNote, telegram, code, agent. It contains 23 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: e-mail Chatbot com RAG semântico e estruturado, usando Telegram e Pgvector. Este fluxo de trabalho integra 16 serviços diferentes: telegrama. Trigger, pegajosoNota, telegrama, código, agente. Contém 23 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: e-mail Chatbot with both semantic and structured RAG, using Telegram and Pgvector. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

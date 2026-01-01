@@ -1,6 +1,6 @@
 {
   "id": "110",
-  "name": "Get all the stories starting with `release` and publish them",
+  "name": "Pegue todas as histórias começando com \"lançar\" e publique-as",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -86,7 +86,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Get all the stories starting with `release` and publish them. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Receba todas as histórias começando com \"lease\" e publique-as. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-44e549b5",
     "versionId": "1.0.0",

@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Search news using Perplexity AI and post to X (Twitter)",
+  "name": "Procure notícias usando AI de Perplexidade e post para X (Twitter)",
   "tags": [
     "automation",
     "n8n",
@@ -225,6 +225,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Search news using Perplexity AI and post to X (Twitter). This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Procure notícias usando AI de Perplexidade e post para X (Twitter). Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "notes": "Excellent quality workflow: Search news using Perplexity AI and post to X (Twitter). This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

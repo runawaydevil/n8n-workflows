@@ -1,6 +1,6 @@
 {
   "id": "32",
-  "name": "Create a customer and add them to a segment in Customer.io",
+  "name": "Criar um cliente e adicioná-los a um segmento no Cliente. Io",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -88,7 +88,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Create a customer and add them to a segment in Customer.io. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Crie um cliente e adicione-os a um segmento em Customer.io. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-990cec08",
     "versionId": "1.0.0",

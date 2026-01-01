@@ -1,6 +1,6 @@
 {
   "id": "161",
-  "name": "Create a table and insert data into it",
+  "name": "Crie uma tabela e insira dados nela",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -107,7 +107,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Create a table and insert data into it. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Crie uma tabela e insira dados nela. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-718916ec",
     "versionId": "1.0.0",

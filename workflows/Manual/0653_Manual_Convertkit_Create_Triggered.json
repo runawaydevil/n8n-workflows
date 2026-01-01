@@ -1,6 +1,6 @@
 {
   "id": "25",
-  "name": "Add subscriber to form, create tag and subscriber to the tag",
+  "name": "Adicione assinante ao formulário, crie tag e assinante ao tag",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -105,7 +105,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Add subscriber to form, create tag and subscriber to the tag. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Adicione assinante ao formulário, crie etiqueta e assinante à etiqueta. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-b7a2d1dd",
     "versionId": "1.0.0",

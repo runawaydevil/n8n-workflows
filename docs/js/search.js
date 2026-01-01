@@ -35,16 +35,16 @@ class WorkflowSearch {
             this.showFeaturedWorkflows();
         } catch (error) {
             console.error('Failed to initialize search:', error);
-            this.showError('Failed to load workflow data. Please try again later.');
+            this.showError('Falha ao carregar dados dos workflows. Por favor, tente novamente mais tarde.');
         }
     }
 
     async loadSearchIndex() {
         this.showLoading(true);
         try {
-            const response = await fetch('api/search-index.json');
+            const response = await fetch('/docs/api/search-index.json');
             if (!response.ok) {
-                throw new Error('Failed to load search index');
+                throw new Error('Falha ao carregar índice de busca');
             }
             this.searchIndex = await response.json();
         } finally {
@@ -151,7 +151,7 @@ class WorkflowSearch {
         this.currentResults = featured;
         this.displayedCount = 0;
         this.displayResults(true);
-        this.resultsTitle.textContent = 'Featured Workflows';
+        this.resultsTitle.textContent = 'Workflows em Destaque';
         this.resultsCount.textContent = '';
     }
 
@@ -198,7 +198,7 @@ class WorkflowSearch {
             .join('');
 
         const moreIntegrations = workflow.integrations.length > 3
-            ? `<span class="integration-tag">+${workflow.integrations.length - 3} more</span>`
+            ? `<span class="integration-tag">+${workflow.integrations.length - 3} mais</span>`
             : '';
 
         card.innerHTML = `
@@ -208,8 +208,8 @@ class WorkflowSearch {
             <div class="workflow-meta">
                 <span class="meta-tag category">${workflow.category}</span>
                 <span class="meta-tag trigger">${workflow.trigger_type}</span>
-                <span class="meta-tag">${workflow.complexity} complexity</span>
-                <span class="meta-tag">${workflow.node_count} nodes</span>
+                <span class="meta-tag">complexidade ${workflow.complexity}</span>
+                <span class="meta-tag">${workflow.node_count} nós</span>
             </div>
 
             <div class="workflow-integrations">
@@ -219,10 +219,10 @@ class WorkflowSearch {
 
             <div class="workflow-actions">
                 <a href="${workflow.download_url}" class="btn btn-primary" target="_blank" onclick="event.stopPropagation()">
-                    📥 Download JSON
+                    📥 Baixar JSON
                 </a>
                 <button class="btn btn-secondary" onclick="event.stopPropagation(); window.copyWorkflowId('${workflow.filename}')">
-                    📋 Copy ID
+                    📋 Copiar ID
                 </button>
             </div>
         `;
@@ -286,24 +286,24 @@ class WorkflowSearch {
             <h2 style="margin-bottom: 1rem;">${this.escapeHtml(workflow.name)}</h2>
 
             <div style="margin-bottom: 1.5rem;">
-                <strong>Description:</strong>
+                <strong>Descrição:</strong>
                 <p style="margin-top: 0.5rem;">${this.escapeHtml(workflow.description)}</p>
             </div>
 
             <div style="margin-bottom: 1.5rem;">
-                <strong>Details:</strong>
+                <strong>Detalhes:</strong>
                 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.5rem; margin-top: 0.5rem;">
-                    <div><strong>Category:</strong> ${workflow.category}</div>
+                    <div><strong>Categoria:</strong> ${workflow.category}</div>
                     <div><strong>Trigger:</strong> ${workflow.trigger_type}</div>
-                    <div><strong>Complexity:</strong> ${workflow.complexity}</div>
-                    <div><strong>Nodes:</strong> ${workflow.node_count}</div>
-                    <div><strong>Status:</strong> ${workflow.active ? 'Active' : 'Inactive'}</div>
-                    <div><strong>File:</strong> ${workflow.filename}</div>
+                    <div><strong>Complexidade:</strong> ${workflow.complexity}</div>
+                    <div><strong>Nós:</strong> ${workflow.node_count}</div>
+                    <div><strong>Status:</strong> ${workflow.active ? 'Ativo' : 'Inativo'}</div>
+                    <div><strong>Arquivo:</strong> ${workflow.filename}</div>
                 </div>
             </div>
 
             <div style="margin-bottom: 1.5rem;">
-                <strong>Integrations:</strong>
+                <strong>Integrações:</strong>
                 <div style="margin-top: 0.5rem; display: flex; flex-wrap: wrap; gap: 0.25rem;">
                     ${allIntegrations}
                 </div>
@@ -320,10 +320,10 @@ class WorkflowSearch {
 
             <div style="display: flex; gap: 1rem;">
                 <a href="${workflow.download_url}" class="btn btn-primary" target="_blank">
-                    📥 Download JSON
+                    📥 Baixar JSON
                 </a>
                 <button class="btn btn-secondary" onclick="window.copyWorkflowId('${workflow.filename}')">
-                    📋 Copy Filename
+                    📋 Copiar Nome do Arquivo
                 </button>
             </div>
         `;
@@ -333,15 +333,15 @@ class WorkflowSearch {
     }
 
     updateResultsHeader(query, filters) {
-        let title = 'Search Results';
+        let title = 'Resultados da Busca';
         let filterDesc = [];
 
         if (query) {
-            title = `Search: "${query}"`;
+            title = `Busca: "${query}"`;
         }
 
-        if (filters.category) filterDesc.push(`Category: ${filters.category}`);
-        if (filters.complexity) filterDesc.push(`Complexity: ${filters.complexity}`);
+        if (filters.category) filterDesc.push(`Categoria: ${filters.category}`);
+        if (filters.complexity) filterDesc.push(`Complexidade: ${filters.complexity}`);
         if (filters.trigger) filterDesc.push(`Trigger: ${filters.trigger}`);
 
         if (filterDesc.length > 0) {
@@ -349,7 +349,7 @@ class WorkflowSearch {
         }
 
         this.resultsTitle.textContent = title;
-        this.resultsCount.textContent = `${this.currentResults.length} workflows found`;
+        this.resultsCount.textContent = `${this.currentResults.length} workflows encontrados`;
     }
 
     loadMoreResults() {
@@ -374,12 +374,13 @@ class WorkflowSearch {
         const errorEl = document.createElement('div');
         errorEl.className = 'error-message';
         errorEl.style.cssText = `
-            background: #fed7d7;
-            color: #c53030;
+            background: #fee2e2;
+            color: #dc2626;
             padding: 1rem;
             border-radius: 8px;
             margin: 1rem 0;
             text-align: center;
+            border: 1px solid #fecaca;
         `;
         errorEl.textContent = message;
 
@@ -412,7 +413,7 @@ window.copyWorkflowId = function(filename) {
         // Show temporary success message
         const btn = event.target;
         const originalText = btn.textContent;
-        btn.textContent = '✅ Copied!';
+        btn.textContent = '✅ Copiado!';
         setTimeout(() => {
             btn.textContent = originalText;
         }, 2000);
@@ -427,7 +428,7 @@ window.copyWorkflowId = function(filename) {
 
         const btn = event.target;
         const originalText = btn.textContent;
-        btn.textContent = '✅ Copied!';
+        btn.textContent = '✅ Copiado!';
         setTimeout(() => {
             btn.textContent = originalText;
         }, 2000);

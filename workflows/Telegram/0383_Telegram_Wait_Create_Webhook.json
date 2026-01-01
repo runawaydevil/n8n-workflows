@@ -1183,7 +1183,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Stickynote Workflow. This workflow integrates 14 different services: stickyNote, httpRequest, telegramTrigger, wait, telegram. It contains 50 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Fluxo de trabalho. Este fluxo de trabalho integra 14 serviços diferentes: pegajosoNota, pedido de http, telegramaTrigger, espera, telegrama. Contém 50 nós e segue as melhores práticas para lidar com erros e segurança.",
   "tags": [
     "automation",
     "n8n",

@@ -273,7 +273,7 @@
   ],
   "pinData": {},
   "connections": {},
-  "name": "Comparedatasets Workflow",
+  "name": "Compare os conjuntos de dados Fluxo de trabalho",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -286,7 +286,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Comparedatasets Workflow. This workflow integrates 7 different services: stickyNote, youTube, set, spotify, manualTrigger. It contains 12 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Compare os conjuntos de dados fluxo de trabalho. Este fluxo de trabalho integra 7 serviços diferentes: pegajosoNota, youTube, definido, mancha, manual Trigger. Contém 12 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "tags": [
     "automation",
     "n8n",

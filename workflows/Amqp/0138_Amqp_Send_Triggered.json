@@ -1,6 +1,6 @@
 {
   "id": "135",
-  "name": "Receive messages for an ActiveMQ queue via AMQP Trigger",
+  "name": "Receba mensagens para uma fila ActiveMQ via AMQP Trigger",
   "nodes": [
     {
       "name": "AMQP Trigger",
@@ -48,7 +48,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Receive messages for an ActiveMQ queue via AMQP Trigger. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Receba mensagens para uma fila ActiveMQ via AMQP Trigger. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-05f04af4",
     "versionId": "1.0.0",

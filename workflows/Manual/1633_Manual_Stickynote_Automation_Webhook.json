@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "dub.co URL Shortener",
+  "name": "encurtador de URL dub.co",
   "tags": [
     "automation",
     "n8n",
@@ -503,6 +503,6 @@
       ]
     }
   },
-  "description": "Automated workflow: dub.co URL Shortener. This workflow integrates 6 different services: stickyNote, httpRequest, set, stopAndError, manualTrigger. It contains 18 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: encurtador de URL dub.co. Este fluxo de trabalho integra 6 serviços diferentes: pegajosoNota, httpRequest, set, stopAndError, manualTrigger. Contém 18 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: dub.co URL Shortener. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

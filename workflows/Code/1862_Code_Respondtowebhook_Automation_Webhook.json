@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Calculate the Centroid of a Set of Vectors",
+  "name": "Calcular o Centroid de um conjunto de vetores",
   "tags": [
     "automation",
     "n8n",
@@ -290,6 +290,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Calculate the Centroid of a Set of Vectors. This workflow integrates 6 different services: webhook, stickyNote, code, respondToWebhook, set. It contains 12 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Calcular o Centroid de um conjunto de vetores. Este fluxo de trabalho integra 6 serviços diferentes: webhook, pegajoso Nota, código, responda. Para o Webhook, pronto. Contém 12 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "notes": "Excellent quality workflow: Calculate the Centroid of a Set of Vectors. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "💡🌐 Essential Multipage Website Scraper with Jina.ai",
+  "name": "Essential Multipage Web Scraper com Jina.ai",
   "tags": [
     "automation",
     "n8n",
@@ -488,6 +488,6 @@
       ]
     }
   },
-  "description": "Automated workflow: 💡🌐 Essential Multipage Website Scraper with Jina.ai. This workflow integrates 13 different services: stickyNote, httpRequest, filter, wait, code. It contains 21 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: \"Scraper de Site Multipágina Essencial com Jina.ai\". Este fluxo de trabalho integra 13 serviços diferentes: pegajosoNota, httpRequest, filtro, espera, código. Contém 21 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: 💡🌐 Essential Multipage Website Scraper with Jina.ai. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

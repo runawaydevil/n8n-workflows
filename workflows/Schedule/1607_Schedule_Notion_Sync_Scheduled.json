@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Sync Todoist tasks to Notion",
+  "name": "Tradução e Sincronia:",
   "tags": [
     "automation",
     "n8n",
@@ -161,6 +161,6 @@
   },
   "versionId": "14cd25c2-0a7b-45d0-b81e-173052ebdde7",
   "connections": {},
-  "description": "Automated workflow: Sync Todoist tasks to Notion. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Sincronize tarefas Todoistas para Noção. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "notes": "Excellent quality workflow: Sync Todoist tasks to Notion. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

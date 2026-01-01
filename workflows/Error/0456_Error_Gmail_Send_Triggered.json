@@ -99,7 +99,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Errortrigger Workflow. This workflow integrates 3 different services: stickyNote, gmail, errorTrigger. It contains 4 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Erro no fluxo de trabalho. Este fluxo de trabalho integra 3 serviços diferentes: pegajosoNota, Gmail, erroTrigger. Contém 4 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "meta": {
     "instanceId": "workflow-77dfed76",
     "versionId": "1.0.0",

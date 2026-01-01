@@ -1,6 +1,6 @@
 {
   "id": 122,
-  "name": "Automate assigning GitHub issues",
+  "name": "Automatize atribuindo problemas GitHub",
   "nodes": [
     {
       "name": "Switch",
@@ -278,7 +278,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Automate assigning GitHub issues. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Automatize os problemas do GitHub. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-216a7726",
     "versionId": "1.0.0",

@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Prod: Notion to Vector Store - Dimension 768",
+  "name": "Notion to Vector Store - Dimensão 768",
   "tags": [
     "automation",
     "n8n",
@@ -288,6 +288,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Prod: Notion to Vector Store - Dimension 768. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Noção para Vector Store, Dimensão 768. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "notes": "Excellent quality workflow: Prod: Notion to Vector Store - Dimension 768. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

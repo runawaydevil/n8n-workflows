@@ -117,8 +117,8 @@
     }
   ],
   "connections": {},
-  "name": "Airtable Workflow",
-  "description": "Automated workflow: Airtable Workflow. This workflow processes data and performs automated tasks.",
+  "name": "Fluxo de trabalho do ar",
+  "description": "Fluxo de trabalho automatizado: Fluxo de trabalho. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,

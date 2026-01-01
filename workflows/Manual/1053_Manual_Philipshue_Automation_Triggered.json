@@ -1,6 +1,6 @@
 {
   "id": "58",
-  "name": "Turn on a light and set its brightness",
+  "name": "Acenda uma luz e defina seu brilho",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -63,7 +63,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Turn on a light and set its brightness. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Acenda uma luz e ajuste seu brilho. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-127248a8",
     "versionId": "1.0.0",

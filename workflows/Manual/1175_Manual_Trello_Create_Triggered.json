@@ -1,6 +1,6 @@
 {
   "id": "89",
-  "name": "Create a new card in Trello",
+  "name": "Crie um novo cartão em Trello",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -63,7 +63,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Create a new card in Trello. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Crie um novo cartão em Trello. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-6650ef02",
     "versionId": "1.0.0",

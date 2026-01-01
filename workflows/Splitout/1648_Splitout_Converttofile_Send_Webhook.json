@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Scrape Books from URL with Dumpling AI, Clean HTML, Save to Sheets, Email as CSV",
+  "name": "Raspar livros da URL com AI Dumpling, HTML limpo, salvar em folhas, E-mail como CSV",
   "tags": [
     "automation",
     "n8n",
@@ -400,6 +400,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Scrape Books from URL with Dumpling AI, Clean HTML, Save to Sheets, Email as CSV. This workflow integrates 9 different services: convertToFile, stickyNote, httpRequest, googleSheetsTrigger, splitOut. It contains 15 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Raspar livros da URL com AI Dumpling, HTML limpo, salvar em folhas, e-mail como CSV. Este fluxo de trabalho integra 9 serviços diferentes: ConvertToFile, pegajosoNote, httpRequest, google LençóisTrigger, separado. Contém 15 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Scrape Books from URL with Dumpling AI, Clean HTML, Save to Sheets, Email as CSV. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

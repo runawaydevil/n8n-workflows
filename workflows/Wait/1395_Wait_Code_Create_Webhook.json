@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Create Animated Stories using GPT-4o-mini, Midjourney, Kling and Creatomate API",
+  "name": "Criar histórias animadas usando GPT-4o-mini, Midjourney, Kling e Creatomatoma API",
   "tags": [
     "automation",
     "n8n",
@@ -1951,6 +1951,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Create Animated Stories using GPT-4o-mini, Midjourney, Kling and Creatomate API. This workflow integrates 9 different services: stickyNote, httpRequest, wait, code, switch. It contains 79 nodes and follows best practices for error handling and security.",
+  "description": "Criar histórias animadas usando GPT-4o-mini, Midjourney, Kling e Creatomate API. Este fluxo de trabalho integra 9 serviços diferentes: pegajosoNota, httpRequest, espera, código, interruptor. Contém 79 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Create Animated Stories using GPT-4o-mini, Midjourney, Kling and Creatomate API. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

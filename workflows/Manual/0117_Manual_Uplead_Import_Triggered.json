@@ -1,6 +1,6 @@
 {
   "id": "129",
-  "name": "Get information about a company with UpLead",
+  "name": "Obter informações sobre uma empresa com UpLead",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -60,7 +60,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Get information about a company with UpLead. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Consiga informações sobre uma empresa com UpLead. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-0722576e",
     "versionId": "1.0.0",

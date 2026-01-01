@@ -594,7 +594,7 @@
       ]
     }
   },
-  "name": "Chattrigger Workflow",
+  "name": "Fluxo de trabalho Chattrigger",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -607,7 +607,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Chattrigger Workflow. This workflow integrates 15 different services: telegramTrigger, stickyNote, telegram, code, agent. It contains 29 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Fluxo de Trabalho Chattrigger. Este fluxo de trabalho integra 15 serviços diferentes: telegrama Trigger, pegajosoNota, telegrama, código, agente. Contém 29 nós e segue as melhores práticas para lidar com erros e segurança.",
   "meta": {
     "instanceId": "workflow-afda32e5",
     "versionId": "1.0.0",

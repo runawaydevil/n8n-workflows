@@ -854,7 +854,7 @@
       ]
     }
   },
-  "name": "Textclassifier Workflow",
+  "name": "Fluxo de trabalho classificador de texto",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -867,7 +867,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Textclassifier Workflow. This workflow integrates 18 different services: textClassifier, filter, stickyNote, code, scheduleTrigger. It contains 36 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho de classificador de texto. Este fluxo de trabalho integra 18 serviços diferentes: textClassifier, filtro, pegajosoNota, código, agendaTrigger. Contém 36 nós e segue as melhores práticas para lidar com erros e segurança.",
   "tags": [
     "automation",
     "n8n",

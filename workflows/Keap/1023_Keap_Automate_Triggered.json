@@ -35,7 +35,7 @@
   ],
   "connections": {},
   "name": "Keaptrigger Workflow",
-  "description": "Automated workflow: Keaptrigger Workflow. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Keaptrigger Workflow. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,

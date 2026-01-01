@@ -1120,7 +1120,7 @@
       ]
     }
   },
-  "name": "Manualtrigger Workflow",
+  "name": "Fluxo de trabalho manual",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -1133,7 +1133,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Manualtrigger Workflow. This workflow integrates 20 different services: stickyNote, vectorStoreInMemory, chainRetrievalQa, scheduleTrigger, switch. It contains 49 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Fluxo de trabalho manual. Este fluxo de trabalho integra 20 serviços diferentes: pegajosoNota, vetorStoreInMemory, chainRetrieval Qa, agenda Trigger, trocar. Ele contém 49 nós e segue as melhores práticas para lidar com erros e segurança.",
   "meta": {
     "instanceId": "workflow-216805d5",
     "versionId": "1.0.0",

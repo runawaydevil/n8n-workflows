@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Auto WordPress Blog Generator (GPT + Postgres + WP Media)",
+  "name": "Gerador de Blog WordPress Auto (GPT + Postgres + WP Media)",
   "tags": [
     "automation",
     "n8n",
@@ -1254,6 +1254,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Auto WordPress Blog Generator (GPT + Postgres + WP Media). This workflow integrates 11 different services: stickyNote, httpRequest, code, scheduleTrigger, agent. It contains 56 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Gerador de Blog WordPress Auto (GPT + Postgres + WP Media). Este fluxo de trabalho integra 11 serviços diferentes: pegajosoNota, httpRequest, código, agendaTrigger, agente. Contém 56 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Auto WordPress Blog Generator (GPT + Postgres + WP Media). This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Shopify to Google Sheets Product Sync Automation",
+  "name": "Compre para Google Sheets Product Sync Automation",
   "tags": [
     "automation",
     "n8n",
@@ -820,6 +820,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Shopify to Google Sheets Product Sync Automation. This workflow integrates 10 different services: stickyNote, wait, code, scheduleTrigger, graphql. It contains 29 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: comprar para Google Sheets Product Sync Automation. Este fluxo de trabalho integra 10 serviços diferentes: Trigger, graphql. Contém 29 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Shopify to Google Sheets Product Sync Automation. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

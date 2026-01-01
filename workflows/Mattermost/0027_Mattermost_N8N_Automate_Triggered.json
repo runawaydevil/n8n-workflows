@@ -53,7 +53,7 @@
   ],
   "connections": {},
   "name": "N8Ntrigger Workflow",
-  "description": "Automated workflow: N8Ntrigger Workflow. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automático N8Ntrigger. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,

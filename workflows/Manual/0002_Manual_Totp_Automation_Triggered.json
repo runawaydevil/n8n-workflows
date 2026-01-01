@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Complete Guide to Setting Up and Generating TOTP Codes in n8n 🔐",
+  "name": "Guia completo para configurar e gerar códigos TOTP em n8n",
   "tags": [
     "automation",
     "n8n",
@@ -84,6 +84,6 @@
   },
   "versionId": "d7a5fff3-3fcd-45cd-ba06-564097567ff5",
   "connections": {},
-  "description": "Automated workflow: Complete Guide to Setting Up and Generating TOTP Codes in n8n 🔐. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Guia completo para configurar e gerar códigos TOTP em n8n. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "notes": "Excellent quality workflow: Complete Guide to Setting Up and Generating TOTP Codes in n8n 🔐. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

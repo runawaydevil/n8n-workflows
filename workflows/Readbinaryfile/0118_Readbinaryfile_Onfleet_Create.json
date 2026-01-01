@@ -1,6 +1,6 @@
 {
   "id": 12,
-  "name": "Create Onfleet tasks from Spreadsheets",
+  "name": "Crie tarefas Onfleet de planilhas",
   "nodes": [
     {
       "id": "trigger-542018d4",
@@ -108,7 +108,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Create Onfleet tasks from Spreadsheets. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Crie tarefas Onfleet das planilhas. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-4e6b2510",
     "versionId": "1.0.0",

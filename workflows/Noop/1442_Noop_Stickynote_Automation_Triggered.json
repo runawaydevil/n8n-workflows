@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Extract personal data with a self-hosted LLM Mistral NeMo",
+  "name": "Extraia dados pessoais com um LLM Mistral NeMo",
   "tags": [
     "automation",
     "n8n",
@@ -282,6 +282,6 @@
   },
   "versionId": "9f3721a8-f340-43d5-89e7-3175c29c2f3a",
   "connections": {},
-  "description": "Automated workflow: Extract personal data with a self-hosted LLM Mistral NeMo. This workflow integrates 8 different services: stickyNote, chainLlm, outputParserStructured, set, outputParserAutofixing. It contains 13 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Extraia dados pessoais com um LLM Mistral NeMo. Este fluxo de trabalho integra 8 serviços diferentes: pegajosoNota, correnteLlm, saídaParserStructured, set, saídaParserAutofixing. Contém 13 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Extract personal data with a self-hosted LLM Mistral NeMo. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Format US Phone Number",
+  "name": "Formato US número de telefone",
   "tags": [
     "automation",
     "n8n",
@@ -404,6 +404,6 @@
   },
   "versionId": "1b7626d5-b32b-41bd-989a-a79616769278",
   "connections": {},
-  "description": "Automated workflow: Format US Phone Number. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado, formato US Phone Number. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "notes": "Excellent quality workflow: Format US Phone Number. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

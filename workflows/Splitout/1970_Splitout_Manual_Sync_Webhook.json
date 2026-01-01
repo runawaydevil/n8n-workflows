@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Sync Youtube Video Urls with Google Sheets",
+  "name": "Sincronize Youtube Video Urls com Google Sheets",
   "tags": [
     "automation",
     "n8n",
@@ -419,6 +419,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Sync Youtube Video Urls with Google Sheets. This workflow integrates 7 different services: stickyNote, httpRequest, splitOut, set, stopAndError. It contains 12 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Sincronize as URLs de vídeo do Youtube com o Google Sheets. Este fluxo de trabalho integra 7 serviços diferentes: pegajosoNota, httpRequest, splitout, set, stopAndError. Contém 12 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "notes": "Excellent quality workflow: Sync Youtube Video Urls with Google Sheets. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

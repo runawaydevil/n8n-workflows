@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "AI-Powered Research with Jina AI Deep Search",
+  "name": "Pesquisa AI-Desenvolvido com Jina AI pesquisa profunda",
   "tags": [
     "automation",
     "n8n",
@@ -186,6 +186,6 @@
       ]
     }
   },
-  "description": "Automated workflow: AI-Powered Research with Jina AI Deep Search. This workflow integrates 5 different services: stickyNote, httpRequest, code, stopAndError, chatTrigger. It contains 8 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: pesquisa de inteligência artificial com Jina Al Deep Search. Este fluxo de trabalho integra 5 serviços diferentes: pegajosoNota, httpRequest, código, stopAndError, chatTrigger. Ele contém 8 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: AI-Powered Research with Jina AI Deep Search. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

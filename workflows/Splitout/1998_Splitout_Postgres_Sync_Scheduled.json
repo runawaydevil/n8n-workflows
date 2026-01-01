@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Synchronize your Google Sheets with Postgres",
+  "name": "Sincronize seu Google Sheets com Postgres",
   "tags": [
     "automation",
     "n8n",
@@ -372,6 +372,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Synchronize your Google Sheets with Postgres. This workflow integrates 7 different services: stickyNote, scheduleTrigger, splitOut, stopAndError, googleSheets. It contains 11 nodes and follows best practices for error handling and security.",
+  "description": "Sincronize seu Google Sheets com Postgres. Este fluxo de trabalho integra 7 serviços diferentes: Trigger, splitout, stopError, google Lençóis. Ele contém 11 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Synchronize your Google Sheets with Postgres. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

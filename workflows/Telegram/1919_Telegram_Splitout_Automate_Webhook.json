@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "🌐 Confluence Page AI Powered Chatbot",
+  "name": "Página de Confluência AI Powered Chatbot",
   "tags": [
     "automation",
     "n8n",
@@ -574,6 +574,6 @@
       ]
     }
   },
-  "description": "Automated workflow: 🌐 Confluence Page AI Powered Chatbot. This workflow integrates 11 different services: stickyNote, httpRequest, markdown, telegram, agent. It contains 22 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Página de confluência AI Powered Chatbot. Este fluxo de trabalho integra 11 serviços diferentes: pegajosoNota, httpPedido, marcação, telegrama, agente. Contém 22 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: 🌐 Confluence Page AI Powered Chatbot. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

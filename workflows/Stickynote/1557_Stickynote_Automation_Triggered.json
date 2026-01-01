@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "🔐🦙🤖 Private & Local Ollama Self-Hosted LLM Router",
+  "name": "Private & Local Ollama Self-Hosted LLM Roteador",
   "tags": [
     "automation",
     "n8n",
@@ -338,6 +338,6 @@
   },
   "versionId": "c36ec004-11a3-4b0f-b2fd-f529ae6413a2",
   "connections": {},
-  "description": "Automated workflow: 🔐🦙🤖 Private & Local Ollama Self-Hosted LLM Router. This workflow integrates 5 different services: stickyNote, agent, memoryBufferWindow, lmChatOllama, chatTrigger. It contains 16 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Roteador. Este fluxo de trabalho integra 5 serviços diferentes: pegajosoNota, agente, memóriaBufferWindow, lmChatOllama, chatTrigger. Contém 16 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "notes": "Excellent quality workflow: 🔐🦙🤖 Private & Local Ollama Self-Hosted LLM Router. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

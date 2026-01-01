@@ -1,6 +1,6 @@
 {
   "id": "95",
-  "name": "Receive updates when a new activity gets created and tweet about it",
+  "name": "Receba atualizações quando uma nova atividade for criada e tuite sobre ela",
   "nodes": [
     {
       "name": "Strava Trigger",
@@ -69,7 +69,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Receive updates when a new activity gets created and tweet about it. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Receba atualizações quando uma nova atividade for criada e tuite sobre ela. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-f13f6c60",
     "versionId": "1.0.0",

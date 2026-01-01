@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "SEO Blog Generator with GPT-4o, Perplexity, and Telegram Integration",
+  "name": "Gerador de Blog SEO com GPT-4o, Perplexidade e Integração Telegram",
   "tags": [
     "automation",
     "n8n",
@@ -551,6 +551,6 @@
       ]
     }
   },
-  "description": "Automated workflow: SEO Blog Generator with GPT-4o, Perplexity, and Telegram Integration. This workflow integrates 12 different services: stickyNote, formTrigger, telegramTrigger, telegram, agent. It contains 28 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Gerador de Blog SEO com GPT-4o, Perplexidade e Integração Telegram. Este fluxo de trabalho integra 12 serviços diferentes. Trigger, telegrama, agente. Contém 28 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: SEO Blog Generator with GPT-4o, Perplexity, and Telegram Integration. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

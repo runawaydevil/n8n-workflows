@@ -1,6 +1,6 @@
 {
   "id": "209",
-  "name": "Create, update and get a contact using the SendGrid node",
+  "name": "Criar, atualizar e obter um contato usando o nó SendGrid",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -105,7 +105,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Create, update and get a contact using the SendGrid node. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: criar, atualizar e obter um contato usando o nó SendGrid. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-93d5806c",
     "versionId": "1.0.0",

@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Create AI-Ready Vector Datasets for LLMs with Bright Data, Gemini & Pinecone",
+  "name": "Crie conjuntos de dados de vetor pronto para IA para LLMs com dados brilhantes, Gemini & Pinecone",
   "tags": [
     "automation",
     "n8n",
@@ -723,6 +723,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Create AI-Ready Vector Datasets for LLMs with Bright Data, Gemini & Pinecone. This workflow integrates 14 different services: stickyNote, vectorStorePinecone, embeddingsGoogleGemini, httpRequest, textSplitterRecursiveCharacterTextSplitter. It contains 31 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: criar conjuntos de dados de vetor pronto para IA para LLMs com dados brilhantes, Gemini e Pinecone. Este fluxo de trabalho integra 14 serviços diferentes: pegajosoNota, vetorStorePinecone, incorporandoGoogleGemini, httpRequest, textSplitterRecursivoCharacterTextSplitter. Contém 31 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Create AI-Ready Vector Datasets for LLMs with Bright Data, Gemini & Pinecone. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

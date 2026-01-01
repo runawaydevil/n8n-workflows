@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Post New YouTube Videos to X",
+  "name": "Postar novos vídeos do YouTube para X",
   "tags": [
     "automation",
     "n8n",
@@ -198,6 +198,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Post New YouTube Videos to X. This workflow integrates 6 different services: stickyNote, youTube, scheduleTrigger, stopAndError, twitter. It contains 7 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Postar vídeos do novo YouTube para X. Este fluxo de trabalho integra 6 serviços diferentes: pegajosoNota, YouTube, agendaTrigger, stopError, twitter. Contém 7 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Post New YouTube Videos to X. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

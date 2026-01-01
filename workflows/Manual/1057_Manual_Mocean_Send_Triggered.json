@@ -1,6 +1,6 @@
 {
   "id": "59",
-  "name": "Send an SMS using the Mocean node",
+  "name": "Envie um SMS usando o nó Mocean",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -62,7 +62,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Send an SMS using the Mocean node. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Envie um SMS usando o nó moceano. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-28104605",
     "versionId": "1.0.0",

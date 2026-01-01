@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Splitinbatches Workflow",
+  "name": "Splitinbatches fluxo de trabalho",
   "tags": [
     "automation",
     "n8n",
@@ -223,6 +223,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Splitinbatches Workflow. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automático: Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "notes": "Excellent quality workflow: Splitinbatches Workflow. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

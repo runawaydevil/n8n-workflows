@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Automate Event Creation in Google Calendar from Google Sheets",
+  "name": "Automatize a criação de eventos no Google Calendar do Google Sheets",
   "tags": [
     "automation",
     "n8n",
@@ -192,6 +192,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Automate Event Creation in Google Calendar from Google Sheets. This workflow integrates 5 different services: stickyNote, googleSheetsTrigger, code, stopAndError, googleCalendar. It contains 7 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Automatize a criação de eventos no Google Calendar da Google Sheets. Este fluxo de trabalho integra 5 serviços diferentes: SheetsTrigger, code, stopError, Google Calendário. Contém 7 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Automate Event Creation in Google Calendar from Google Sheets. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

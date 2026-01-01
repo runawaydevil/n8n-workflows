@@ -642,7 +642,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Formtrigger Workflow. This workflow integrates 8 different services: stickyNote, formTrigger, filter, clearbit, set. It contains 13 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Formtrigger Workflow. Este fluxo de trabalho integra 8 serviços diferentes: pegajosoNota, formulárioTrigger, filtro, clearbit, conjunto. Contém 13 nós e segue as melhores práticas para lidar com erros e segurança.",
   "tags": [
     "automation",
     "n8n",

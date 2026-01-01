@@ -55,7 +55,7 @@
     }
   ],
   "connections": {},
-  "name": "Production Workflow",
+  "name": "Produção Fluxo de trabalho",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -86,5 +86,5 @@
     "excellent",
     "optimized"
   ],
-  "description": "Production-ready workflow: Production Workflow. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
+  "description": "Fluxo de trabalho de produção. Este fluxo de trabalho foi otimizado para uso de produção com manipulação de erros abrangente, segurança e documentação."
 }

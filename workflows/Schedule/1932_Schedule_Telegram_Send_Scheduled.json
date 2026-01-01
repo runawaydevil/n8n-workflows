@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Automatically Send Daily Meeting List to Telegram",
+  "name": "Envie automaticamente a lista de reuniões diárias para o Telegram",
   "tags": [
     "automation",
     "n8n",
@@ -237,6 +237,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Automatically Send Daily Meeting List to Telegram. This workflow integrates 7 different services: stickyNote, telegram, scheduleTrigger, function, set. It contains 10 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Enviar lista de reuniões diárias automaticamente para o Telegram. Este fluxo de trabalho integra 7 serviços diferentes: Trigger, função, conjunto. Contém 10 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "notes": "Excellent quality workflow: Automatically Send Daily Meeting List to Telegram. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

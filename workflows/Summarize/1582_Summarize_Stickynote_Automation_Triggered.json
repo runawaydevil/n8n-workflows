@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "OpenAI Assistant with custom n8n tools",
+  "name": "Assistente OpenAI com ferramentas personalizadas",
   "tags": [
     "automation",
     "n8n",
@@ -324,6 +324,6 @@
       ]
     }
   },
-  "description": "Automated workflow: OpenAI Assistant with custom n8n tools. This workflow integrates 12 different services: stickyNote, openAiAssistant, code, merge, summarize. It contains 15 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Assistente OpenAI com ferramentas personalizadas. Este fluxo de trabalho integra 12 serviços diferentes: pegajosoNota, abertoAiAssistante, código, mescla, resume. Contém 15 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: OpenAI Assistant with custom n8n tools. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

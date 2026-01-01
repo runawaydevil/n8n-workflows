@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Vector DB Loader from Google Drive",
+  "name": "Vetor DB Carregador do Google Drive",
   "tags": [
     "automation",
     "n8n",
@@ -504,6 +504,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Vector DB Loader from Google Drive. This workflow integrates 12 different services: stickyNote, textSplitterRecursiveCharacterTextSplitter, scheduleTrigger, googleDrive, switch. It contains 22 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Vetor DB Loader da Google Drive. Este fluxo de trabalho integra 12 serviços diferentes: pegajosoNota, textoSplitterRecursivoCharacterTextSplitter, agenda Trigger, google Dirija, troque. Contém 22 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Vector DB Loader from Google Drive. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

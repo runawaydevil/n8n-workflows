@@ -1,6 +1,6 @@
 {
   "id": 1,
-  "name": "Send Typeforms leads via Whatsapp (Twilio)",
+  "name": "Envie formulários por Whatsapp",
   "nodes": [
     {
       "name": "Typeform Trigger",
@@ -100,7 +100,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Send Typeforms leads via Whatsapp (Twilio). This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Envie formulários por Whatsapp (Twilio). Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-c5c2a3c7",
     "versionId": "1.0.0",

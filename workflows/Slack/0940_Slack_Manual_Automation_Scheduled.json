@@ -266,7 +266,7 @@
   "updatedAt": "2022-04-11T21:59:45.898Z",
   "staticData": null,
   "connections": {},
-  "description": "Automated workflow: Orlen. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Orlen. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-6289a55d",
     "versionId": "1.0.0",

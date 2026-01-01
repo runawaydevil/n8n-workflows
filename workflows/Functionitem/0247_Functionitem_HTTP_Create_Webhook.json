@@ -321,8 +321,8 @@
       ]
     }
   },
-  "name": "Pipedrivetrigger Workflow",
-  "description": "Automated workflow: Pipedrivetrigger Workflow. This workflow processes data and performs automated tasks.",
+  "name": "Pipedrivetrigger Fluxo de trabalho",
+  "description": "Fluxo de trabalho automatizado: Pipedrivetrigger Workflow. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,

@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "AI Agent to chat with you Search Console Data, using OpenAI and Postgres",
+  "name": "Agente da IA para conversar com você. Procure dados do console, usando OpenAI e Postgres",
   "tags": [
     "automation",
     "n8n",
@@ -1006,6 +1006,6 @@
       ]
     }
   },
-  "description": "Automated workflow: AI Agent to chat with you Search Console Data, using OpenAI and Postgres. This workflow integrates 13 different services: webhook, stickyNote, httpRequest, agent, memoryPostgresChat. It contains 39 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: agente de IA para conversar com você. Procure dados de Console, usando OpenAI e Postgres. Este fluxo de trabalho integra 13 serviços diferentes: webhook, pegajosoNota, httpRequest, agente, memoryPostgres Conversa. Contém 39 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: AI Agent to chat with you Search Console Data, using OpenAI and Postgres. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

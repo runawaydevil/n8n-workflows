@@ -562,8 +562,8 @@
       ]
     }
   },
-  "name": "Code Workflow",
-  "description": "Automated workflow: Code Workflow. This workflow integrates 11 different services: stickyNote, httpRequest, markdown, code, scheduleTrigger. It contains 26 nodes and follows best practices for error handling and security.",
+  "name": "Fluxo de trabalho de código",
+  "description": "Fluxo de trabalho automatizado: Código de fluxo de trabalho. Este fluxo de trabalho integra 11 serviços diferentes: pegajoso, httpRequest, markdown, código, programação Trigger. Contém 26 nós e segue as melhores práticas para lidar com erros e segurança.",
   "meta": {
     "instanceId": "workflow-6e457303",
     "versionId": "1.0.0",

@@ -380,7 +380,7 @@
       ]
     }
   },
-  "name": "Extractfromfile Workflow",
+  "name": "Extrair do fluxo de trabalho de arquivo",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -393,7 +393,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Extractfromfile Workflow. This workflow integrates 6 different services: stickyNote, httpRequest, set, stopAndError, manualTrigger. It contains 16 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Extrair do fluxo de trabalho de arquivo. Este fluxo de trabalho integra 6 serviços diferentes: pegajosoNota, httpRequest, set, stopAndError, manualTrigger. Contém 16 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "tags": [
     "automation",
     "n8n",

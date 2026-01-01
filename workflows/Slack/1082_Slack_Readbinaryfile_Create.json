@@ -296,8 +296,8 @@
       ]
     }
   },
-  "name": "Emailreadimap Workflow",
-  "description": "Automated workflow: Emailreadimap Workflow. This workflow processes data and performs automated tasks.",
+  "name": "E-mailreadimap Workflow",
+  "description": "Fluxo de trabalho automatizado: Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,

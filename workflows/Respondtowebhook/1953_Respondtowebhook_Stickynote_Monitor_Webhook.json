@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Track Working Time and Pauses",
+  "name": "Acompanhe o tempo de trabalho e pausas",
   "tags": [
     "automation",
     "n8n",
@@ -1050,6 +1050,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Track Working Time and Pauses. This workflow integrates 8 different services: webhook, stickyNote, switch, set, respondToWebhook. It contains 34 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Acompanhe o tempo de trabalho e pausas. Este fluxo de trabalho integra 8 serviços diferentes: webhook, pegajoso Anote, mude, set, responda ao Webhook. Contém 34 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Track Working Time and Pauses. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

@@ -1,6 +1,6 @@
 {
   "id": "14",
-  "name": "extract_swifts",
+  "name": "extrai_swifts",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -454,5 +454,5 @@
     "excellent",
     "optimized"
   ],
-  "description": "Production-ready workflow: extract_swifts. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
+  "description": "Fluxo de trabalho pronto para produção: extrações. Este fluxo de trabalho foi otimizado para uso de produção com manipulação de erros abrangente, segurança e documentação."
 }

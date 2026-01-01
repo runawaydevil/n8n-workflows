@@ -604,7 +604,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Gmailtrigger Workflow. This workflow integrates 9 different services: textClassifier, stickyNote, gmailTrigger, lmChatGoogleGemini, stopAndError. It contains 20 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Gmailtrigger Workflow. Este fluxo de trabalho integra 9 serviços diferentes: textClassifier, pegajosoNota, gmailTrigger, lmChatGoogleGemini, stopAndError. Contém 20 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "tags": [
     "automation",
     "n8n",

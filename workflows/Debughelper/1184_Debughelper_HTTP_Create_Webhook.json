@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Build your first AI MCP Server",
+  "name": "Construa seu primeiro servidor AI MCP",
   "tags": [
     "automation",
     "n8n",
@@ -1000,6 +1000,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Build your first AI MCP Server. This workflow integrates 15 different services: stickyNote, httpRequest, agent, mcpClientTool, switch. It contains 39 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Construa seu primeiro servidor AI MCP. Este fluxo de trabalho integra 15 serviços diferentes: pegajosoNota, httpRequest, agente, mcpClientTool, interruptor. Contém 39 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Build your first AI MCP Server. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

@@ -35,10 +35,12 @@ jobs:
           mkdir -p database
 
           # Index all workflows to get latest stats
-          python workflow_db.py --index --force
-
-          # Generate categories
-          python create_categories.py
+          python -c "
+          from workflow_db import WorkflowDatabase
+          db = WorkflowDatabase('database/workflows.db')
+          stats = db.index_all_workflows(force_reindex=True)
+          print(f'Indexed {stats[\"processed\"]} workflows')
+          "
 
           # Get stats and update README
           python scripts/update_readme_stats.py

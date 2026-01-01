@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "🐋🤖 DeepSeek AI Agent + Telegram + LONG TERM Memory 🧠",
+  "name": "DeepSeek Al Agent + Telegram + Memória de LONGO TERM",
   "tags": [
     "automation",
     "n8n",
@@ -759,6 +759,6 @@
       ]
     }
   },
-  "description": "Automated workflow: 🐋🤖 DeepSeek AI Agent + Telegram + LONG TERM Memory 🧠. This workflow integrates 14 different services: webhook, stickyNote, telegram, agent, merge. It contains 32 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: \"DeepSeek AI Agent + Telegram + Long Term Memory\". Este fluxo de trabalho integra 14 serviços diferentes: webhook, pegajoso Nota, telegrama, agente, fusão. Contém 32 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: 🐋🤖 DeepSeek AI Agent + Telegram + LONG TERM Memory 🧠. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

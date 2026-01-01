@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Publish Videos & Images - Blotato",
+  "name": "Publique vídeos e imagens - Blotato",
   "tags": [
     "automation",
     "n8n",
@@ -2314,6 +2314,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Publish Videos & Images - Blotato. This workflow integrates 9 different services: stickyNote, httpRequest, formTrigger, airtable, code. It contains 55 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Publicar Vídeos e Imagens - Blotato. Este fluxo de trabalho integra 9 serviços diferentes: pegajosoNota, httpRequest, formTrigger, airtable, código. Contém 55 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Publish Videos & Images - Blotato. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

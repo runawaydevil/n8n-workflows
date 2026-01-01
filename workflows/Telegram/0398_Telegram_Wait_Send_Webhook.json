@@ -414,7 +414,7 @@
       ]
     }
   },
-  "name": "Emailreadimap Workflow",
+  "name": "E-mailreadimap Workflow",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -427,7 +427,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Emailreadimap Workflow. This workflow integrates 6 different services: stickyNote, httpRequest, wait, telegram, stopAndError. It contains 14 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Este fluxo de trabalho integra 6 serviços diferentes: pegajosoNota, httpPedido, espera, telegrama, paradaError. Contém 14 nós e segue as melhores práticas para lidar com erros e segurança.",
   "tags": [
     "automation",
     "n8n",

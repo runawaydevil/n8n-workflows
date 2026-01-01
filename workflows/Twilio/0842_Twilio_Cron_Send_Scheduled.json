@@ -1,6 +1,6 @@
 {
   "id": "34",
-  "name": "Monitoring and alerting",
+  "name": "Monitoramento e alerta",
   "nodes": [
     {
       "name": "Cron",
@@ -128,7 +128,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Monitoring and alerting. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Monitoramento e alerta. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-dc3d9783",
     "versionId": "1.0.0",

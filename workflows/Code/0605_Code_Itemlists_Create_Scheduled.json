@@ -884,7 +884,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Stickynote Workflow. This workflow integrates 12 different services: stickyNote, filter, itemLists, code, scheduleTrigger. It contains 42 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Fluxo de trabalho. Este fluxo de trabalho integra 12 serviços diferentes: pegajosoNota, filtro, itemListas, código, programação Trigger. Contém 42 nós e segue as melhores práticas para lidar com erros e segurança.",
   "meta": {
     "instanceId": "workflow-0275b99a",
     "versionId": "1.0.0",

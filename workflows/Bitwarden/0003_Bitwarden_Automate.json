@@ -105,8 +105,8 @@
     }
   ],
   "connections": {},
-  "name": "Bitwarden Workflow",
-  "description": "Automated workflow: Bitwarden Workflow. This workflow processes data and performs automated tasks.",
+  "name": "Fluxo de trabalho Bitwarden",
+  "description": "Fluxo de trabalho automatizado: Fluxo de trabalho Bitwarden. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,

@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "n8napi-check-workflow-which-model-is-using",
+  "name": "n8napi-check-workflow-qual-modelo-está-usando",
   "tags": [
     "automation",
     "n8n",
@@ -466,6 +466,6 @@
       ]
     }
   },
-  "description": "Automated workflow: n8napi-check-workflow-which-model-is-using. This workflow integrates 9 different services: filter, stickyNote, splitOut, n8n, set. It contains 14 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: n8napi-check-workflow-qual-modelo-está-usando. Este fluxo de trabalho integra 9 serviços diferentes: filtro, pegajosoNota, separado, n8n, conjunto. Contém 14 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: n8napi-check-workflow-which-model-is-using. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

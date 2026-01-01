@@ -1,6 +1,6 @@
 {
   "id": "247",
-  "name": "Congratulations Workflow",
+  "name": "Parabéns, Workflow",
   "nodes": [
     {
       "name": "Daily Trigger",
@@ -175,7 +175,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Congratulations Workflow. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Parabéns, fluxo de trabalho. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-7ca677ef",
     "versionId": "1.0.0",

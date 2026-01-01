@@ -140,7 +140,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: N8N Workflow. This workflow integrates 4 different services: stickyNote, manualTrigger, n8n, if. It contains 5 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: N8N Workflow. Este fluxo de trabalho integra 4 serviços diferentes: pegajosoNota, manualTrigger, n8n, se. Contém 5 nós e segue as melhores práticas para lidar com erros e segurança.",
   "meta": {
     "instanceId": "workflow-9826906a",
     "versionId": "1.0.0",

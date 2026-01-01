@@ -1,5 +1,5 @@
 {
-  "name": "Create a QuickBooks invoice on a new Onfleet Task creation",
+  "name": "Crie uma fatura do QuickBooks em uma nova criação de tarefas Onfleet",
   "nodes": [
     {
       "name": "Onfleet Trigger",
@@ -68,7 +68,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Create a QuickBooks invoice on a new Onfleet Task creation. This workflow processes data and performs automated tasks.",
+  "description": "Criar uma fatura do QuickBooks em uma nova criação de Tarefas Onfleet. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-5a9ef54d",
     "versionId": "1.0.0",

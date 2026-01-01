@@ -1,6 +1,6 @@
 {
   "id": "201",
-  "name": "Store the output of a phantom in Airtable",
+  "name": "Guarde a saída de um fantasma em Airtable",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -113,7 +113,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Store the output of a phantom in Airtable. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Guarde a saída de um fantasma no Airtable. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-1b15e53f",
     "versionId": "1.0.0",

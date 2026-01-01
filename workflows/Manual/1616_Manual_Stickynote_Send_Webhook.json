@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "The Easiest Way to Send SMS Worldwide",
+  "name": "A maneira mais fácil de enviar SMS em todo o mundo",
   "tags": [
     "automation",
     "n8n",
@@ -219,6 +219,6 @@
       ]
     }
   },
-  "description": "Automated workflow: The Easiest Way to Send SMS Worldwide. This workflow integrates 5 different services: stickyNote, httpRequest, set, stopAndError, manualTrigger. It contains 7 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: A maneira mais fácil de enviar SMS em todo o mundo. Este fluxo de trabalho integra 5 serviços diferentes: pegajosoNota, httpRequest, set, stopAndError, manualTrigger. Contém 7 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: The Easiest Way to Send SMS Worldwide. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

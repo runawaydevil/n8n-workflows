@@ -1,6 +1,6 @@
 {
   "id": "1",
-  "name": "ImapEmail, XmlToJson, POST-HTTP-Request",
+  "name": "ImapEmail, XmlToJson, POST-HTP-Pedido",
   "nodes": [
     {
       "id": "trigger-b427f5b6",
@@ -158,5 +158,5 @@
     "excellent",
     "optimized"
   ],
-  "description": "Production-ready workflow: ImapEmail, XmlToJson, POST-HTTP-Request. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
+  "description": "Produção pronta para fluxo de trabalho: ImapEmail, XmlToJson, POST-HTTP-Pedido. Este fluxo de trabalho foi otimizado para uso de produção com manipulação de erros abrangente, segurança e documentação."
 }

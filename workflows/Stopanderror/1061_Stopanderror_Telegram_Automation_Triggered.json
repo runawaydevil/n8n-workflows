@@ -508,6 +508,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Telegram RAG pdf. This workflow integrates 14 different services: telegramTrigger, vectorStorePinecone, stickyNote, textSplitterRecursiveCharacterTextSplitter, chainRetrievalQa. It contains 26 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Telegram RAG pdf. Este fluxo de trabalho integra 14 serviços diferentes: telegrama Trigger, vetorStorePinecone, pegajosoNota, textoSplitterRecursivoCharacterTextSplitter, chainRetrieval Qa. Contém 26 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Telegram RAG pdf. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

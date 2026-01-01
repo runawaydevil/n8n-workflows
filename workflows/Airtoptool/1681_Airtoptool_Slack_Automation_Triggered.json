@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Airtop Web Agent",
+  "name": "Agente Web Airtop",
   "tags": [
     "automation",
     "n8n",
@@ -578,6 +578,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Airtop Web Agent. This workflow integrates 12 different services: stickyNote, formTrigger, agent, airtopTool, outputParserStructured. It contains 21 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado, Airtop Web Agent. Este fluxo de trabalho integra 12 serviços diferentes: pegajosoNota, formulárioTrigger, agente, AirtopTool, saídaParserStructured. Contém 21 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Airtop Web Agent. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

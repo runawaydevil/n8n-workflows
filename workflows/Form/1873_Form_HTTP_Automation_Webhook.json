@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "🤓 Conversion Rate Optimizer",
+  "name": "Otimizador de taxa de conversão",
   "tags": [
     "automation",
     "n8n",
@@ -202,6 +202,6 @@
       ]
     }
   },
-  "description": "Automated workflow: 🤓 Conversion Rate Optimizer. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Otimizador de Taxa de Conversão. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "notes": "Excellent quality workflow: 🤓 Conversion Rate Optimizer. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

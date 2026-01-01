@@ -1,6 +1,6 @@
 {
   "id": 2,
-  "name": "RSS to Telegram",
+  "name": "RSS para Telegram",
   "nodes": [
     {
       "name": "Telegram",
@@ -155,7 +155,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: RSS to Telegram. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: RSS para Telegram. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-87270542",
     "versionId": "1.0.0",

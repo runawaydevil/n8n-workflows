@@ -562,7 +562,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Stickynote Workflow. This workflow integrates 11 different services: stickyNote, httpRequest, markdown, code, scheduleTrigger. It contains 26 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Fluxo de trabalho. Este fluxo de trabalho integra 11 serviços diferentes: pegajoso, httpRequest, markdown, código, programação Trigger. Contém 26 nós e segue as melhores práticas para lidar com erros e segurança.",
   "tags": [
     "automation",
     "n8n",

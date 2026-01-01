@@ -1929,6 +1929,6 @@
       ]
     }
   },
-  "description": "Automated workflow: MiniBear Webhook. This workflow integrates 12 different services: webhook, stickyNote, httpRequest, microsoftToDo, agent. It contains 69 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: MiniBear Webhook. Este fluxo de trabalho integra 12 serviços diferentes: webhook, pegajosoNota, httpRequest, microsoft Afazer, agente. Contém 69 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: MiniBear Webhook. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

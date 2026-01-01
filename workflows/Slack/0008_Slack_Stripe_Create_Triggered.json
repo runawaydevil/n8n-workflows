@@ -1,6 +1,6 @@
 {
   "id": 100,
-  "name": "On new Stripe Invoice Payment update Hubspot and notify the team in Slack",
+  "name": "Em uma nova atualização de pagamento Stripe Invoice Hubspot e notifique a equipe em Slack",
   "nodes": [
     {
       "name": "When Invoice Paid",
@@ -344,7 +344,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: On new Stripe Invoice Payment update Hubspot and notify the team in Slack. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: No novo pagamento Stripe Invoice atualização Hubspot e notificar a equipe em Slack. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-21ecef53",
     "versionId": "1.0.0",

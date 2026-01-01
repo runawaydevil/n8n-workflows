@@ -1,6 +1,6 @@
 {
   "id": "98",
-  "name": "Create a new task in Asana",
+  "name": "Criar uma nova tarefa em Asana",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -62,7 +62,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Create a new task in Asana. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Criar uma nova tarefa em Asana. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-70120f7c",
     "versionId": "1.0.0",

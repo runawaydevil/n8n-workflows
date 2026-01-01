@@ -1,6 +1,6 @@
 {
   "id": "127",
-  "name": "Create, update, and get a profile in Humantic AI",
+  "name": "Crie, atualize e obtenha um perfil na IA humana",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -131,5 +131,5 @@
     "excellent",
     "optimized"
   ],
-  "description": "Production-ready workflow: Create, update, and get a profile in Humantic AI. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
+  "description": "Produção pronta para fluxo de trabalho: criar, atualizar e obter um perfil em IA humana. Este fluxo de trabalho foi otimizado para uso de produção com manipulação de erros abrangente, segurança e documentação."
 }

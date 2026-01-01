@@ -1,6 +1,6 @@
 {
   "id": "5",
-  "name": "Slack-GitHub User Info",
+  "name": "Slack-GitHub Informações do usuário",
   "nodes": [
     {
       "name": "Webhook",
@@ -135,5 +135,5 @@
     "excellent",
     "optimized"
   ],
-  "description": "Production-ready workflow: Slack-GitHub User Info. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
+  "description": "Fluxo de trabalho pronto para produção: Slack-GitHub Informações do usuário. Este fluxo de trabalho foi otimizado para uso de produção com manipulação de erros abrangente, segurança e documentação."
 }

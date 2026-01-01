@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Docsify example",
+  "name": "Docsify exemplo",
   "tags": [
     "automation",
     "n8n",
@@ -1896,6 +1896,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Docsify example. This workflow integrates 21 different services: convertToFile, stickyNote, merge, switch, outputParserAutofixing. It contains 77 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Docsify exemplo. Este fluxo de trabalho integra 21 serviços diferentes: converter ToFile, pegajosoNota, mescla, troca, saídaParserAutofixing. Contém 77 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Docsify example. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

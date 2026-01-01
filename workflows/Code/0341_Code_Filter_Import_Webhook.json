@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "[1/3 - anomaly detection] [1/2 - KNN classification] Batch upload dataset to Qdrant (crops dataset)",
+  "name": "[1/3 - detecção de anomalia] [1/2 - classificação KNN] Conjunto de dados de upload em lote para Qdrant",
   "tags": [
     "automation",
     "n8n",
@@ -929,6 +929,6 @@
       ]
     }
   },
-  "description": "Automated workflow: [1/3 - anomaly detection] [1/2 - KNN classification] Batch upload dataset to Qdrant (crops dataset). This workflow integrates 9 different services: stickyNote, httpRequest, filter, code, googleCloudStorage. It contains 36 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: [1/3 - detecção de anomalia] [1/2 - classificação KNN] Conjunto de dados de upload em lote para Qdrant (conjunto de dados de cultivos). Este fluxo de trabalho integra 9 serviços diferentes: CloudStorage. Contém 36 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: [1/3 - anomaly detection] [1/2 - KNN classification] Batch upload dataset to Qdrant (crops dataset). This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

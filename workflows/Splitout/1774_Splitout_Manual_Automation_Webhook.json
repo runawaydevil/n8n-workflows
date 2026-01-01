@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Extract Business Leads from Google Maps with Dumpling AI to Google Sheets",
+  "name": "Extrair o negócio lidera do Google Maps com AI de bolinho para o Google Sheets",
   "tags": [
     "automation",
     "n8n",
@@ -1312,6 +1312,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Extract Business Leads from Google Maps with Dumpling AI to Google Sheets. This workflow integrates 6 different services: stickyNote, httpRequest, splitOut, stopAndError, manualTrigger. It contains 8 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Extrair Leads de Negócios do Google Maps com AI Dumpling para o Google Sheets. Este fluxo de trabalho integra 6 serviços diferentes: pegajosoNota, httpRequest, splitout, stopAndError, manualTrigger. Ele contém 8 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Extract Business Leads from Google Maps with Dumpling AI to Google Sheets. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

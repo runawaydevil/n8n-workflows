@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Extract spend details (template)",
+  "name": "Extrair detalhes de gastos (template)",
   "tags": [
     "automation",
     "n8n",
@@ -1012,6 +1012,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Extract spend details (template). This workflow integrates 14 different services: stickyNote, gmailTrigger, lmChatGoogleGemini, splitOut, chainLlm. It contains 29 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Extrair detalhes de gastos (template). Este fluxo de trabalho integra 14 serviços diferentes: pegajosoNota, gmailTrigger, lmChatGoogleGemini, splitOut, chainLlm. Contém 29 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Extract spend details (template). This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

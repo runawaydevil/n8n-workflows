@@ -1,6 +1,6 @@
 {
   "id": "160",
-  "name": "Analyze a URL and get the job details using the Cortex node",
+  "name": "Analise uma URL e obtenha os detalhes do trabalho usando o nó Cortex",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -81,7 +81,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Analyze a URL and get the job details using the Cortex node. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Analise uma URL e obtenha os detalhes do trabalho usando o nó Cortex. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-36714362",
     "versionId": "1.0.0",

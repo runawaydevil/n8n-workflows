@@ -1,6 +1,6 @@
 {
   "id": "2",
-  "name": "Discord Intro",
+  "name": "Discórdia Introdução",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -58,7 +58,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Discord Intro. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Discórdia Introdução. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-bde4153f",
     "versionId": "1.0.0",

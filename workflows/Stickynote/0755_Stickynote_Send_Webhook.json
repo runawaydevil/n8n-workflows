@@ -218,7 +218,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Lmchatopenai Workflow. This workflow integrates 7 different services: stickyNote, toolHttpRequest, agent, stopAndError, lmChatOpenAi. It contains 9 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Lmchatopenai fluxo de trabalho. Este fluxo de trabalho integra 7 serviços diferentes: HttpPedido, agente, pareError, lmChatOpen Ai. Contém 9 nós e segue as melhores práticas para lidar com erros e segurança.",
   "meta": {
     "instanceId": "workflow-d1730547",
     "versionId": "1.0.0",

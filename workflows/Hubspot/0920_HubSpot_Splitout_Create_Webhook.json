@@ -954,7 +954,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Webhook Workflow. This workflow integrates 18 different services: webhook, stickyNote, httpRequest, filter, markdown. It contains 42 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Fluxo de trabalho Webhook. Este fluxo de trabalho integra 18 serviços diferentes: webhook, pegajosoNota, httpPedido, filtro, marcação. Contém 42 nós e segue as melhores práticas para lidar com erros e segurança.",
   "meta": {
     "instanceId": "workflow-da87f211",
     "versionId": "1.0.0",

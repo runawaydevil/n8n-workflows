@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Zip multiple files",
+  "name": "Zip múltiplos arquivos",
   "tags": [
     "automation",
     "n8n",
@@ -134,6 +134,6 @@
   },
   "versionId": "16f64706-0a2a-4f9f-a96f-f149a4874ae4",
   "connections": {},
-  "description": "Automated workflow: Zip multiple files. This workflow integrates 5 different services: stickyNote, code, compression, set, executeWorkflowTrigger. It contains 5 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Zip vários arquivos. Este fluxo de trabalho integra 5 serviços diferentes: pegajoso Nota, código, compressão, conjunto, executar fluxo de trabalho Trigger. Contém 5 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Zip multiple files. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

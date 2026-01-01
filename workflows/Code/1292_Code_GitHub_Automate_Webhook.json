@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Code Review workflow",
+  "name": "Workflow de revisão de código",
   "tags": [
     "automation",
     "n8n",
@@ -446,6 +446,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Code Review workflow. This workflow integrates 9 different services: stickyNote, httpRequest, code, agent, githubTrigger. It contains 18 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Revisão de código de fluxo de trabalho. Este fluxo de trabalho integra 9 serviços diferentes: pegajosoNota, httpRequest, código, agente, githubTrigger. Contém 18 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Code Review workflow. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

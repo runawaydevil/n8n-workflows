@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Backup workflows to git repository on Gitea",
+  "name": "Workflows de backup para o repositório Gitea",
   "tags": [
     "automation",
     "n8n",
@@ -684,6 +684,6 @@
     }
   },
   "triggerCount": 1,
-  "description": "Automated workflow: Backup workflows to git repository on Gitea. This workflow integrates 9 different services: stickyNote, httpRequest, code, scheduleTrigger, n8n. It contains 26 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: workflows de backup para o repositório Gitea. Este fluxo de trabalho integra 9 serviços diferentes: pegajosoNota, httpRequest, código, horárioTrigger, n8n. Contém 26 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Backup workflows to git repository on Gitea. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

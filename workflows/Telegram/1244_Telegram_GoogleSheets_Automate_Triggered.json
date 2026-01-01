@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Telegram ChatBot with multiple sessions",
+  "name": "Telegram ChatBot com várias sessões",
   "tags": [
     "automation",
     "n8n",
@@ -1527,6 +1527,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Telegram ChatBot with multiple sessions. This workflow integrates 14 different services: telegramTrigger, stickyNote, telegram, code, agent. It contains 57 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: ChatBot de Telegrama com várias sessões. Este fluxo de trabalho integra 14 serviços diferentes: telegrama Trigger, pegajosoNota, telegrama, código, agente. Contém 57 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Telegram ChatBot with multiple sessions. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

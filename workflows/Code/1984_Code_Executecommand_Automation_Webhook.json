@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Credentials Transfer",
+  "name": "Transferência de Credenciais",
   "tags": [
     "automation",
     "n8n",
@@ -539,6 +539,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Credentials Transfer. This workflow integrates 10 different services: stickyNote, httpRequest, formTrigger, code, readWriteFile. It contains 26 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: transferência de credenciais. Este fluxo de trabalho integra 10 serviços diferentes: pegajosoNota, httpPedido, formulárioTrigger, código, arquivo de leitura. Contém 26 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Credentials Transfer. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

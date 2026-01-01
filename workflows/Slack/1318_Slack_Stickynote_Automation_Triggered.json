@@ -1,5 +1,5 @@
 {
-  "name": "Ask a human",
+  "name": "Pergunte a um humano",
   "nodes": [
     {
       "id": "a60c8572-56c1-4bf3-8352-a6419a475887",
@@ -346,7 +346,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Ask a human. This workflow integrates 11 different services: stickyNote, code, agent, stopAndError, slack. It contains 19 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Pergunte a um humano. Este fluxo de trabalho integra 11 serviços diferentes: pegajoso Nota, código, agente, pare Error, desleixado. Contém 19 nós e segue as melhores práticas para lidar com erros e segurança.",
   "meta": {
     "instanceId": "workflow-0cbf763f",
     "versionId": "1.0.0",

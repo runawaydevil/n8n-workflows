@@ -910,7 +910,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Httprequest Workflow. This workflow integrates 19 different services: stickyNote, textSplitterRecursiveCharacterTextSplitter, merge, switch, lmChatOpenAi. It contains 42 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Httprequest Workflow. Este fluxo de trabalho integra 19 serviços diferentes: pegajosoNota, textSplitterRecursivoCharacterTextSplitter, merge, switch, lmChatOpen Ai. Contém 42 nós e segue as melhores práticas para lidar com erros e segurança.",
   "tags": [
     "automation",
     "n8n",

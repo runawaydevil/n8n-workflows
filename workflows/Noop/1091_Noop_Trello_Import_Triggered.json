@@ -1,6 +1,6 @@
 {
   "id": "65",
-  "name": "Get Product Feedback",
+  "name": "Obter Feedback do Produto",
   "nodes": [
     {
       "name": "Typeform Trigger",
@@ -159,7 +159,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Get Product Feedback. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Obter Feedback do Produto. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-de653180",
     "versionId": "1.0.0",

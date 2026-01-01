@@ -16,8 +16,45 @@ sys.path.append(str(Path(__file__).parent.parent))
 from workflow_db import WorkflowDatabase
 
 
+def get_github_repo_info():
+    """Detect GitHub repository owner and name from git remote."""
+    import subprocess
+    
+    owner = "runawaydevil"  # Default
+    repo_name = "n8n-workflows"  # Default
+    
+    try:
+        result = subprocess.run(
+            ["git", "config", "--get", "remote.origin.url"],
+            capture_output=True,
+            text=True,
+            check=True
+        )
+        remote_url = result.stdout.strip()
+        # Extract owner and repo from URL (handles both https and ssh formats)
+        if "github.com" in remote_url:
+            if remote_url.endswith(".git"):
+                remote_url = remote_url[:-4]
+            # Handle https://github.com/owner/repo or git@github.com:owner/repo
+            if "github.com:" in remote_url:
+                parts = remote_url.split("github.com:")[-1].split("/")
+            else:
+                parts = remote_url.split("github.com/")[-1].split("/")
+            if len(parts) >= 2:
+                owner = parts[0]
+                repo_name = parts[1]
+    except (subprocess.CalledProcessError, FileNotFoundError):
+        # If git is not available or not a git repo, use defaults
+        pass
+    
+    return owner, repo_name
+
+
 def generate_static_search_index(db_path: str, output_dir: str) -> Dict[str, Any]:
     """Generate a static search index for client-side searching."""
+
+    # Get GitHub repository info
+    github_owner, github_repo = get_github_repo_info()
 
     # Initialize database
     db = WorkflowDatabase(db_path)
@@ -69,7 +106,7 @@ def generate_static_search_index(db_path: str, output_dir: str) -> Dict[str, Any
             "tags": workflow["tags"],
             "category": category,
             "searchable_text": searchable_text,
-            "download_url": f"https://raw.githubusercontent.com/Zie619/n8n-workflows/main/workflows/{extract_folder_from_filename(workflow['filename'])}/{workflow['filename']}",
+            "download_url": f"https://raw.githubusercontent.com/{github_owner}/{github_repo}/main/workflows/{extract_folder_from_filename(workflow['filename'])}/{workflow['filename']}",
         }
         search_workflows.append(search_workflow)
 

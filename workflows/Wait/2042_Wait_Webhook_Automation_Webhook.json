@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "FLUX-fill standalone",
+  "name": "FLUX-fill autônomo",
   "tags": [
     "automation",
     "n8n",
@@ -827,6 +827,6 @@
       ]
     }
   },
-  "description": "Automated workflow: FLUX-fill standalone. This workflow integrates 11 different services: webhook, stickyNote, httpRequest, wait, merge. It contains 30 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: preenchimento de FLUX independente. Este fluxo de trabalho integra 11 serviços diferentes: webhook, pegajosoNote, httpRequest, wait, merge. Contém 30 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: FLUX-fill standalone. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

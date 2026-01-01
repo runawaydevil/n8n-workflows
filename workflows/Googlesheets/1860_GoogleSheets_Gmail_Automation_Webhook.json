@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "WordPress Contact Form (CF7) Responses and Classification",
+  "name": "Formulário de Contato WordPress (CF7) Respostas e Classificação",
   "tags": [
     "automation",
     "n8n",
@@ -1014,6 +1014,6 @@
       ]
     }
   },
-  "description": "Automated workflow: WordPress Contact Form (CF7) Responses and Classification. This workflow integrates 10 different services: textClassifier, webhook, stickyNote, lmChatGoogleGemini, chainLlm. It contains 33 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Palavra Formulário de Contato de Imprensa (CF7) Respostas e Classificação. Este fluxo de trabalho integra 10 serviços diferentes: textClassifier, webhook, pegajosoNota, lmChatGoogleGemini, chainLlm. Contém 33 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: WordPress Contact Form (CF7) Responses and Classification. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

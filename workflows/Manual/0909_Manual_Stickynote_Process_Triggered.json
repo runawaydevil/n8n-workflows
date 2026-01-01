@@ -193,7 +193,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Html2Pdf Workflow. This workflow integrates 5 different services: stickyNote, code, PdfToPng, manualTrigger, html2Pdf. It contains 9 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Fluxo de trabalho Html2Pdf. Este fluxo de trabalho integra 5 serviços diferentes: pegajosoNota, código, PdfToPng, manualTrigger, html2Pdf. Contém 9 nós e segue as melhores práticas para lidar com erros e segurança.",
   "tags": [
     "automation",
     "n8n",

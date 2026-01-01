@@ -1,6 +1,6 @@
 {
   "id": "79",
-  "name": "Get the price of BTC in EUR and send an SMS when the price is larger than EUR 9000",
+  "name": "Obter o preço da BTC em EUR e enviar um SMS quando o preço é maior que 9000 EUR",
   "nodes": [
     {
       "name": "Cron",
@@ -125,7 +125,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Get the price of BTC in EUR and send an SMS when the price is larger than EUR 9000. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Pegue o preço da BTC em EUR e envie um SMS quando o preço for maior que 9000. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-14bc7224",
     "versionId": "1.0.0",

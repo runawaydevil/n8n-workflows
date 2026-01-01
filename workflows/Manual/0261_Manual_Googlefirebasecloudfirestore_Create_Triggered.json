@@ -1,6 +1,6 @@
 {
   "id": "179",
-  "name": "Create, update, and get a document in Google Cloud Firestore",
+  "name": "Crie, atualize e consiga um documento no Google Cloud Firestore",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -158,7 +158,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Create, update, and get a document in Google Cloud Firestore. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: criar, atualizar e obter um documento no Google Cloud Firestore. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-b6dec3c8",
     "versionId": "1.0.0",

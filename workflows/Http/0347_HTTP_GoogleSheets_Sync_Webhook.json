@@ -1,6 +1,6 @@
 {
   "id": "1",
-  "name": "Dialpad to Syncro",
+  "name": "Dialpad para Syncro",
   "nodes": [
     {
       "name": "GetCustomer",
@@ -548,5 +548,5 @@
     "excellent",
     "optimized"
   ],
-  "description": "Production-ready workflow: Dialpad to Syncro. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
+  "description": "Fluxo de trabalho pronto para produção: Dialpad para Syncro. Este fluxo de trabalho foi otimizado para uso de produção com manipulação de erros abrangente, segurança e documentação."
 }

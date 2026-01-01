@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Post new Google Calendar events to Telegram",
+  "name": "Postar novos eventos do calendário do Google para o Telegram",
   "tags": [
     "automation",
     "n8n",
@@ -161,6 +161,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Post new Google Calendar events to Telegram. This workflow integrates 4 different services: stickyNote, googleCalendarTrigger, telegram, stopAndError. It contains 6 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Publicar novos eventos do Google Calendar para o Telegram. Este fluxo de trabalho integra 4 serviços diferentes: Calendário Trigger, telegrama, pare Error. Ele contém 6 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Post new Google Calendar events to Telegram. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

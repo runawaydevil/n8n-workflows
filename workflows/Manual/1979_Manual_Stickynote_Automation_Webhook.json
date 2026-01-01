@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Extract & Summarize Wikipedia Data with Bright Data and Gemini AI",
+  "name": "Extrair e resumir Dados da Wikipédia com Bright Data e Gemini AI",
   "tags": [
     "automation",
     "n8n",
@@ -461,6 +461,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Extract & Summarize Wikipedia Data with Bright Data and Gemini AI. This workflow integrates 8 different services: stickyNote, httpRequest, lmChatGoogleGemini, chainLlm, set. It contains 18 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Extrair e resumir dados da Wikipédia com dados brilhantes e IA Gemini. Este fluxo de trabalho integra 8 serviços diferentes: pegajosoNota, httpRequest, lmChatGoogleGemini, chainLlm, set. Contém 18 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Extract & Summarize Wikipedia Data with Bright Data and Gemini AI. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

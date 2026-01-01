@@ -1,6 +1,6 @@
 {
   "id": "133",
-  "name": "Receive updates for specified tasks in Flow",
+  "name": "Receba atualizações para tarefas especificadas em Flow",
   "nodes": [
     {
       "name": "Flow Trigger",
@@ -49,7 +49,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Receive updates for specified tasks in Flow. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Receba atualizações para tarefas especificadas em Flow. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-130e7c61",
     "versionId": "1.0.0",

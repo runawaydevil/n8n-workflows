@@ -1,6 +1,6 @@
 {
   "id": "48",
-  "name": "Workflow management",
+  "name": "Gestão do fluxo de trabalho",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -512,5 +512,5 @@
     "excellent",
     "optimized"
   ],
-  "description": "Production-ready workflow: Workflow management. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
+  "description": "Fluxo de trabalho pronto para produção: Gestão de fluxo de trabalho. Este fluxo de trabalho foi otimizado para uso de produção com manipulação de erros abrangente, segurança e documentação."
 }

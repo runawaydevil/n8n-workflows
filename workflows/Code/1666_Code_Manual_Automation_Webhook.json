@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Spot Workplace Discrimination Patterns with AI",
+  "name": "Padrões de discriminação no local de trabalho com IA",
   "tags": [
     "automation",
     "n8n",
@@ -1928,6 +1928,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Spot Workplace Discrimination Patterns with AI. This workflow integrates 12 different services: stickyNote, httpRequest, code, chainLlm, merge. It contains 49 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Padrões de discriminação no local de trabalho com IA. Este fluxo de trabalho integra 12 serviços diferentes: pegajosoNota, httpRequest, código, chainLlm, mesclar. Ele contém 49 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Spot Workplace Discrimination Patterns with AI. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

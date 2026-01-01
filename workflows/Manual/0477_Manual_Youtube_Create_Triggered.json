@@ -218,7 +218,7 @@
   ],
   "pinData": {},
   "connections": {},
-  "name": "Set Workflow",
+  "name": "Definir fluxo de trabalho",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -231,7 +231,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Set Workflow. This workflow integrates 5 different services: stickyNote, youTube, set, manualTrigger, if. It contains 9 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Preparar fluxo de trabalho. Este fluxo de trabalho integra 5 serviços diferentes: pegajosoNota, youTube, definido, manualTrigger, se. Contém 9 nós e segue as melhores práticas para lidar com erros e segurança.",
   "meta": {
     "instanceId": "workflow-179d3b5a",
     "versionId": "1.0.0",

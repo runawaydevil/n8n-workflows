@@ -1,6 +1,6 @@
 {
   "id": "7",
-  "name": "Publish post to a publication",
+  "name": "Publicar post para uma publicação",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -65,7 +65,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Publish post to a publication. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Publicar uma publicação. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-923ee010",
     "versionId": "1.0.0",

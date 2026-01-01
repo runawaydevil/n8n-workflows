@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Image to license plate number",
+  "name": "Imagem para o número da placa",
   "tags": [
     "automation",
     "n8n",
@@ -176,6 +176,6 @@
   },
   "versionId": "5b9c53b9-3998-4676-999d-1ba117bf6695",
   "connections": {},
-  "description": "Automated workflow: Image to license plate number. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Imagem para o número da placa. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "notes": "Excellent quality workflow: Image to license plate number. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

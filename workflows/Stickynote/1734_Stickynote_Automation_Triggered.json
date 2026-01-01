@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Use any LLM-Model via OpenRouter",
+  "name": "Use qualquer modelo LLM via OpenRouter",
   "tags": [
     "automation",
     "n8n",
@@ -227,6 +227,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Use any LLM-Model via OpenRouter. This workflow integrates 7 different services: stickyNote, agent, set, stopAndError, lmChatOpenAi. It contains 9 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Use qualquer modelo LLM via OpenRouter. Este fluxo de trabalho integra 7 serviços diferentes: pegajoso Nota, agente, conjunto, paradaErro, lmChatOpen Ai. Contém 9 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Use any LLM-Model via OpenRouter. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

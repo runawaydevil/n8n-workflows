@@ -1028,7 +1028,7 @@
       ]
     }
   },
-  "name": "Manualtrigger Workflow",
+  "name": "Fluxo de trabalho manual",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -1041,7 +1041,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Manualtrigger Workflow. This workflow integrates 18 different services: filter, httpRequest, stickyNote, vectorStoreQdrant, textSplitterRecursiveCharacterTextSplitter. It contains 45 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Fluxo de trabalho manual. Este fluxo de trabalho integra 18 serviços diferentes: filtro, httpRequest, pegajosoNota, vetorStoreQdrant, textSplitterRecursivoCharacterTextSplitter. Contém 45 nós e segue as melhores práticas para lidar com erros e segurança.",
   "tags": [
     "automation",
     "n8n",

@@ -684,7 +684,7 @@
       ]
     }
   },
-  "name": "If Workflow",
+  "name": "Se o fluxo de trabalho",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -697,7 +697,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: If Workflow. This workflow integrates 16 different services: stickyNote, httpRequest, code, scheduleTrigger, agent. It contains 26 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Se o fluxo de trabalho. Este fluxo de trabalho integra 16 serviços diferentes: pegajosoNota, httpRequest, código, agendaTrigger, agente. Contém 26 nós e segue as melhores práticas para lidar com erros e segurança.",
   "tags": [
     "automation",
     "n8n",

@@ -1,6 +1,6 @@
 {
   "id": "103",
-  "name": "Create a new customer in Chargebee",
+  "name": "Crie um novo cliente em Chargebee",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -64,7 +64,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: Create a new customer in Chargebee. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Crie um novo cliente em Chargebee. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-87f79e62",
     "versionId": "1.0.0",

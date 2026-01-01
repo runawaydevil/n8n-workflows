@@ -2428,7 +2428,7 @@
       ]
     }
   },
-  "name": "Outputparserstructured Workflow",
+  "name": "Fluxo de trabalho estruturado de Outputparser",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,
@@ -2441,7 +2441,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Outputparserstructured Workflow. This workflow integrates 24 different services: stickyNote, merge, switch, lmChatOpenAi, executeWorkflow. It contains 93 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Fluxo de trabalho estruturado. Este fluxo de trabalho integra 24 serviços diferentes: pegajoso Nota, mescla, interruptor, lmChatOpenAi, executar fluxo de trabalho. Contém 93 nós e segue as melhores práticas para lidar com erros e segurança.",
   "tags": [
     "automation",
     "n8n",

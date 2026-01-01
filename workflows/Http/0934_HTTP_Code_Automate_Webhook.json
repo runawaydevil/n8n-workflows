@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Automated PDF to HTML Conversion",
+  "name": "Conversão automática de PDF para HTML",
   "tags": [
     "automation",
     "n8n",
@@ -352,6 +352,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Automated PDF to HTML Conversion. This workflow integrates 7 different services: stickyNote, httpRequest, googleDriveTrigger, code, googleDrive. It contains 11 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Conversão automática de PDF para HTML. Este fluxo de trabalho integra 7 serviços diferentes: pegajosoNota, httpRequest, googleDriveTrigger, código, google Dirija. Ele contém 11 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Automated PDF to HTML Conversion. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

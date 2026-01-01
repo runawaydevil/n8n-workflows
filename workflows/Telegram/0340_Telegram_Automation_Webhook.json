@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Blockchain DEX Screener Insights Agent",
+  "name": "Blockchain DEX Agente de Insights",
   "tags": [
     "automation",
     "n8n",
@@ -960,6 +960,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Blockchain DEX Screener Insights Agent. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Blockchain DEX Screener Insights Agente. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "notes": "Excellent quality workflow: Blockchain DEX Screener Insights Agent. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

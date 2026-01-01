@@ -1,6 +1,6 @@
 {
   "id": 88,
-  "name": "Check for valid Hubspot contact email",
+  "name": "Procure por um e-mail de contato válido do Hubspot",
   "nodes": [
     {
       "name": "When contact created",
@@ -175,5 +175,5 @@
     "excellent",
     "optimized"
   ],
-  "description": "Production-ready workflow: Check for valid Hubspot contact email. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
+  "description": "Fluxo de trabalho pronto para produção: Verifique se há um e-mail de contato válido do Hubspot. Este fluxo de trabalho foi otimizado para uso de produção com manipulação de erros abrangente, segurança e documentação."
 }

@@ -109,7 +109,7 @@
   ],
   "connections": {},
   "name": "Awstextract Workflow",
-  "description": "Automated workflow: Awstextract Workflow. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Awstextract Workflow. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "settings": {
     "executionOrder": "v1",
     "saveManualExecutions": true,

@@ -902,7 +902,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Googlesheets Workflow. This workflow integrates 11 different services: filter, stickyNote, code, scheduleTrigger, set. It contains 34 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Googlesheets Workflow. Este fluxo de trabalho integra 11 serviços diferentes: filtro, notas pegajosas, código, programação Trigger, pronto. Contém 34 nós e segue as melhores práticas para lidar com erros e segurança.",
   "tags": [
     "automation",
     "n8n",

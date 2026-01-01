@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Extract & Summarize Indeed Company Info with Bright Data and Google Gemini",
+  "name": "Extrair e resumir Informações da empresa com dados brilhantes e Google Gemini",
   "tags": [
     "automation",
     "n8n",
@@ -673,6 +673,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Extract & Summarize Indeed Company Info with Bright Data and Google Gemini. This workflow integrates 11 different services: stickyNote, httpRequest, markdown, toolHttpRequest, lmChatGoogleGemini. It contains 26 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Extrair e resumir informações da empresa com dados brilhantes e Google Gemini. Este fluxo de trabalho integra 11 serviços diferentes: pegajosoNota, httpRequest, markdown, ferramenta HttpRequest, ImChatGoogleGemini. Contém 26 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Extract & Summarize Indeed Company Info with Bright Data and Google Gemini. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "WooCommerce AI Chatbot Workflow for Post-Sales Support",
+  "name": "WooCommerce AI Chatbot Workflow para suporte pós-venda",
   "tags": [
     "automation",
     "n8n",
@@ -1005,6 +1005,6 @@
       ]
     }
   },
-  "description": "Automated workflow: WooCommerce AI Chatbot Workflow for Post-Sales Support. This workflow integrates 20 different services: stickyNote, vectorStoreQdrant, lmChatOpenAi, chatTrigger, telegramTool. It contains 44 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: WooCommerce AI Chatbot Workflow para suporte pós-venda. Este fluxo de trabalho integra 20 serviços diferentes: pegajosoNota, vetorStoreQdrant, lmChatOpenAi, chatTrigger, telegrama Ferramenta. Contém 44 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: WooCommerce AI Chatbot Workflow for Post-Sales Support. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

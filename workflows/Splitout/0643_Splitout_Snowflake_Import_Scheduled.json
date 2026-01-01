@@ -11,7 +11,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Import Productboard Notes, Companies and Features into Snowflake",
+  "name": "Importar notas, empresas e recursos para Snowflake",
   "tags": [
     "automation",
     "n8n",
@@ -1198,6 +1198,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Import Productboard Notes, Companies and Features into Snowflake. This workflow integrates 9 different services: stickyNote, httpRequest, scheduleTrigger, splitOut, set. It contains 42 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: importar notas, empresas e recursos para Snowflake. Este fluxo de trabalho integra 9 serviços diferentes: pegajosoNota, httpRequest, agendaTrigger, splitOut, set. Contém 42 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Import Productboard Notes, Companies and Features into Snowflake. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

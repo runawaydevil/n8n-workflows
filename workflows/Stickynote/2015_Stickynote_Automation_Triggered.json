@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Discord MCP Chat Agent",
+  "name": "Discórdia MCP Agente Chat",
   "tags": [
     "automation",
     "n8n",
@@ -191,6 +191,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Discord MCP Chat Agent. This workflow integrates 6 different services: stickyNote, agent, mcpClientTool, stopAndError, lmChatOpenAi. It contains 8 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Discórdia MCP Agente Chat. Este fluxo de trabalho integra 6 serviços diferentes: pegajosoNota, agente, McpClientTool, paradaError, lmChatOpenAi. Ele contém 8 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Discord MCP Chat Agent. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

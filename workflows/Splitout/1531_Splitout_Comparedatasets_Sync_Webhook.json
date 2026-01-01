@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Entra User to Zammad User Sync",
+  "name": "Usuário da entrada para o Zammed User Sync",
   "tags": [
     "automation",
     "n8n",
@@ -644,6 +644,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Entra User to Zammad User Sync. This workflow integrates 10 different services: stickyNote, httpRequest, splitOut, merge, set. It contains 21 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Usuário da entrada para Zammed User Sync. Este fluxo de trabalho integra 10 serviços diferentes: pegajosoNota, httpRequest, splitOut, merge, set. Contém 21 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Entra User to Zammad User Sync. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

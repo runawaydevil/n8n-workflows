@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Query List of Sign-in IPs",
+  "name": "Lista de IPs de entrada",
   "tags": [
     "automation",
     "n8n",
@@ -647,6 +647,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Query List of Sign-in IPs. This workflow integrates 9 different services: convertToFile, stickyNote, httpRequest, formTrigger, merge. It contains 23 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Lista de IPs de entrada. Este fluxo de trabalho integra 9 serviços diferentes: converter ToFile, pegajosoNote, httpRequest, formTrigger, merge. Contém 23 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Query List of Sign-in IPs. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

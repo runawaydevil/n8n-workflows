@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Search LinkedIn companies, Score with AI and add them to Google Sheet CRM",
+  "name": "Busca ligada Nas empresas, pontuação com IA e adicioná-los ao Google Sheet CRM",
   "tags": [
     "automation",
     "n8n",
@@ -796,6 +796,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Search LinkedIn companies, Score with AI and add them to Google Sheet CRM. This workflow integrates 11 different services: stickyNote, httpRequest, wait, splitOut, set. It contains 25 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Busca ligada Nas empresas, pontuação com IA e adicioná-los ao Google Sheet CRM. Este fluxo de trabalho integra 11 serviços diferentes: pegajosoNota, httpPedido, espera, separado, definido. Contém 25 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Search LinkedIn companies, Score with AI and add them to Google Sheet CRM. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

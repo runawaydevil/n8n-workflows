@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>404 - Page Not Found</title>
+    <title>404 - Página Não Encontrada</title>
     <style>
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
@@ -12,34 +12,48 @@
             align-items: center;
             min-height: 100vh;
             margin: 0;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: white;
+            background: #ffffff;
+            color: #000000;
         }
         .container {
             text-align: center;
             padding: 2rem;
         }
-        h1 { font-size: 6rem; margin: 0; }
-        p { font-size: 1.5rem; margin: 1rem 0; }
+        h1 { 
+            font-size: 6rem; 
+            margin: 0; 
+            color: #dc2626;
+            font-weight: 700;
+        }
+        p { 
+            font-size: 1.5rem; 
+            margin: 1rem 0; 
+            color: #4a5568;
+        }
         a {
             display: inline-block;
             margin-top: 2rem;
             padding: 1rem 2rem;
-            background: white;
-            color: #667eea;
+            background: #dc2626;
+            color: white;
             text-decoration: none;
-            border-radius: 5px;
-            transition: transform 0.2s;
+            border-radius: 8px;
+            transition: all 0.2s;
+            font-weight: 500;
         }
-        a:hover { transform: scale(1.05); }
+        a:hover { 
+            background: #b91c1c;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 6px rgba(220, 38, 38, 0.3);
+        }
     </style>
 </head>
 <body>
     <div class="container">
         <h1>404</h1>
-        <p>Page not found</p>
-        <p>The n8n workflows repository has been updated.</p>
-        <a href="/n8n-workflows/">Go to Homepage</a>
+        <p>Página não encontrada</p>
+        <p>O repositório de workflows n8n foi atualizado.</p>
+        <a href="/n8n-workflows/">Ir para Página Inicial</a>
     </div>
 </body>
 </html>

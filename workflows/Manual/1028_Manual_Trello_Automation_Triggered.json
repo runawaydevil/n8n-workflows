@@ -1,6 +1,6 @@
 {
   "id": "55",
-  "name": "CFP Selection 2",
+  "name": "Seleção 2 da PCP",
   "nodes": [
     {
       "name": "On clicking 'execute'",
@@ -131,7 +131,7 @@
     "retryDelay": 1000
   },
   "connections": {},
-  "description": "Automated workflow: CFP Selection 2. This workflow processes data and performs automated tasks.",
+  "description": "Fluxo de trabalho automatizado: Seleção de PCP 2. Este fluxo de trabalho processa dados e executa tarefas automatizadas.",
   "meta": {
     "instanceId": "workflow-d9f42178",
     "versionId": "1.0.0",

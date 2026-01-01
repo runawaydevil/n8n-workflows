@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "Generate SQL queries from schema only - AI-powered",
+  "name": "Gere consultas SQL apenas do esquema - AI-powered",
   "tags": [
     "automation",
     "n8n",
@@ -677,6 +677,6 @@
       ]
     }
   },
-  "description": "Automated workflow: Generate SQL queries from schema only - AI-powered. This workflow integrates 15 different services: convertToFile, stickyNote, mySql, agent, readWriteFile. It contains 34 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Gerar consultas SQL apenas de esquema - AI-powered. Este fluxo de trabalho integra 15 serviços diferentes: converter ToFile, pegajosoNote, mySql, agente, leia o arquivo. Contém 34 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: Generate SQL queries from schema only - AI-powered. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

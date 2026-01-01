@@ -12,7 +12,7 @@
     "priority": "high",
     "environment": "production"
   },
-  "name": "🔍🛠️Perplexity Researcher to HTML Web Page",
+  "name": "Pesquisador de Perplexidade para Página Web HTML",
   "tags": [
     "automation",
     "n8n",
@@ -1368,6 +1368,6 @@
       ]
     }
   },
-  "description": "Automated workflow: 🔍🛠️Perplexity Researcher to HTML Web Page. This workflow integrates 15 different services: webhook, stickyNote, httpRequest, telegram, agent. It contains 60 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Pesquisador de Perplexidade para Página Web HTML. Este fluxo de trabalho integra 15 serviços diferentes: webhook, pegajosoNota, httpRequest, telegrama, agente. Contém 60 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "notes": "Excellent quality workflow: 🔍🛠️Perplexity Researcher to HTML Web Page. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

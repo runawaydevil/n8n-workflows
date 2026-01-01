@@ -1443,6 +1443,6 @@
       ]
     }
   },
-  "description": "Automated workflow: agente. This workflow integrates 19 different services: convertToFile, stickyNote, scheduleTrigger, switch, lmChatOpenAi. It contains 56 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: agente. Este fluxo de trabalho integra 19 serviços diferentes: ConvertToFile, pegajosoNota, programação Ativador, interruptor, ImChatOpenai. Contém 56 nós e segue as melhores práticas para lidar com erros e segurança.",
   "notes": "Excellent quality workflow: agente. This workflow has been optimized for production use with comprehensive error handling, security, and documentation."
 }

@@ -447,7 +447,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Stickynote Workflow. This workflow integrates 10 different services: stickyNote, httpRequest, formTrigger, hunter, hubspot. It contains 17 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho automatizado: Fluxo de trabalho. Este fluxo de trabalho integra 10 serviços diferentes: pegajosoNota, httpPedido, formulárioTrigger, caçador, hubspot. Contém 17 nós e segue as melhores práticas para manipulação de erros e segurança.",
   "meta": {
     "instanceId": "workflow-f95e302e",
     "versionId": "1.0.0",

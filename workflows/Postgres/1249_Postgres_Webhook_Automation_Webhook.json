@@ -733,7 +733,7 @@
     "retryCount": 3,
     "retryDelay": 1000
   },
-  "description": "Automated workflow: Openai Workflow. This workflow integrates 10 different services: postgresTool, stickyNote, httpRequest, webhook, set. It contains 26 nodes and follows best practices for error handling and security.",
+  "description": "Fluxo de trabalho Openai. Este fluxo de trabalho integra 10 serviços diferentes: Ferramenta, nota pegajosa, pedido http, webhook, conjunto. Contém 26 nós e segue as melhores práticas para lidar com erros e segurança.",
   "meta": {
     "instanceId": "workflow-922cadcb",
     "versionId": "1.0.0",

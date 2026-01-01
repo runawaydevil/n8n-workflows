@@ -151,7 +151,7 @@ window.WorkflowUtils = {
             position: fixed;
             top: 20px;
             right: 20px;
-            background: ${type === 'success' ? '#48bb78' : type === 'error' ? '#f56565' : '#4299e1'};
+            background: ${type === 'success' ? '#10b981' : type === 'error' ? '#dc2626' : '#4a5568'};
             color: white;
             padding: 1rem 1.5rem;
             border-radius: 8px;
@@ -191,7 +191,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Add helpful hints
     const searchInput = document.getElementById('search-input');
     if (searchInput) {
-        searchInput.setAttribute('title', 'Press / to focus search, Escape to clear');
+        searchInput.setAttribute('title', 'Pressione / para focar na busca, Escape para limpar');
     }
 });
 
