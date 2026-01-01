@@ -42,11 +42,54 @@ class WorkflowSearch {
     async loadSearchIndex() {
         this.showLoading(true);
         try {
-            const response = await fetch('api/search-index.json');
-            if (!response.ok) {
-                throw new Error('Falha ao carregar índice de busca');
+            // Determine the correct API path based on current location
+            // For GitHub Pages with baseurl like /n8n-workflows/, we need to handle paths correctly
+            let apiPath = 'api/search-index.json';
+            
+            // Get base path from current location (handles GitHub Pages subdirectory)
+            const currentPath = window.location.pathname;
+            const basePath = currentPath.endsWith('/') ? currentPath : currentPath.substring(0, currentPath.lastIndexOf('/') + 1);
+            
+            // If we're in a subdirectory (like /n8n-workflows/), adjust the path
+            if (basePath && basePath !== '/') {
+                // Remove leading slash and ensure we have the correct relative path
+                apiPath = basePath + apiPath;
             }
+            
+            console.log('Loading search index from:', apiPath, '(current path:', currentPath, ')');
+            const response = await fetch(apiPath);
+            
+            if (!response.ok) {
+                console.error('Failed to load search index:', response.status, response.statusText);
+                // Try alternative paths
+                const alternatives = [
+                    './api/search-index.json',
+                    '/api/search-index.json',
+                    currentPath + 'api/search-index.json'
+                ];
+                
+                for (const altPath of alternatives) {
+                    try {
+                        console.log('Trying alternative path:', altPath);
+                        const altResponse = await fetch(altPath);
+                        if (altResponse.ok) {
+                            this.searchIndex = await altResponse.json();
+                            console.log('Alternative path worked:', altPath);
+                            return;
+                        }
+                    } catch (e) {
+                        console.log('Alternative path failed:', altPath, e);
+                    }
+                }
+                
+                throw new Error(`Falha ao carregar índice de busca (${response.status}: ${response.statusText})`);
+            }
+            
             this.searchIndex = await response.json();
+            console.log('Search index loaded successfully:', this.searchIndex.stats);
+        } catch (error) {
+            console.error('Error loading search index:', error);
+            this.showError(`Erro ao carregar workflows: ${error.message}. Por favor, verifique o console do navegador para mais detalhes.`);
         } finally {
             this.showLoading(false);
         }
