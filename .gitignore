@@ -124,11 +124,19 @@ scripts/translate_card_fields.py
 # Origin folder (original project copy)
 origin/
 
+# Unrelated projects
+medcards-ai/
+
+# Claude AI documentation (not needed in repo)
+CLAUDE*.md
+CLAUDE_ZH.md
+
 # Translation backups and progress (specific)
 workflows_backup_card_translation/
 translation_card_progress.json
 translation_card.log
 translation_names.log
 restore_backup.log
+translation*.log
 
 .cursor/

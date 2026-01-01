@@ -1,97 +1,51 @@
-# 🚀 Coleção de Workflows n8n
+# n8n Workflows Collection
 
-> 🌐 **Acesse o site online:** [https://runawaydevil.github.io/n8n-workflows/](https://runawaydevil.github.io/n8n-workflows/)
+Coleção de workflows de automação n8n traduzida para português brasileiro.
 
-<div align="center">
+**Site:** https://runawaydevil.github.io/n8n-workflows/
 
-![n8n Workflows](https://img.shields.io/badge/n8n-Workflows-orange?style=for-the-badge&logo=n8n)
-![Workflows](https://img.shields.io/badge/Workflows-2061+-blue?style=for-the-badge)
-![Integrations](https://img.shields.io/badge/Integrations-311+-green?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-purple?style=for-the-badge)
+[![n8n Workflows](https://img.shields.io/badge/n8n-Workflows-orange?style=flat-square&logo=n8n)](https://n8n.io)
+[![Workflows](https://img.shields.io/badge/Workflows-2061+-blue?style=flat-square)](https://github.com/runawaydevil/n8n-workflows)
+[![Integrations](https://img.shields.io/badge/Integrations-311+-green?style=flat-square)](https://github.com/runawaydevil/n8n-workflows)
+[![License](https://img.shields.io/badge/License-MIT-purple?style=flat-square)](LICENSE)
 
-### 🌟 A Coleção Definitiva de Workflows de Automação n8n
+## Sobre
 
-**Este é um fork traduzido do projeto original [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)**
+Este projeto é um fork traduzido do repositório original [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows).
 
-**[🔍 Navegar Online](#acesso-rápido)** • **[📚 Documentação](#documentação)** • **[🤝 Contribuindo](#contribuindo)** • **[📄 Licença](#licença)**
+**Principais características:**
+- Tradução completa para português brasileiro (interface, títulos e descrições)
+- Mantém todas as funcionalidades do projeto original
+- Atualizado com os últimos workflows do repositório original
 
-</div>
+**Créditos:** Baseado no trabalho de [@Zie619](https://github.com/Zie619). Considere dar uma estrela ao [repositório original](https://github.com/Zie619/n8n-workflows).
 
----
+## Estatísticas
 
-## ℹ️ Sobre Este Fork
+**Workflows:**
+- 2.061 workflows prontos para produção
+- 311 integrações únicas
+- 30.774 nós no total
+- 15 categorias organizadas
+- 100% taxa de sucesso de importação
 
-Este projeto é um **fork traduzido** do repositório original [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows). 
+**Performance:**
+- < 100ms tempo de resposta de busca
+- < 50MB uso de memória
+- 700x menor que v1
+- 10x tempos de carregamento mais rápidos
+- 40x menor uso de RAM
 
-**Principais diferenças:**
-- ✅ **Tradução completa para português brasileiro** - Interface, títulos e descrições dos workflows
-- ✅ **Mantém todas as funcionalidades** do projeto original
-- ✅ **Atualizado com os últimos workflows** do repositório original
-
-**Créditos ao projeto original:** Este fork é baseado no excelente trabalho de [@Zie619](https://github.com/Zie619). Por favor, considere dar uma estrela ao [repositório original](https://github.com/Zie619/n8n-workflows) também!
-
----
-
-## ✨ O Que Há de Novo
-
-### 🎉 Últimas Atualizações (Janeiro 2026)
-- **🇧🇷 Tradução Completa**: Interface e workflows traduzidos para português brasileiro
-- **🔒 Segurança Aprimorada**: Auditoria de segurança completa, todas as CVEs resolvidas
-- **🐳 Suporte Docker**: Builds multi-plataforma para linux/amd64 e linux/arm64
-- **📊 GitHub Pages**: Interface pesquisável ao vivo (configure sua URL do GitHub Pages)
-- **⚡ Performance**: Busca 100x mais rápida com integração SQLite FTS5
-- **🎨 UI Moderna**: Interface completamente redesenhada com modo escuro/claro
-
----
-
-## 🌐 Acesso Rápido
-
-### 🔥 Use Online (Sem Instalação)
-Visite **sua URL do GitHub Pages** (ex: `username.github.io/n8n-workflows`) para acesso instantâneo a:
-- 🔍 **Busca Inteligente** - Encontre workflows instantaneamente
-- 📂 **15+ Categorias** - Navegue por caso de uso
-- 📱 **Pronto para Mobile** - Funciona em qualquer dispositivo
-- ⬇️ **Downloads Diretos** - Obtenha JSONs dos workflows instantaneamente
-
----
-
-## 🚀 Funcionalidades
-
-<table>
-<tr>
-<td width="50%">
-
-### 📊 Por Números
-- **2.061** Workflows Prontos para Produção
-- **311** Integrações Únicas
-- **30.774** Total de Nós
-- **15** Categorias Organizadas
-- **100%** Taxa de Sucesso de Importação
-
-</td>
-<td width="50%">
-
-### ⚡ Performance
-- **< 100ms** Tempo de Resposta de Busca
-- **< 50MB** Uso de Memória
-- **700x** Menor Que v1
-- **10x** Tempos de Carregamento Mais Rápidos
-- **40x** Menor Uso de RAM
-
-</td>
-</tr>
-</table>
-
----
-
-## 💻 Instalação Local
+## Instalação
 
 ### Pré-requisitos
+
 - Python 3.9+
-- pip (gerenciador de pacotes Python)
+- pip
 - 100MB de espaço livre em disco
 
-### Início Rápido
+### Instalação Local
+
 ```bash
 # Clonar o repositório
 git clone https://github.com/runawaydevil/n8n-workflows.git
@@ -103,11 +57,11 @@ pip install -r requirements.txt
 # Iniciar o servidor
 python run.py
 
-# Abrir no navegador
-# http://localhost:8000/docs/
+# Acessar em http://localhost:8000/docs/
 ```
 
-### 🐳 Instalação Docker
+### Docker
+
 ```bash
 # Usando Docker Hub
 docker run -p 8000:8000 runawaydevil/n8n-workflows:latest
@@ -117,11 +71,9 @@ docker build -t n8n-workflows .
 docker run -p 8000:8000 n8n-workflows
 ```
 
----
+## API
 
-## 📚 Documentação
-
-### Endpoints da API
+### Endpoints
 
 | Endpoint | Método | Descrição |
 |----------|--------|-----------|
@@ -134,36 +86,29 @@ docker run -p 8000:8000 n8n-workflows
 | `/api/export` | GET | Exportar workflows |
 
 ### Funcionalidades de Busca
-- **Busca de texto completo** em nomes, descrições e nós
-- **Filtro por categoria** (Marketing, Vendas, DevOps, etc.)
-- **Filtro por complexidade** (Baixa, Média, Alta)
-- **Filtro por tipo de trigger** (Webhook, Agendado, Manual, etc.)
-- **Filtro por serviço** (311+ integrações)
 
----
+- Busca de texto completo em nomes, descrições e nós
+- Filtro por categoria (Marketing, Vendas, DevOps, etc.)
+- Filtro por complexidade (Baixa, Média, Alta)
+- Filtro por tipo de trigger (Webhook, Agendado, Manual, etc.)
+- Filtro por serviço (311+ integrações)
 
-## 🏗️ Arquitetura
+## Arquitetura
 
-```mermaid
-graph LR
-    A[Usuário] --> B[Interface Web]
-    B --> C[Servidor FastAPI]
-    C --> D[SQLite FTS5]
-    D --> E[Banco de Dados de Workflows]
-    C --> F[Arquivos Estáticos]
-    F --> G[JSONs dos Workflows]
+```
+Usuário -> Interface Web -> Servidor FastAPI -> SQLite FTS5 -> Banco de Dados
+                                              -> Arquivos Estáticos -> JSONs dos Workflows
 ```
 
 ### Stack Tecnológico
-- **Backend**: Python, FastAPI, SQLite com FTS5
-- **Frontend**: Vanilla JS, Tailwind CSS
-- **Banco de Dados**: SQLite com Busca de Texto Completo
-- **Deploy**: Docker, GitHub Actions, GitHub Pages
-- **Segurança**: Escaneamento Trivy, proteção CORS, validação de entrada
 
----
+- **Backend:** Python, FastAPI, SQLite com FTS5
+- **Frontend:** Vanilla JS, CSS
+- **Banco de Dados:** SQLite com Busca de Texto Completo
+- **Deploy:** Docker, GitHub Actions, GitHub Pages
+- **Segurança:** Escaneamento Trivy, proteção CORS, validação de entrada
 
-## 📂 Estrutura do Repositório
+## Estrutura do Repositório
 
 ```
 n8n-workflows/
@@ -178,57 +123,52 @@ n8n-workflows/
 └── requirements.txt    # Dependências Python
 ```
 
----
+## Contribuindo
 
-## 🤝 Contribuindo
+Contribuições são bem-vindas. Formas de contribuir:
 
-Adoramos contribuições! Aqui está como você pode ajudar:
-
-### Formas de Contribuir
-- 🐛 **Reportar bugs** via [Issues](https://github.com/runawaydevil/n8n-workflows/issues)
-- 💡 **Sugerir funcionalidades** em [Discussions](https://github.com/runawaydevil/n8n-workflows/discussions)
-- 📝 **Melhorar documentação**
-- 🔧 **Enviar correções de workflows**
-- ⭐ **Dar estrela ao repositório**
+- Reportar bugs via [Issues](https://github.com/runawaydevil/n8n-workflows/issues)
+- Sugerir funcionalidades em [Discussions](https://github.com/runawaydevil/n8n-workflows/discussions)
+- Melhorar documentação
+- Enviar correções de workflows
 
 ### Configuração de Desenvolvimento
+
 ```bash
 # Fazer fork e clonar
 git clone https://github.com/runawaydevil/n8n-workflows.git
 
 # Criar branch
-git checkout -b feature/funcionalidade-incrivel
+git checkout -b feature/nova-funcionalidade
 
 # Fazer alterações e testar
 python run.py --dev
 
 # Commit e push
 git add .
-git commit -m "feat: adicionar funcionalidade incrível"
-git push origin feature/funcionalidade-incrivel
+git commit -m "feat: adicionar nova funcionalidade"
+git push origin feature/nova-funcionalidade
 
-# Abrir PR
+# Abrir Pull Request
 ```
 
----
-
-## 🔒 Segurança
+## Segurança
 
 ### Funcionalidades de Segurança
-- ✅ **Proteção contra path traversal**
-- ✅ **Validação e sanitização de entrada**
-- ✅ **Proteção CORS**
-- ✅ **Limitação de taxa**
-- ✅ **Hardening de segurança Docker**
-- ✅ **Usuário de container não-root**
-- ✅ **Escaneamento regular de segurança**
+
+- Proteção contra path traversal
+- Validação e sanitização de entrada
+- Proteção CORS
+- Limitação de taxa (rate limiting)
+- Hardening de segurança Docker
+- Usuário de container não-root
+- Escaneamento regular de segurança
 
 ### Reportar Problemas de Segurança
-Por favor, reporte vulnerabilidades de segurança aos mantenedores via [Security Advisory](https://github.com/runawaydevil/n8n-workflows/security/advisories/new).
 
----
+Reporte vulnerabilidades de segurança aos mantenedores via [Security Advisory](https://github.com/runawaydevil/n8n-workflows/security/advisories/new).
 
-## 📄 Licença
+## Licença
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
@@ -239,56 +179,30 @@ Copyright (c) 2025 RunawayDevil
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction...
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 ```
 
----
+## Agradecimentos
 
-## 💖 Suporte
-
-Se você acha este projeto útil, por favor considere:
-
-<div align="center">
-
-[![Star no GitHub](https://img.shields.io/badge/Star%20no%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/runawaydevil/n8n-workflows)
-[![Fork no GitHub](https://img.shields.io/badge/Fork%20no%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/runawaydevil/n8n-workflows/fork)
-
-</div>
-
----
-
-## 📊 Estatísticas e Badges
-
-<div align="center">
-
-![GitHub stars](https://img.shields.io/github/stars/runawaydevil/n8n-workflows?style=social)
-![GitHub forks](https://img.shields.io/github/forks/runawaydevil/n8n-workflows?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/runawaydevil/n8n-workflows?style=social)
-![GitHub issues](https://img.shields.io/github/issues/runawaydevil/n8n-workflows)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/runawaydevil/n8n-workflows)
-![GitHub last commit](https://img.shields.io/github/last-commit/runawaydevil/n8n-workflows)
-![GitHub repo size](https://img.shields.io/github/repo-size/runawaydevil/n8n-workflows)
-
-</div>
-
----
-
-## 🙏 Agradecimentos
-
-- **n8n** - Por criar uma plataforma de automação incrível
+- **n8n** - Plataforma de automação
 - **[@Zie619](https://github.com/Zie619)** - Criador do projeto original [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)
 - **Contribuidores** - Todos que ajudaram a melhorar esta coleção
 - **Comunidade** - Por feedback e suporte
-- **Você** - Por usar e apoiar este projeto!
 
 ---
 
-<div align="center">
-
-### ⭐ Dê uma estrela no GitHub — isso nos motiva muito!
-
-Feito com ❤️ por [RunawayDevil](https://github.com/runawaydevil) e [contribuidores](https://github.com/runawaydevil/n8n-workflows/graphs/contributors)
-
-**Fork do projeto original:** [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)
-
-</div>
+Fork do projeto original: [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)
