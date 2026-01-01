@@ -70,7 +70,36 @@ jobs:
             echo "ERROR: search-index.json not found!"
             exit 1
           fi
-          echo "✅ All files generated successfully"
+          if [ ! -f "docs/api/stats.json" ]; then
+            echo "ERROR: stats.json not found!"
+            exit 1
+          fi
+          echo "✅ All API files generated successfully"
+
+      - name: Verify docs structure
+        run: |
+          echo "Verifying docs directory structure..."
+          # Check required files
+          required_files=(
+            "docs/index.html"
+            "docs/.nojekyll"
+            "docs/css/styles.css"
+            "docs/js/search.js"
+            "docs/js/app.js"
+            "docs/api/search-index.json"
+            "docs/api/stats.json"
+          )
+          for file in "${required_files[@]}"; do
+            if [ ! -f "$file" ]; then
+              echo "ERROR: Required file not found: $file"
+              exit 1
+            fi
+          done
+          echo "✅ All required files exist"
+          
+          # List all files that will be uploaded
+          echo "Files to be uploaded:"
+          find docs -type f | sort
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
